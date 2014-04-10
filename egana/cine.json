@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "300: El Nacimiento de un Imperio",
+        "texto": "<p>En este nuevo capítulo de la saga épica la batalla es en el mar,en la que el general griego Themistokles intenta unir Grecia al liderar el ataque que cambiará el curso de la guerra.   </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/300_afiche.jpg"
+    },
+    {
+        "titulo": "Need for Speed",
+        "texto": "<p>Condenado por un crimen que no había cometido, Tobey sale de la cárcel para ajustar cuentas con el responsable de su encarcelamiento.   </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/need-for_afiche.jpg"
+    },
+    {
+        "titulo": "Mr Peabody & Sherman",
+        "texto": "<p>El Sr. Peabody es un perro inventor, un codicioso científico, ha ganado dos veces una medalla olímpica y, lo más importante, es todo un genio.  </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/peabody_sherman_afiche.jpg"
+    },
+    {
+        "titulo": " Brillantes",
+        "texto": "<p>Rubén acaba de perder su trabajo y a su novia es por esto que viaja a Estados Unidos, a la casa de su viejo amigo Víctor.  </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/brillantes_afiche.jpg"
+    },
+    {
+        "titulo": "Robocop",
+        "texto": "<p>En RoboCop, el año es 2028 y el conglomerado multinacional OmniCorp está en el centro de la tecnología robótica.   </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/robocop_afiche.jpg"
+    },
+    {
+        "titulo": "La Gran Aventura Lego",
+        "texto": "<p>Emmet es una minifigura lego promedio, completamente ordinaria, que sigue todas las reglas, quien es erróneamente identificado como quien salvará el mundo.  </p>",
+        "horario": "null",
+        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/lego.afichejpg.jpg"
+    }
+]

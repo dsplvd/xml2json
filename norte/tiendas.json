@@ -1,0 +1,4258 @@
+[
+    {
+        "nombre": "100% Fútbol",
+        "rubro": [
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "Adidas",
+            "Nike",
+            "Brooks",
+            "Reebok",
+            "North Stars",
+            "Zapatillas",
+            "Calcetines",
+            "Balones",
+            "Bolsos",
+            "Gorros"
+        ],
+        "nodo": "132",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/100Futbol.jpg",
+        "piso": "2",
+        "geo": "P 2302 2306",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "7veinte",
+        "rubro": [
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "Burton",
+            "dakine",
+            "anon",
+            "gravis",
+            "lifesytle",
+            "surf",
+            "skate",
+            "snowboard"
+        ],
+        "nodo": "182",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/7viente.jpg",
+        "piso": "2",
+        "geo": "P2329 - 2333 ",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "AL FUEGO",
+        "rubro": [
+            "Restaurantes"
+        ],
+        "productos": [
+            "Restaurante",
+            "terrazas"
+        ],
+        "nodo": "10",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "piso": "1",
+        "geo": "TE 100 ",
+        "area": "Las Terrazas"
+    },
+    {
+        "nombre": "Adidas",
+        "rubro": [
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "Solo productos Adidas",
+            "Bolsos",
+            "Buzos",
+            "Polerones",
+            "Zapatillas",
+            "Anteojos de Sol",
+            "Jockey"
+        ],
+        "nodo": "2",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Adidas.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Afex Casa de Cambio",
+        "rubro": [
+            "Bancos",
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Casa de Cambio"
+        ],
+        "nodo": "3",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Afex.jpg",
+        "piso": "1",
+        "geo": "B-9b",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Alfombras DIB",
+        "rubro": [
+            "Hogar y Regalos",
+            "Muebles"
+        ],
+        "productos": [
+            "Alfombras"
+        ],
+        "nodo": "221",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/alfombras dib.jpg",
+        "piso": "2",
+        "geo": "2021",
+        "area": "Plaza Paris"
+    },
+    {
+        "nombre": "Alfombras Dib",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "alfombra"
+        ],
+        "nodo": "2",
+        "logo": "http://www.mallplaza.cl/images/stories/dib.jpg",
+        "piso": "2",
+        "geo": "2021",
+        "area": "null"
+    },
+    {
+        "nombre": "All Nutrition",
+        "rubro": [
+            "Alimentos y Bebidas"
+        ],
+        "productos": [
+            "Pharmaton",
+            "Nutrapharm",
+            "Sport Lab",
+            "Vitamine Life",
+            "Sun Vit",
+            "Quemadores de grasa",
+            "Diureticos",
+            "Batidos",
+            "Proteinas",
+            "Ganadores de peso"
+        ],
+        "nodo": "4",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/AllNutrition.jpg",
+        "piso": "1",
+        "geo": "B - 6a",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Americanino",
+        "rubro": [
+            "Accesorios Juveniles",
+            "Vestuario Juvenil"
+        ],
+        "productos": [
+            "Solo productos Americanino",
+            "Jeans",
+            "poleras",
+            "Polerones",
+            "Perfumes",
+            "Gorros"
+        ],
+        "nodo": "5",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg",
+        "piso": "1",
+        "geo": "P 1288 1288",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Ansonia",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Solo productos Ansonia",
+            "Botas",
+            "Botines",
+            "Calzado de fiesta",
+            "Calzado formal",
+            "Plantillas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ansonia.jpg",
+        "piso": "2",
+        "geo": "2110",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Ash New York",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "Solo productos Ash",
+            "Jeans",
+            "Pantalones de Vestir",
+            "Sweater",
+            "Poleras",
+            "Blusas"
+        ],
+        "nodo": "7",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ashnewyork.jpg",
+        "piso": "1",
+        "geo": "P 1300 1305",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "BIANCOLATTE",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "heladería",
+            "helados",
+            "cafe"
+        ],
+        "nodo": "155",
+        "logo": "http://www.mallplaza.cl/images/stories/logo-biancolatte.png",
+        "piso": "2",
+        "geo": "2230- 2230b- 2234",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "BNY'S",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "bunnys",
+            "bny",
+            "vestuario",
+            "mujer",
+            "moda"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/bnys.jpg",
+        "piso": "2",
+        "geo": "1140",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Baby Infanti",
+        "rubro": [
+            "Accesorios Infantiles"
+        ],
+        "productos": [
+            "Infanti",
+            "Britax",
+            "Chicco",
+            "Avent",
+            "Safetry",
+            "Coches",
+            "sillas de comer",
+            "ropa infantil",
+            "mesedoras",
+            "correpasillos"
+        ],
+        "nodo": "11",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/babyinfanti.jpg",
+        "piso": "2",
+        "geo": "2130-2138",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Bamers",
+        "rubro": [
+            "Calzado Deportivo"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bamers.jpg",
+        "piso": "1",
+        "geo": "1137 / 41",
+        "area": "Plaza Paris"
+    },
+    {
+        "nombre": "Banana",
+        "rubro": [
+            "Accesorios Infantiles",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Cunas",
+            "roperos",
+            "comodas",
+            "ropas de cama",
+            "ropa de bebés"
+        ],
+        "nodo": "12",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/banana.jpg",
+        "piso": "2",
+        "geo": "p 2270 2274",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Banco BBVA",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "Banco"
+        ],
+        "nodo": "13",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BBVA-logo.jpg",
+        "piso": "1",
+        "geo": "BP 196/200/04/08",
+        "area": "B. FINANCIERO"
+    },
+    {
+        "nombre": "Banco BCI",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "Banco"
+        ],
+        "nodo": "14",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BCI.jpg",
+        "piso": "2",
+        "geo": "2154",
+        "area": "Pasillo Ripley"
+    },
+    {
+        "nombre": "Banco Falabella",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "Banco"
+        ],
+        "nodo": "17",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BancoFalabella.jpg",
+        "piso": "1",
+        "geo": "1120 / 24",
+        "area": "Plaza Central"
+    },
+    {
+        "nombre": "Banco ITAU",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "Banco"
+        ],
+        "nodo": "18",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Itau.jpg",
+        "piso": "1",
+        "geo": "B. FINANCIERO",
+        "area": "B. FINANCIERO"
+    },
+    {
+        "nombre": "Banco Ripley",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "banco"
+        ],
+        "nodo": "1201",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/logo_ripley.gif",
+        "piso": "1",
+        "geo": "1201",
+        "area": "null"
+    },
+    {
+        "nombre": "Banco Santander",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "bancos",
+            "banco"
+        ],
+        "nodo": "124",
+        "logo": "http://www.mallplaza.cl/images/stories/santander.jpg",
+        "piso": "1",
+        "geo": "BP 116-120-124-128-132-134-136",
+        "area": "Bulevard Financiero"
+    },
+    {
+        "nombre": "Banco de Chile",
+        "rubro": [
+            "Bancos"
+        ],
+        "productos": [
+            "Banco"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bchile.jpg",
+        "piso": "1",
+        "geo": "BP 100",
+        "area": "B. FINANCIERO"
+    },
+    {
+        "nombre": "Bata",
+        "rubro": [
+            "Calzado Femenino",
+            "Calzado Infantil",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Skechers",
+            "Nike",
+            "Buble Gumers",
+            "Power",
+            "Zapatillas",
+            "Zapatos de Vestir",
+            "Carteras",
+            "Calcetines",
+            "Puma"
+        ],
+        "nodo": "22",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bata_gr.jpg",
+        "piso": "1",
+        "geo": "1064-72",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Battery Street",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Levis",
+            "Poleras",
+            "pantalon de vestir",
+            "cinturones",
+            "sweaters",
+            "chaquetas"
+        ],
+        "nodo": "23",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Battery street.jpg",
+        "piso": "2",
+        "geo": "2054",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Baum",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "farmacias"
+        ],
+        "nodo": "null",
+        "logo": "null",
+        "piso": "1",
+        "geo": "null",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Bellota",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Pantalones de vestir",
+            "cinturon",
+            "sweaters",
+            "chaquetas",
+            "camisas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bellota.jpg",
+        "piso": "1",
+        "geo": "1160",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Belsport",
+        "rubro": [
+            "Calzado Deportivo"
+        ],
+        "productos": [
+            "Fila",
+            "Puma",
+            "Adidas",
+            "NGX",
+            "Power",
+            "Balones",
+            "Bolsos",
+            "Buzos",
+            "Zapatillas",
+            "Poleras deportivas"
+        ],
+        "nodo": "25",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg",
+        "piso": "1",
+        "geo": "1041-45",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Biblioteca Viva",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Biblioteca Viva Norte",
+            "Cuentos",
+            "Enciclopedia",
+            "Diccionarios",
+            "Libros Entretenimiento",
+            "Literatura general",
+            "las terrazas"
+        ],
+        "nodo": "28",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bibliotecaviva.jpg",
+        "piso": "2",
+        "geo": "4",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Billabong",
+        "rubro": [
+            "Vestuario Juvenil"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Jeans",
+            "Mochilas",
+            "Poleras",
+            "Gorros",
+            "Cinturones"
+        ],
+        "nodo": "29",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Billabong.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Black and Blue",
+        "rubro": [
+            "Accesorios Infantiles",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Polerones",
+            "Poleras",
+            "Buzos",
+            "Jeans",
+            "Gorros"
+        ],
+        "nodo": "30",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Blackandblue.jpg",
+        "piso": "2",
+        "geo": "2033",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Block",
+        "rubro": [
+            "Calzado Juvenil"
+        ],
+        "productos": [
+            "Vans",
+            "Matrix",
+            "Lacoste Puma",
+            "Nike",
+            "Zapatillas",
+            "Billeteras",
+            "Accesorios de Eskate",
+            "Anteojos",
+            "Calcetines"
+        ],
+        "nodo": "31",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Block.jpg",
+        "piso": "2",
+        "geo": "2049-53",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Boumex",
+        "rubro": [
+            "Joyerías y Relojerías"
+        ],
+        "productos": [
+            "Marca propia",
+            "Aros",
+            "Coyar",
+            "Pulsera",
+            "Tobillera",
+            "Prendedor"
+        ],
+        "nodo": "32",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Boumex.jpg",
+        "piso": "1",
+        "geo": "1149",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Bravíssimo Local 1",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Coca-Cola",
+            "Andina",
+            "Nescafé",
+            "Café",
+            "Jugos",
+            "Patelerìa",
+            "Sandwicheria",
+            "Heladería"
+        ],
+        "nodo": "1006",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
+        "piso": "1",
+        "geo": "1006",
+        "area": "Pasillo1"
+    },
+    {
+        "nombre": "Bravíssimo Local 2",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "gelatería",
+            "helados",
+            "pasteles"
+        ],
+        "nodo": "1004",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
+        "piso": "1",
+        "geo": "1004",
+        "area": "null"
+    },
+    {
+        "nombre": "Bravíssimo Local 3",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "Gelatería",
+            "helados",
+            "pasteles",
+            "tortas"
+        ],
+        "nodo": "33",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
+        "piso": "2",
+        "geo": "2081 - 2085 - 2089",
+        "area": "Plaza central "
+    },
+    {
+        "nombre": "Bresler",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "COca-Cola y Bresler",
+            "Helados",
+            "bebidas",
+            "copas",
+            "café",
+            "jugos"
+        ],
+        "nodo": "208",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
+        "piso": "1",
+        "geo": "1184",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Bruno Rossi",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Dakota",
+            "Bruno Rossi",
+            "Botas",
+            "Botines",
+            "Zapato de vestir",
+            "Zapatos reina",
+            "Zapatos formal"
+        ],
+        "nodo": "34",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BrunoRossi.jpg",
+        "piso": "2",
+        "geo": "2145",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Bubble Gammers",
+        "rubro": [
+            "Calzado Infantil",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Nike",
+            "Skechers",
+            "Buble Gammers",
+            "Zapatillas niño",
+            "niñas",
+            "deportivas",
+            "primeros pasos"
+        ],
+        "nodo": "222",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BubbleGummers.jpg",
+        "piso": "1",
+        "geo": "1148",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Bufalo Beef",
+        "rubro": [
+            "Alimentos y Bebidas",
+            "Food Court"
+        ],
+        "productos": [
+            "Manufactura propia",
+            "Parrilladas",
+            "almuerzo",
+            "postres",
+            "bebidas",
+            "productos ligth"
+        ],
+        "nodo": "37",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BufaloBeef.jpg",
+        "piso": "2",
+        "geo": "2011A, 2011B 2013",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Buffet Express",
+        "rubro": [
+            "Alimentos y Bebidas",
+            "Food Court"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Parrilladas",
+            "almuerzo",
+            "postres",
+            "bebidas",
+            "productos ligth"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Buffetexpress.jpg",
+        "piso": "2",
+        "geo": "d -18",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Burger King",
+        "rubro": [
+            "Alimentos y Bebidas",
+            "Food Court"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Hambuerguesas",
+            "empanadas",
+            "Bebidas",
+            "Jugos",
+            "papas fritas"
+        ],
+        "nodo": "39",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/burger king.jpg",
+        "piso": "2",
+        "geo": "d 10",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "CMR Automotriz",
+        "rubro": [
+            "Servicios"
+        ],
+        "productos": [
+            "Créditos Automotrices"
+        ],
+        "nodo": "60",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cmr automotriz.jpg",
+        "piso": "0",
+        "geo": "null",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Caffarena",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Caffarena",
+            "Medias",
+            "calcetines",
+            "pantys",
+            "sosten",
+            "sleep"
+        ],
+        "nodo": "40",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Caffarena.jpg",
+        "piso": "2",
+        "geo": "2050-54",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Cannon",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Cannon",
+            "Cobertor",
+            "Plumon",
+            "Sábanas",
+            "Almohadas",
+            "Fundas"
+        ],
+        "nodo": "92",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cannon.jpg",
+        "piso": "2",
+        "geo": "2025 -y 2029",
+        "area": "null"
+    },
+    {
+        "nombre": "Capellini",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Capellini",
+            "Police",
+            "Zapatos",
+            "Chalas",
+            "Botas",
+            "Botines"
+        ],
+        "nodo": "43",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Capellini.jpg",
+        "piso": "2",
+        "geo": "2115-17",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Carteras Italianas",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "Fabricacion propia",
+            "Cartera",
+            "Bolso",
+            "Billetera",
+            "Monedero",
+            "Malerin"
+        ],
+        "nodo": "44",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/carterasitalianas_gr.jpg",
+        "piso": "2",
+        "geo": "2086",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Casa Ideas",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Casa Ideas",
+            "Decoracion",
+            "Loza",
+            "Cojines",
+            "Cortinas",
+            "Lampara"
+        ],
+        "nodo": "45",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casaideas.jpg",
+        "piso": "1",
+        "geo": "1144-1148-1152",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Casa Pichara",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Elgon",
+            "Davines",
+            "Oster",
+            "Estereo Color",
+            "Furelle",
+            "Tinturas",
+            "Mascara Capilar",
+            "Cepillo",
+            "Alisadoras de pelo",
+            "Lavapelo"
+        ],
+        "nodo": "46",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casapichara.jpg",
+        "piso": "1",
+        "geo": "B-15",
+        "area": "Bulevar Sodimac"
+    },
+    {
+        "nombre": "Casa Royal",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "Victory Nox",
+            "Energyzer",
+            "Masterg",
+            "Optical",
+            "Casa Royal",
+            "Pilas",
+            "Bateria",
+            "control remoto",
+            "antena",
+            "focos"
+        ],
+        "nodo": "47",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg",
+        "piso": "1",
+        "geo": "1009-13",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Castaño",
+        "rubro": [
+            "Alimentos y Bebidas"
+        ],
+        "productos": [
+            "Coca-cola",
+            "vital",
+            "nescafe",
+            "mckay",
+            "costa",
+            "pasteles",
+            "pan",
+            "empanas",
+            "café",
+            "fiambreria",
+            "jugos"
+        ],
+        "nodo": "48",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/castanos.jpg",
+        "piso": "1",
+        "geo": "P 1209",
+        "area": "Ampliación Exterior"
+    },
+    {
+        "nombre": "Cat",
+        "rubro": [
+            "Accesorios Juveniles",
+            "Calzado Juvenil"
+        ],
+        "productos": [
+            "Cat",
+            "Zapatos",
+            "Zapatillas",
+            "Polerones",
+            "Jeans",
+            "Relojes",
+            "Poleras"
+        ],
+        "nodo": "49",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CAT.jpg",
+        "piso": "1",
+        "geo": "P 1308 1312",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Cerrajería Fariña",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "Cerrajería Fariña",
+            "Copia de llaves",
+            "candados",
+            "llaveros",
+            "pilas",
+            "encendedores"
+        ],
+        "nodo": "258",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "piso": "0",
+        "geo": "BL-125",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Chevrolet",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Chevrolet",
+            "Spark",
+            "Aveo"
+        ],
+        "nodo": "51",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chevroletsalfa.jpg",
+        "piso": "0",
+        "geo": "AP 101",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Chileexpress",
+        "rubro": [
+            "Bancos",
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Chileexpress",
+            "Encomiendas",
+            "recibo y envio de dinero",
+            "corresponcia"
+        ],
+        "nodo": "52",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chilexpress.jpg",
+        "piso": "1",
+        "geo": "B 05b",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "ChinaWok",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "ChinaWok",
+            "wantan",
+            "chapsui",
+            "carne mongoliana",
+            "arrollado primaver",
+            "arroz chaufan"
+        ],
+        "nodo": "53",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chinawok.jpg",
+        "piso": "2",
+        "geo": "D6b",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Cinemark",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Cinemark",
+            "las terrazas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cinemark.jpg",
+        "piso": "2",
+        "geo": "6",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Claro",
+        "rubro": [
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Claro",
+            "Telefonía fija",
+            "cable",
+            "telefonia movil",
+            "internet",
+            "internet portatil"
+        ],
+        "nodo": "56",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ClaroComunidades.jpg",
+        "piso": "1",
+        "geo": "1012-17",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Claro (pasillo Líder)",
+        "rubro": [
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Claro",
+            "Telefonía fija",
+            "cable",
+            "telefonia movil",
+            "internet",
+            "internet portatil"
+        ],
+        "nodo": "57",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/claro.jpg",
+        "piso": "1",
+        "geo": "B-10a",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Cleaners",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Lavado de autos"
+        ],
+        "nodo": "58",
+        "logo": "null",
+        "piso": "0",
+        "geo": "n/c",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Clínica de la Ropa",
+        "rubro": [
+            "Reparadora de Calzado y Vestuario"
+        ],
+        "productos": [
+            "Clínica de la Ropa",
+            "basta",
+            "costura",
+            "bordado",
+            "ajuste de ropa",
+            "arreglo vestido de fiesta"
+        ],
+        "nodo": "59",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/clínica de ropa.jpg",
+        "piso": "0",
+        "geo": "B-10b",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Colloky",
+        "rubro": [
+            "Accesorios Infantiles",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Colloky",
+            "buzo",
+            "polera",
+            "zapatos",
+            "zapatillas",
+            "vestidos"
+        ],
+        "nodo": "61",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Colloky.jpg",
+        "piso": "1",
+        "geo": "1052",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Coppelia",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Coppelia",
+            "café variedades",
+            "pasteleria",
+            "sandwich",
+            "jugos",
+            "heladeria"
+        ],
+        "nodo": "62",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/coppelia.jpg",
+        "piso": "2",
+        "geo": "2017",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Correos Chile",
+        "rubro": [
+            "Bancos",
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Correos Chile",
+            "Encomiendas",
+            "recibo y envio de dinero",
+            "corresponcia",
+            "giro"
+        ],
+        "nodo": "64",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Correo.jpg",
+        "piso": "1",
+        "geo": "B6 B",
+        "area": "Pasillo Líder"
+    },
+    {
+        "nombre": "Costuritas",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Costuritas",
+            "Wody",
+            "Cutter",
+            "DMC",
+            "Sisne",
+            "Hawai",
+            "Aero"
+        ],
+        "nodo": "65",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/costuritas.jpg",
+        "piso": "1",
+        "geo": "B-11b",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Cotys",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Coty's",
+            "Camisa de dormir",
+            "sosten",
+            "calzon",
+            "camiseta",
+            "fajas"
+        ],
+        "nodo": "66",
+        "logo": "http://www.mallplaza.cl/images/stories/cotys_lingerie.jpg",
+        "piso": "1",
+        "geo": "1085",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "D'leite",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "D'leite",
+            "Helado",
+            "copas",
+            "bebidas",
+            "jugo",
+            "café"
+        ],
+        "nodo": "67",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Dleite.jpg",
+        "piso": "2",
+        "geo": "2001",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "DOT MIX",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Discoteque",
+            "Pub"
+        ],
+        "nodo": "273",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dot club.jpg",
+        "piso": "1",
+        "geo": "TE 100-01-02",
+        "area": "Las Terrazas"
+    },
+    {
+        "nombre": "Daily",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Daily",
+            "medias",
+            "camisetas y pantys"
+        ],
+        "nodo": "251",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Daily.jpg",
+        "piso": "2",
+        "geo": "P2278",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Dbs",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Opi",
+            "Timebalm",
+            "Chanaglaze",
+            "Peter Thomas",
+            "Too Faced",
+            "Esmalte uñas",
+            "labiales",
+            "maquillaje",
+            "perfumes",
+            "cremas"
+        ],
+        "nodo": "6",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DBS.jpg",
+        "piso": "1",
+        "geo": "1097 1101",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "De Togni",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "De Togni",
+            "Variedad de calzado para todas las edades"
+        ],
+        "nodo": "68",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Detogni.jpg",
+        "piso": "2",
+        "geo": "2018-22",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Disworld",
+        "rubro": [
+            "Juguetería"
+        ],
+        "productos": [
+            "Disworld",
+            "mochilas",
+            "es tuches",
+            "jarros jugo",
+            "plasticina",
+            "peluches"
+        ],
+        "nodo": "70",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/disworld.jpg",
+        "piso": "2",
+        "geo": "2129",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Do It",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "Do It",
+            "Aros",
+            "Coyar",
+            "Pulsera",
+            "Carteras",
+            "Pinches"
+        ],
+        "nodo": "71",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doit.jpg",
+        "piso": "2",
+        "geo": "2142",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Doce Treinta y Cuatro",
+        "rubro": [
+            "Joyerías y Relojerías"
+        ],
+        "productos": [
+            "Casio",
+            "G-Shock",
+            "Orent",
+            "Cacharel",
+            "Nautica",
+            "Relojeria"
+        ],
+        "nodo": "207",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/1234.jpg",
+        "piso": "2",
+        "geo": "2146  2150",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Doggis",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Doggis",
+            "Completos",
+            "salchipapas",
+            "papas fritas",
+            "helado",
+            "empanadas"
+        ],
+        "nodo": "72",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Doggis.jpg",
+        "piso": "2",
+        "geo": "3",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Domino",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Domino",
+            "Sanwich",
+            "completo",
+            "jugos naturales",
+            "bebidas",
+            "platos preparados"
+        ],
+        "nodo": "75",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/domino.jpg",
+        "piso": "2",
+        "geo": "D-11",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Dublin",
+        "rubro": [
+            "Restaurantes"
+        ],
+        "productos": [
+            "Pub",
+            "restaurante",
+            "entretención",
+            "Terrazas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/imagescarfg7vj.jpg",
+        "piso": "1",
+        "geo": "Terrazas",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Dulce Luna",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Ronneferdt",
+            "Illy",
+            "Minuto verde",
+            "dulce luna",
+            "medias luna",
+            "tortas",
+            "café y te variedades"
+        ],
+        "nodo": "74",
+        "logo": "http://www.mallplaza.cl/images/stories/deli cafe.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Dunkin Donut's",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Dunkin Donut's",
+            "Donuts and late"
+        ],
+        "nodo": "76",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DunkinDonuts.jpg",
+        "piso": "1",
+        "geo": "1001",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "El baúl de la Abuela",
+        "rubro": [
+            "Música",
+            " Fotografía y Películas"
+        ],
+        "productos": [
+            "El baúl de la Abuela",
+            "Fotografias personal o mas",
+            "marcos de foto"
+        ],
+        "nodo": "78",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/elBauldelaabuela.jpg",
+        "piso": "2",
+        "geo": "2011",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Energy Fitness",
+        "rubro": [
+            "Deporte"
+        ],
+        "productos": [
+            "Energy Fitness",
+            "clases personales",
+            "personal training",
+            "clases dirigidas",
+            "uso de pesas y maquinarias"
+        ],
+        "nodo": "79",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/EnergyFitness.jpg",
+        "piso": "2",
+        "geo": "2158",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Entel",
+        "rubro": [
+            "Telefonía"
+        ],
+        "productos": [
+            "Celulares",
+            "servicio técnico celulares",
+            "venta equipo celulares"
+        ],
+        "nodo": "156",
+        "logo": "http://www.mallplaza.cl/images/stories/logo-entel.jpg",
+        "piso": "1",
+        "geo": "Blvd exterior",
+        "area": "bulevar exterior"
+    },
+    {
+        "nombre": "Epk",
+        "rubro": [
+            "Accesorios Infantiles",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Epk",
+            "gorros",
+            "vestidos",
+            "camisa",
+            "pantalon",
+            "chaqueta"
+        ],
+        "nodo": "81",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/epk.jpg",
+        "piso": "1",
+        "geo": "p 1316 1320",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Falabella",
+        "rubro": [
+            "Computación y Electrónica",
+            "Vestuario Juvenil"
+        ],
+        "productos": [
+            "AOC",
+            "Sony",
+            "Panasonic",
+            "Samsung",
+            "Electronica",
+            "menaje",
+            "vesturio",
+            "deporte",
+            "jugueteria"
+        ],
+        "nodo": "82",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Falabella.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "null"
+    },
+    {
+        "nombre": "Family Shop",
+        "rubro": [
+            "Vestuario Juvenil",
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Marca propia"
+        ],
+        "nodo": "83",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/familyshop.jpg",
+        "piso": "1",
+        "geo": "1025-29",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Farmacias Ahumada",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "Fasa",
+            "LabChile",
+            "Eucerin",
+            "Neutrogena",
+            "Nuk",
+            "Medicamentos",
+            "cremas",
+            "mamaderas",
+            "pastas dentales",
+            "gasas"
+        ],
+        "nodo": "130",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Farmacias Ahumada.jpg",
+        "piso": "1",
+        "geo": "n/c",
+        "area": "interior Líder"
+    },
+    {
+        "nombre": "Farmacias Baum",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "productos naturales",
+            "Medicamentos ansioliticos",
+            "para insomnio",
+            "transito lento",
+            "varices",
+            "ulceras"
+        ],
+        "nodo": "85",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/FarmaciasBaum.jpg",
+        "piso": "1",
+        "geo": "B-12",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Farmacias Cruz Verde",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "Laboratorio Chile",
+            "Colgate",
+            "Isdin",
+            "Loreal",
+            "La Roche Posa",
+            "Cremas",
+            "medicamentos",
+            "vitaminas",
+            "cuidado personal",
+            "pañales"
+        ],
+        "nodo": "86",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cruzverde.jpg",
+        "piso": "1",
+        "geo": "1193",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Farmacias SalcoBrand",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "Neutrogena",
+            "Nido",
+            "Huggies",
+            "Pampers",
+            "Babysec",
+            "Leche",
+            "Productos maternales",
+            "medicamentos",
+            "insumos",
+            "pañales"
+        ],
+        "nodo": "88",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/salco.jpg",
+        "piso": "1",
+        "geo": "1005",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Ferouch",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "ropa de hombre"
+        ],
+        "nodo": "90",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ferouch.jpg",
+        "piso": "1",
+        "geo": "1113-21",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Ferracini",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Lady Ventury",
+            "mininas",
+            "Andrea Rosseti",
+            "Cangaroos",
+            "Via Marte",
+            "Botas",
+            "Botines",
+            "Calzado de fiesta",
+            "Calzado formal",
+            "Plantillas"
+        ],
+        "nodo": "91",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ferracini.jpg",
+        "piso": "2",
+        "geo": "2337-2341-2345",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Ficcus",
+        "rubro": [
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Ficcus",
+            "Ositos",
+            "Pijamas",
+            "Calcetines",
+            "Pañales de tela",
+            "Buzos"
+        ],
+        "nodo": "93",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/FICCUS.jpg",
+        "piso": "2",
+        "geo": "2041-45",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Flex",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Flex",
+            "ropadecama",
+            "colchones"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/descarga 2.jpg",
+        "piso": "2",
+        "geo": "2105- 2109- 2113",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Flores",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Flores",
+            "Sostèn",
+            "calzon",
+            "reductoras",
+            "camiseta",
+            "pantaleta"
+        ],
+        "nodo": "1309",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Flores.jpg",
+        "piso": "1",
+        "geo": "2149",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Florezen",
+        "rubro": [
+            "Florería"
+        ],
+        "productos": [
+            "Lorezen",
+            "Rosas",
+            "tarjetas",
+            "peluches",
+            "porta retratos",
+            "arreglos florales"
+        ],
+        "nodo": "95",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Florezen.jpg",
+        "piso": "1",
+        "geo": "B - b6",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Fortaleza",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Automotora",
+            "automotriz"
+        ],
+        "nodo": "135",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fortaleza.jpg",
+        "piso": "0",
+        "geo": "AP 113",
+        "area": "Autoplaza"
+    },
+    {
+        "nombre": "Forum Servicios Financieros",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Forum",
+            "Servicios bancarios"
+        ],
+        "nodo": "96",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Forum.jpg",
+        "piso": "0",
+        "geo": "AP 115",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Fritz",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Fritz",
+            "Sanwich",
+            "jugos bebidas",
+            "cerveza",
+            "papas fritas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fritz.jpg",
+        "piso": "2",
+        "geo": "2",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Gacel",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Gacel",
+            "Cartelas",
+            "zapatos",
+            "pastas de zapatos",
+            "botines",
+            "accesorosi"
+        ],
+        "nodo": "99",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gacel.jpg",
+        "piso": "1",
+        "geo": "P 1332 1328B",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Gema",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Gema",
+            "camiseta",
+            "calzon",
+            "pantaletas",
+            "sosten",
+            "reductoras"
+        ],
+        "nodo": "245",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gema.jpg",
+        "piso": "2",
+        "geo": "P 2294",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "George",
+        "rubro": [
+            "Restaurantes"
+        ],
+        "productos": [
+            "Bar",
+            "Restaurant",
+            "Centro de Eventos",
+            "terrazas"
+        ],
+        "nodo": "237",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/george.jpg",
+        "piso": "1",
+        "geo": "TE 112",
+        "area": "Las Terrazas"
+    },
+    {
+        "nombre": "Gotta",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Zapatos femeninos",
+            "botas",
+            "botines",
+            "calzado de fiesta",
+            "calzado formal"
+        ],
+        "nodo": "2",
+        "logo": "http://www.mallplaza.cl/images/stories/images.jpg",
+        "piso": "2",
+        "geo": "2126",
+        "area": "pasillo central"
+    },
+    {
+        "nombre": "Grido",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Grido",
+            "Helados",
+            "bebidas",
+            "confites",
+            "copas",
+            "jugo"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/grido.jpg",
+        "piso": "1",
+        "geo": "8b - 9a",
+        "area": "Bulevar Lider"
+    },
+    {
+        "nombre": "Guante",
+        "rubro": [
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Guante",
+            "Calzado formal",
+            "de vestir",
+            "tipo zapatillas"
+        ],
+        "nodo": "102",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/guante.jpg",
+        "piso": "1",
+        "geo": "P 1324 1328A",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "HUSH PUPPIES",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "calzado",
+            "calzado femenino",
+            "calzado masculino"
+        ],
+        "nodo": "17",
+        "logo": "http://www.mallplaza.cl/images/stories/hush puppies.jpg",
+        "piso": "1",
+        "geo": "1108-1112",
+        "area": "null"
+    },
+    {
+        "nombre": "Happyland",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Happyland",
+            "Fichas juego",
+            "premios",
+            "bebidas",
+            "agua mineral",
+            "jugos"
+        ],
+        "nodo": "103",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Happyland.jpg",
+        "piso": "2",
+        "geo": "2000",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Head",
+        "rubro": [
+            "Maletería"
+        ],
+        "productos": [
+            "Head",
+            "Saxoline",
+            "Maletas",
+            "candados",
+            "bolsos",
+            "carteras",
+            "mochila"
+        ],
+        "nodo": "104",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/head.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Helados San Francisco de Loncomilla",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Helados San Francisco de Loncomilla",
+            "Copas",
+            "helados",
+            "café"
+        ],
+        "nodo": "105",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HeladosSanFrancisco.jpg",
+        "piso": "1",
+        "geo": "P 1277",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Home and Cook",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Moulinex",
+            "Rowenta",
+            "T-FAL",
+            "Cafetera",
+            "ollas",
+            "vatidora",
+            "juguera",
+            "tostador"
+        ],
+        "nodo": "108",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HomeandCook.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Homecenter Sodimac",
+        "rubro": [
+            "Vivienda y Construcción"
+        ],
+        "productos": [
+            "Black and decker",
+            "Melón",
+            "Ceresita",
+            "Tricolor",
+            "muebleria",
+            "luminaria",
+            "material construccion",
+            "plantas",
+            "terraza"
+        ],
+        "nodo": "107",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Sodimac.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Bulevar Sodimac"
+    },
+    {
+        "nombre": "Huellas Spa",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Aelfeet",
+            "Eupfree",
+            "Opi",
+            "Depilevee",
+            "Levinia",
+            "spa",
+            "manos",
+            "uñas",
+            "pies",
+            "depilación"
+        ],
+        "nodo": "109",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HuellasSpa.jpg",
+        "piso": "0",
+        "geo": "BL 133-137",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Hush Puppies",
+        "rubro": [
+            "Calzado Femenino",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Hush Puppies",
+            "zapato hombre",
+            "zapato mujer",
+            "calcetines",
+            "accesorios",
+            "chalas"
+        ],
+        "nodo": "110",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HushPuppies.jpg",
+        "piso": "1",
+        "geo": "1108-16",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Hush Puppies Kids",
+        "rubro": [
+            "Calzado Infantil",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Hush Puppies Kids",
+            "Pantalon",
+            "camisa",
+            "zapato",
+            "gorros",
+            "zapatillas"
+        ],
+        "nodo": "111",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HusPuppiesKids.jpg",
+        "piso": "1",
+        "geo": "1081",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Hyundai",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Hyundai"
+        ],
+        "nodo": "112",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Hyundai.jpg",
+        "piso": "0",
+        "geo": "AP 111-112-113",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Imagen",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "Imagen",
+            "Poleras",
+            "voleros",
+            "pantalones",
+            "calzas",
+            "blusas"
+        ],
+        "nodo": "113",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Imagen.jpg",
+        "piso": "2",
+        "geo": "2061",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Integramedica",
+        "rubro": [
+            "Salud"
+        ],
+        "productos": [
+            "Dental",
+            "Laboratorio",
+            "Imagenologia",
+            "especialidades",
+            "atencion general"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/integramedica.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Intersalon",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Lakine",
+            "Neo extension",
+            "Eurostil",
+            "Finger paint",
+            "Extensiones",
+            "cepillos",
+            "alisadoras",
+            "aceites capilares",
+            "shampoo"
+        ],
+        "nodo": "114",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Intersalon.jpg",
+        "piso": "1",
+        "geo": "1165",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Io",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "IO",
+            "Pantalones",
+            "bleazer",
+            "bluzas",
+            "vestido",
+            "falda"
+        ],
+        "nodo": "117",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/io.jpg",
+        "piso": "1",
+        "geo": "1097",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Isadora",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "Isadora",
+            "Pañuelos",
+            "cartelas",
+            "aros",
+            "pinches",
+            "collares"
+        ],
+        "nodo": "118",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Isadora.jpg",
+        "piso": "2",
+        "geo": "2109 2113",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "JJO",
+        "rubro": [
+            "Vestuario Juvenil"
+        ],
+        "productos": [
+            "JJO",
+            "Jeans",
+            "poleras",
+            "billeteras",
+            "gorros",
+            "cinturones"
+        ],
+        "nodo": "119",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/JJO.jpg",
+        "piso": "1",
+        "geo": "P2273 - 2277",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Joyas Barón",
+        "rubro": [
+            "Joyerías y Relojerías"
+        ],
+        "productos": [
+            "Joyas Barón",
+            "Pendientes",
+            "prendedores",
+            "relojes",
+            "anillos",
+            "pulseras"
+        ],
+        "nodo": "120",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/joyasbaron.jpg",
+        "piso": "1",
+        "geo": "1152",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Juan Maestro",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Juan Maestro",
+            "Ensaladas",
+            "Jugo",
+            "bebidas",
+            "sandwich",
+            "papas fritas"
+        ],
+        "nodo": "121",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Juan Masestro.jpg",
+        "piso": "2",
+        "geo": "D-14",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Kayser",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Kayser",
+            "Pijamas",
+            "boxer",
+            "sosten calzon",
+            "Camiseta"
+        ],
+        "nodo": "122",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KAyser.JPG",
+        "piso": "1",
+        "geo": "2157b",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Keeway",
+        "rubro": [
+            "Servicios"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "123",
+        "logo": "null",
+        "piso": "0",
+        "geo": "AP 113",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Kentucky Friend Chicken",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Kentucky Friend Chicken"
+        ],
+        "nodo": "124",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KentuchyFriedChicken.jpg",
+        "piso": "2",
+        "geo": "D6a",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Kia",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Morning",
+            "rio 3",
+            "rio 5",
+            "rio 4",
+            "Carens"
+        ],
+        "nodo": "125",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KiaMotors.jpg",
+        "piso": "0",
+        "geo": "AP 104",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Kicks",
+        "rubro": [
+            "Accesorios Masculinos",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Vans",
+            "Supra",
+            "Nike",
+            "Jordan",
+            "Puma",
+            "Zapatillas",
+            "gorros",
+            "bolsos",
+            "billeteras",
+            "jockey"
+        ],
+        "nodo": "252",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kicks.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliacion"
+    },
+    {
+        "nombre": "La Araucana",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "La Araucana",
+            "Afiliación",
+            "creditos consumo",
+            "hipotecarios",
+            "cuentas de ahorro",
+            "certificados"
+        ],
+        "nodo": "236",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Laaraucana.jpg",
+        "piso": "1",
+        "geo": "Bp 156 160",
+        "area": "Bulevar Financiero Exterior"
+    },
+    {
+        "nombre": "La Polar",
+        "rubro": [
+            "Tiendas Departamentales"
+        ],
+        "productos": [
+            "Multitienda",
+            "Tiendas Departamentales"
+        ],
+        "nodo": "126",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lapolar.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "null"
+    },
+    {
+        "nombre": "La Portada II",
+        "rubro": [
+            "Joyerías y Relojerías"
+        ],
+        "productos": [
+            "Duracell",
+            "Maxell",
+            "GSM",
+            "Head Set",
+            "Fujitel",
+            "Pilas",
+            "relojes de pared",
+            "relojes de muñeca",
+            "baterias",
+            "controles"
+        ],
+        "nodo": "127",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/laportadali.jpg",
+        "piso": "1",
+        "geo": "B-13",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Lavaseco 5a Sec",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "Lavaseco 5a Sec",
+            "Lavado y secado de veston",
+            "vestidos de fiesta",
+            "plumones",
+            "pantalones",
+            "abrigos"
+        ],
+        "nodo": "128",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lavaseco5asec.jpg",
+        "piso": "1",
+        "geo": "B-3",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Librería Nacional",
+        "rubro": [
+            "Libros y Revistas"
+        ],
+        "productos": [
+            "Torre",
+            "Proarte",
+            "Artel",
+            "Bic",
+            "Equalit",
+            "Resma",
+            "lapices",
+            "carpetas",
+            "centas adhesivas",
+            "cuadernos"
+        ],
+        "nodo": "129",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LibreriaNacional.jpg",
+        "piso": "1",
+        "geo": "1017-21",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Lider",
+        "rubro": [
+            "Alimentos y Bebidas"
+        ],
+        "productos": [
+            "Miraflores",
+            "Chef",
+            "Trisol",
+            "Banquete",
+            "Natura",
+            "Aseo hogar",
+            "cuidado personal",
+            "carniceria",
+            "panaderia",
+            "reposteria"
+        ],
+        "nodo": "130",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lider.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Limonada",
+        "rubro": [
+            "Accesorios Infantiles",
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Limonada",
+            "Sombrillas",
+            "Vestidos",
+            "Voleros",
+            "Shorts",
+            "Poleras"
+        ],
+        "nodo": "131",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Limonada.jpg",
+        "piso": "2",
+        "geo": "2137",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Long Cheung",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Long Cheung",
+            "Platos preparados",
+            "bebidas",
+            "jugos",
+            "aperitivos",
+            "comidas empresa",
+            "las terrazas"
+        ],
+        "nodo": "243",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LongCheung.jpg",
+        "piso": "1",
+        "geo": "TE 118",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Los Heroes",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "Los Heroes",
+            "Afiliaciones",
+            "entretencion",
+            "cultura",
+            "ahorro",
+            "certificados"
+        ],
+        "nodo": "133",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/losheroes.jpg",
+        "piso": "1",
+        "geo": "172-176-180-184",
+        "area": "Bulevard de servicios"
+    },
+    {
+        "nombre": "MacOnline",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "Apple",
+            "Notebook",
+            "Tablet",
+            "I-PAD",
+            "aplicaciones para marca Apple"
+        ],
+        "nodo": "134",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Maconline.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Mahindra",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Mahindra",
+            "Cabina simple y cabina doble"
+        ],
+        "nodo": "135",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mahindra.jpg",
+        "piso": "0",
+        "geo": "Ap 109-110",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Make Up",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Loreal",
+            "Maybelline",
+            "Revlon",
+            "Petricio",
+            "Pamela Grant",
+            "Labial",
+            "Ojos Uñas",
+            "Rostro",
+            "Set de maquillaje",
+            "Cremas"
+        ],
+        "nodo": "136",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Makeupexpress.jpg",
+        "piso": "1",
+        "geo": "P 1337",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Mamut",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Mamut",
+            "Carnes",
+            "platos preparados",
+            "tablas para picar",
+            "jugos naturales",
+            "tragos",
+            "las terrazas"
+        ],
+        "nodo": "138",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mamut.jpg",
+        "piso": "1",
+        "geo": "1076-84",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Maui",
+        "rubro": [
+            "Vestuario Femenino",
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Maui",
+            "Trajes de surf",
+            "tablas de surf",
+            "chaquetas polerones",
+            "poleras"
+        ],
+        "nodo": "140",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/maui.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Max Point",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "Max Point",
+            "Confites",
+            "bebidas",
+            "café",
+            "snack"
+        ],
+        "nodo": "270",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/MaxPoint.jpg",
+        "piso": "1",
+        "geo": "104",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Mc Donald's",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Mc Donald's",
+            "Hambuerguesas",
+            "empanadas",
+            "Bebidas",
+            "Jugos",
+            "papas fritas"
+        ],
+        "nodo": "142",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/macdonalds.jpg",
+        "piso": "2",
+        "geo": "d-17",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Mi Foto",
+        "rubro": [
+            "Música",
+            " Fotografía y Películas"
+        ],
+        "productos": [
+            "Mi Foto",
+            "Rebelados de foto",
+            "marcos",
+            "albumes"
+        ],
+        "nodo": "143",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mifoto (2).jpg",
+        "piso": "1",
+        "geo": "B 4A",
+        "area": "Bulevar Lider"
+    },
+    {
+        "nombre": "Microplay",
+        "rubro": [
+            "Computación y Electrónica",
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "juegos",
+            "computación"
+        ],
+        "nodo": "115",
+        "logo": "http://www.mallplaza.cl/images/stories/topn3_r1_c1.jpg",
+        "piso": "2",
+        "geo": "2026-2030",
+        "area": "Plaza Paris"
+    },
+    {
+        "nombre": "Minimarket Trujillo",
+        "rubro": [
+            "Minimarket"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "189",
+        "logo": "http://www.mallplaza.cl/images/stories/generico_tiendas_listado.jpg",
+        "piso": "0",
+        "geo": "BL 0113",
+        "area": "Bulevard de Servicios"
+    },
+    {
+        "nombre": "Mixtura",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Mixtura",
+            "Tablas",
+            "tragos",
+            "bebidas",
+            "platos preparados",
+            "bajativos",
+            "las terrazas"
+        ],
+        "nodo": "272",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mixtura.jpg",
+        "piso": "1",
+        "geo": "110 110 120",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Mokka",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Mokka",
+            "Café",
+            "pasteleria",
+            "sandwicheria",
+            "jugos",
+            "bebidas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mokka.jpg",
+        "piso": "1",
+        "geo": "1357",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Moletto",
+        "rubro": [
+            "Vestuario Femenino",
+            "Vestuario Infantil",
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Moletto",
+            "Calcetines",
+            "medias",
+            "pantys",
+            "camisetas"
+        ],
+        "nodo": "144",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Moletto.jpg",
+        "piso": "1",
+        "geo": "1161",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Monarch",
+        "rubro": [
+            "Lencería y Ropa Interior"
+        ],
+        "productos": [
+            "Monarch",
+            "Pijamas",
+            "sosten",
+            "calzon",
+            "medias",
+            "calcetines"
+        ],
+        "nodo": "145",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Monarch.jpg",
+        "piso": "1",
+        "geo": "1173",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Motostar",
+        "rubro": [
+            "Autoplaza"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "196",
+        "logo": "null",
+        "piso": "0",
+        "geo": "null",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Movistar",
+        "rubro": [
+            "Telefonía"
+        ],
+        "productos": [
+            "Movistar",
+            "Telefonìa fija",
+            "cable",
+            "telefonia movil",
+            "internet",
+            "internet portatil"
+        ],
+        "nodo": "230",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Movistar 1.jpg",
+        "piso": "1",
+        "geo": "bs 1104/1100",
+        "area": "Ampliación Exterior"
+    },
+    {
+        "nombre": "Mrs. Shoes",
+        "rubro": [
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Mrs Shoes",
+            "zapato formal",
+            "para ocasión",
+            "informal"
+        ],
+        "nodo": "149",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/MrsShoes.jpg",
+        "piso": "0",
+        "geo": "BL-169",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Mónix",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "147",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Monix.jpg",
+        "piso": "2",
+        "geo": "2141",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Naturalizer",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Naturalizer",
+            "Calzado femenino para toda ocasión"
+        ],
+        "nodo": "150",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Naturalizer.jpg",
+        "piso": "1",
+        "geo": "P1341",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Nextel",
+        "rubro": [
+            "Módulos"
+        ],
+        "productos": [
+            "Nextel",
+            "Telefonía"
+        ],
+        "nodo": "151",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nextel.jpg",
+        "piso": "2",
+        "geo": "BS 1120 BS 1124",
+        "area": "Ampliación Exterior"
+    },
+    {
+        "nombre": "Nike",
+        "rubro": [
+            "Deporte"
+        ],
+        "productos": [
+            "deporte",
+            "artículos deportivos",
+            "zapatillas",
+            "ropa deportiva",
+            "accesorios deportivos"
+        ],
+        "nodo": "249 ",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/nike-logo.jpg",
+        "piso": "1",
+        "geo": "2232-2234-2238-2242-2246-2250",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Notaria Bertolino",
+        "rubro": [
+            "Servicios"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "154",
+        "logo": "null",
+        "piso": "1",
+        "geo": "BP-164-168",
+        "area": "Bulevard Financiero Exterior"
+    },
+    {
+        "nombre": "Oakley",
+        "rubro": [
+            "Deporte"
+        ],
+        "productos": [
+            "Oakley",
+            "Lentes",
+            "ropa deportiva",
+            "gorros",
+            "billeteras",
+            "botellas agua"
+        ],
+        "nodo": "155",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/oakley.jpg",
+        "piso": "2",
+        "geo": "2269",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Ok Market",
+        "rubro": [
+            "Minimarket"
+        ],
+        "productos": [
+            "Ok Market",
+            "Confites",
+            "bebidas",
+            "café",
+            "snack"
+        ],
+        "nodo": "156",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/okmarket.jpg",
+        "piso": "1",
+        "geo": "1040-1044-1048-1052-1056",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Opaline",
+        "rubro": [
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Opaline",
+            "Tutos",
+            "ositos",
+            "zapatos",
+            "buzos",
+            "gorros"
+        ],
+        "nodo": "157",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Opaline.jpg",
+        "piso": "2",
+        "geo": "2090-94",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Opticas GMO",
+        "rubro": [
+            "Óptica y Perfumería"
+        ],
+        "productos": [
+            "Opticas GMO",
+            "D YG",
+            "Raplph",
+            "Pepe Jeans",
+            "Toscani",
+            "Amchi"
+        ],
+        "nodo": "158",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ogmo.jpg",
+        "piso": "1",
+        "geo": "1128",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Opticas Place Vendome",
+        "rubro": [
+            "Óptica y Perfumería"
+        ],
+        "productos": [
+            "Opticas Place Vendome",
+            "Arizona",
+            "Hugo Boss",
+            "Adidas",
+            "Bollé",
+            "Arnette"
+        ],
+        "nodo": "159",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/OPV.jpg",
+        "piso": "1",
+        "geo": "1329-1333",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Opticas Rotter & Krauss",
+        "rubro": [
+            "Óptica y Perfumería"
+        ],
+        "productos": [
+            "Opticas Rotter & Krauss",
+            "Cat",
+            "Chanel",
+            "Arnette",
+            "Gucci",
+            "Calvin Klein"
+        ],
+        "nodo": "160",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/rotterkrauss.jpg",
+        "piso": "1",
+        "geo": "1073-74",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Opticas Schilling",
+        "rubro": [
+            "Óptica y Perfumería"
+        ],
+        "productos": [
+            "Opticas Schilling",
+            "Davison",
+            "Montini",
+            "Skechers",
+            "Police"
+        ],
+        "nodo": "161",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasshilling.jpg",
+        "piso": "2",
+        "geo": "2010-2014",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Osito",
+        "rubro": [
+            "Calzado Infantil"
+        ],
+        "productos": [
+            "Osito",
+            "Calzado niño y niña"
+        ],
+        "nodo": "162",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/osito.jpg",
+        "piso": "2",
+        "geo": "1036",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Paris",
+        "rubro": [
+            "Computación y Electrónica",
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Paris",
+            "Panasonic",
+            "Toshiba",
+            "AOC",
+            "Sony",
+            "Samsung"
+        ],
+        "nodo": "163",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Paris.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Pasillo 2 y 4"
+    },
+    {
+        "nombre": "Patuelli",
+        "rubro": [
+            "Calzado Deportivo"
+        ],
+        "productos": [
+            "Patuelli",
+            "Fila",
+            "Puma",
+            "Nike",
+            "Adidas",
+            "Reebook"
+        ],
+        "nodo": "146",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Patuelli.jpg",
+        "piso": "2",
+        "geo": "2310-2314-2318-2322",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "PcFactory",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "accesorios computacionales",
+            "notebook",
+            "computadores"
+        ],
+        "nodo": "166",
+        "logo": "http://www.mallplaza.cl/images/stories/pc factory.jpg",
+        "piso": "1",
+        "geo": "1177",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Pedro Juan & Diego",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Pedro Juan & Diego",
+            "Sanwicheria",
+            "bebidas",
+            "jugos"
+        ],
+        "nodo": "167",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/PedroJuandiego.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Peluquería Palumbo",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Peluquería Palumbo",
+            "Kerastase",
+            "Loreal",
+            "Belleza capilar",
+            "Redken"
+        ],
+        "nodo": "168",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/palumbo.jpg",
+        "piso": "1",
+        "geo": "1000",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Perfúmame",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "Perfúmame",
+            "Perfumes hombre y mujer",
+            "cremas"
+        ],
+        "nodo": "169",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/perfumame.jpg",
+        "piso": "1",
+        "geo": "P 1355",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Pillin",
+        "rubro": [
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Pillin",
+            "Zapatos",
+            "cinturones",
+            "pantalon",
+            "polera",
+            "chalecos"
+        ],
+        "nodo": "170",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pillin.JPG",
+        "piso": "1",
+        "geo": "1145",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Piola",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Piola",
+            "Pizzas variedad",
+            "jugos bebidas",
+            "destilados",
+            "las terrazas"
+        ],
+        "nodo": "271",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Piola.jpg",
+        "piso": "1",
+        "geo": "TE 104",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Pizza Hut",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Pizza Hut",
+            "Pizza",
+            "burritos",
+            "bebida",
+            "papas fritas",
+            "empanadas"
+        ],
+        "nodo": "171",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pizzahut.jpg",
+        "piso": "2",
+        "geo": "8",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Platón",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Platón",
+            "Platos preparados",
+            "bebidas",
+            "jugos",
+            "postre"
+        ],
+        "nodo": "172",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Platon.jpg",
+        "piso": "2",
+        "geo": "9",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Poeme",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Poeme",
+            "Botas",
+            "botines",
+            "chalas",
+            "calzado formal",
+            "zapatillas"
+        ],
+        "nodo": "173",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Poeme.jpg",
+        "piso": "1",
+        "geo": "1053",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Polemic",
+        "rubro": [
+            "Accesorios Masculinos",
+            "Vestuario Femenino",
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Polemic",
+            "Short",
+            "poleras",
+            "skate",
+            "accesorios eskate",
+            "poleron",
+            "zapatillas"
+        ],
+        "nodo": "174",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Polemic.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Pollini",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Pollini",
+            "16 hrs",
+            "Bruno Rossi",
+            "Polini",
+            "Panama Jack"
+        ],
+        "nodo": "175",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollini.jpg",
+        "piso": "1",
+        "geo": "P 1321 1325",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Potros",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Potros",
+            "Cinturones",
+            "chalecos",
+            "camisas",
+            "poleras piqué",
+            "pantalon"
+        ],
+        "nodo": "176",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Potros.jpg",
+        "piso": "1",
+        "geo": "1149",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Pre-Unic",
+        "rubro": [
+            "Hogar y Regalos"
+        ],
+        "productos": [
+            "Pre-Unic",
+            "Articulos hogar",
+            "cremas",
+            "shampoo",
+            "esmalte",
+            "detergente"
+        ],
+        "nodo": "177",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/preunic.jpg",
+        "piso": "1",
+        "geo": "1153-57",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Real Kicks",
+        "rubro": [
+            "Calzado Deportivo"
+        ],
+        "productos": [
+            "Zapatillas"
+        ],
+        "nodo": "252",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/realkicks.jpg",
+        "piso": "2",
+        "geo": "2313 - 2317",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Recotoner",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "impresoras",
+            "tecnologia",
+            "recotoner"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/images.jpg",
+        "piso": "1",
+        "geo": "b-16",
+        "area": "pasillo Homecenter"
+    },
+    {
+        "nombre": "Reebok",
+        "rubro": [
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "Reebok",
+            "Buzos",
+            "poleras",
+            "zapatillas",
+            "bolsos"
+        ],
+        "nodo": "179",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Reebok.jpg",
+        "piso": "2",
+        "geo": "2065-2069-2073-2077",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Registro Civil",
+        "rubro": [
+            "Servicios"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "178",
+        "logo": "null",
+        "piso": "0",
+        "geo": "BL 165-161-157-153-106",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Renault Derco",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "266",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/renault.jpg",
+        "piso": "0",
+        "geo": "AP 105",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "Revive",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Revive",
+            "Comida chile",
+            "jugos",
+            "bebidas",
+            "snack"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/revive1.jpg",
+        "piso": "1",
+        "geo": "H-1",
+        "area": "interior Líder"
+    },
+    {
+        "nombre": "Ripcurl",
+        "rubro": [
+            "Vestuario Juvenil"
+        ],
+        "productos": [
+            "deporte",
+            "skater",
+            "juvenil",
+            "vestuario",
+            "surf",
+            "australia",
+            "ripcurl"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/descarga 1.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Ripley",
+        "rubro": [
+            "Computación y Electrónica",
+            "Deporte"
+        ],
+        "productos": [
+            "Ripley",
+            "Pepe Jeans",
+            "Reebok",
+            "Saxoline",
+            "Samsung",
+            "Everlast"
+        ],
+        "nodo": "183",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripley.jpg",
+        "piso": "1",
+        "geo": "null",
+        "area": "Pasillo 3 y 5"
+    },
+    {
+        "nombre": "Rockford",
+        "rubro": [
+            "Vestuario Femenino",
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Cat",
+            "Merrel",
+            "Columbia",
+            "Sebago",
+            "Pantalones",
+            "poleras",
+            "gorros",
+            "billeteras",
+            "zapatillas"
+        ],
+        "nodo": "184",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Rockford.jpg",
+        "piso": "1",
+        "geo": "1044-48",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "SAMSUNG",
+        "rubro": [
+            "Telefonía"
+        ],
+        "productos": [
+            "tecnología",
+            "celulares",
+            "tablet",
+            "equipos"
+        ],
+        "nodo": "117",
+        "logo": "http://www.mallplaza.cl/images/stories/samsung.jpg",
+        "piso": "1",
+        "geo": " 1737",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Sapira",
+        "rubro": [
+            "Minimarket"
+        ],
+        "productos": [
+            "Sapira",
+            "Confites",
+            "bebidas",
+            "café",
+            "snack"
+        ],
+        "nodo": "185",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "piso": "1",
+        "geo": "B 11a",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Savory Local 2",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Savory",
+            "Heladeria",
+            "medias luna",
+            "bebidas",
+            "jugos"
+        ],
+        "nodo": "250",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Savory.jpg",
+        "piso": "2",
+        "geo": "2057",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Savory Local 3",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "helados",
+            "gelatería",
+            "medias lunas"
+        ],
+        "nodo": "186",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg",
+        "piso": "2",
+        "geo": "2177",
+        "area": "null"
+    },
+    {
+        "nombre": "Savory Stop",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "helados",
+            "gelatería"
+        ],
+        "nodo": "226",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg",
+        "piso": "2",
+        "geo": "2015",
+        "area": "Patio comidas"
+    },
+    {
+        "nombre": "Saxoline",
+        "rubro": [
+            "Maletería"
+        ],
+        "productos": [
+            "Saxoline",
+            "Head",
+            "Maletas",
+            "candados",
+            "bolsos",
+            "carteras",
+            "mochila"
+        ],
+        "nodo": "187",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/saxoline.jpg",
+        "piso": "1",
+        "geo": "1105",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Schop Dog",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Schop Dog",
+            "Completos",
+            "platos preparados",
+            "cerverza",
+            "tablas",
+            "las terrazas",
+            "ensaladas"
+        ],
+        "nodo": "188",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/shopdog.jpg",
+        "piso": "1",
+        "geo": "1100",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Secret",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "marroquinería",
+            "carteras"
+        ],
+        "nodo": "42",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/secret.png",
+        "piso": "2",
+        "geo": "2121 - 2125",
+        "area": "Plaza central "
+    },
+    {
+        "nombre": "Sencillito",
+        "rubro": [
+            "Bancos",
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Sencillito",
+            "Pago de cuentas"
+        ],
+        "nodo": "189",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sencillito.jpg",
+        "piso": "0",
+        "geo": "BL 0113",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Servipag",
+        "rubro": [
+            "Bancos",
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Servipag",
+            "Pago de cuentas",
+            "retiro y cobro  de cheques",
+            "pago isp",
+            "recargas celular y tarjetas bip"
+        ],
+        "nodo": "190",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Servipag.jpg",
+        "piso": "0",
+        "geo": "BL 185-181-177",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "Shoes & Piel",
+        "rubro": [
+            "Calzado Femenino",
+            "Calzado Infantil",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "Bron doss",
+            "Blaquisblack",
+            "Pro-rewind",
+            "Erase",
+            "Maxmo",
+            "Zapatos formal",
+            "vestir",
+            "casual",
+            "zapatillas",
+            "descanso"
+        ],
+        "nodo": "191",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Shoesandpiel.jpg",
+        "piso": "1",
+        "geo": "1028-32",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Skechers",
+        "rubro": [
+            "Calzado Femenino",
+            "Calzado Infantil"
+        ],
+        "productos": [
+            "Skechers",
+            "Calcetin",
+            "zapatillas",
+            "zapato",
+            "hawuallanas"
+        ],
+        "nodo": "192",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sckechers.jpg",
+        "piso": "2",
+        "geo": "2098-2102-06",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Sparta",
+        "rubro": [
+            "Deporte"
+        ],
+        "productos": [
+            "Puma",
+            "Reebok",
+            "Adidas",
+            "Nike",
+            "Skechers",
+            "Balones",
+            "camisetas futbol Maquinas de ejercicios",
+            "buzos",
+            "zapatillas"
+        ],
+        "nodo": "193",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Sparta.jpg",
+        "piso": "2",
+        "geo": "2066-70",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Subway",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Subway",
+            "Sandwich",
+            "bebidas",
+            "papas fritas"
+        ],
+        "nodo": "194",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/subway.jpg",
+        "piso": "2",
+        "geo": "2009",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Sushi House",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Sushi House",
+            "Sushi y bebestibles",
+            "las terrazas"
+        ],
+        "nodo": "195",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sushihouse.jpg",
+        "piso": "1",
+        "geo": "108",
+        "area": "Las Terrazas"
+    },
+    {
+        "nombre": "Suzuki",
+        "rubro": [
+            "Servicio Automotriz"
+        ],
+        "productos": [
+            "Suzuki",
+            "celerio",
+            "sx4",
+            "alto",
+            "gran nomade",
+            "gran vitara"
+        ],
+        "nodo": "180",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/suzuki.jpg",
+        "piso": "0",
+        "geo": "AP-107",
+        "area": "Auto Plaza"
+    },
+    {
+        "nombre": "T'quila",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "T'quila",
+            "Destilados",
+            "platos preparados",
+            "tablas",
+            "bebidas",
+            "jugos",
+            "las terrazas"
+        ],
+        "nodo": "205",
+        "logo": "http://www.mallplaza.cl/images/stories/pantone-tquila-04.jpg",
+        "piso": "1",
+        "geo": "1088",
+        "area": "Pasillo 1"
+    },
+    {
+        "nombre": "Tarragona",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Tarragona",
+            "Empanadas",
+            "Fajitas",
+            "bebidas",
+            "pollo",
+            "papas fritas"
+        ],
+        "nodo": "197",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tarragona.jpg",
+        "piso": "2",
+        "geo": "4",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Telepizza",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Telepizza",
+            "Variedad de pizzas",
+            "bebida",
+            "burritos"
+        ],
+        "nodo": "199",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Telepizza.jpg",
+        "piso": "2",
+        "geo": "d-16",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Teletrak",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Teletrak",
+            "Transnision de ventas de apuestas"
+        ],
+        "nodo": "198",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Teletrak.jpg",
+        "piso": "0",
+        "geo": "Bl 102a 106a 141 145-149",
+        "area": "Bulevar de Servicios"
+    },
+    {
+        "nombre": "The Line",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "The Line",
+            "Play Station 3",
+            "CD",
+            "Articulos de computacion",
+            "PC",
+            "Wii"
+        ],
+        "nodo": "200",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Theline.jpg",
+        "piso": "2",
+        "geo": "null",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "The Republic of Beauty",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "accesorios",
+            "maquillaje"
+        ],
+        "nodo": "89",
+        "logo": "http://www.mallplaza.cl/images/stories/logo_trob.png",
+        "piso": "2",
+        "geo": "2097-2101-2105",
+        "area": "Plaza central"
+    },
+    {
+        "nombre": "Thomas",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "ropa formal de hombre",
+            "trajes europeos",
+            "novios"
+        ],
+        "nodo": "247",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/thomas1.jpg",
+        "piso": "2",
+        "geo": "P 2298",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Todo Piel",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Todo Piel",
+            "Calzado mujer formal",
+            "informal",
+            "fiesta",
+            "descanso"
+        ],
+        "nodo": "202",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todopiel.jpg",
+        "piso": "2",
+        "geo": "2046",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Todomoda",
+        "rubro": [
+            "Accesorios Femeninos"
+        ],
+        "productos": [
+            "Todomoda",
+            "Pañuelos",
+            "cartelas",
+            "aros",
+            "pinches",
+            "collares"
+        ],
+        "nodo": "203",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todomoda.jpg",
+        "piso": "1",
+        "geo": "1180",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Toy Planet",
+        "rubro": [
+            "Juguetería"
+        ],
+        "productos": [
+            "Toy Planet",
+            "Matel",
+            "Ansaldo",
+            "Disney",
+            "Infanti"
+        ],
+        "nodo": "204",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/toyplanet1.jpg",
+        "piso": "2",
+        "geo": "P 2290 2286",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Traumatec",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "Blunding",
+            "Global",
+            "Ibici",
+            "Medizinal",
+            "Calcetines de cobre",
+            "medias antivarices",
+            "conchones ortopedicos",
+            "cojines"
+        ],
+        "nodo": "206",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Traumatec.jpg",
+        "piso": "1",
+        "geo": "B-4b",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Trial",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Trial y Jockey",
+            "Sleep",
+            "Corbatas",
+            "Trajes formales",
+            "Camisa",
+            "Sweater"
+        ],
+        "nodo": "209",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Trial.jpg",
+        "piso": "1",
+        "geo": "1313-1317",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Tronwell",
+        "rubro": [
+            "Educación"
+        ],
+        "productos": [
+            "null"
+        ],
+        "nodo": "210",
+        "logo": "http://www.mallplaza.cl/images/stories/logo_pie2.gif",
+        "piso": "1",
+        "geo": "BL 126 - 130 - 134 - 138 - 142",
+        "area": "Bulevard Financiero"
+    },
+    {
+        "nombre": "TurBus",
+        "rubro": [
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "TurBus",
+            "Viajes destinos de Chile"
+        ],
+        "nodo": "211",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Turbus.jpg",
+        "piso": "1",
+        "geo": "B-5a",
+        "area": "Bulevar Líder"
+    },
+    {
+        "nombre": "Umbrale",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "Umbrale",
+            "Faldas",
+            "Pantalones casual",
+            "bruzones",
+            "collares",
+            "pañuelos"
+        ],
+        "nodo": "212",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/umbrale.jpg",
+        "piso": "1",
+        "geo": "P 1345a 1349a",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Vans",
+        "rubro": [
+            "Calzado Juvenil"
+        ],
+        "productos": [
+            "Vans",
+            "Zapatillas hombre",
+            "mujer",
+            "niño"
+        ],
+        "nodo": "214",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Vans.jpg",
+        "piso": "2",
+        "geo": "2254-2258",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Vtr",
+        "rubro": [
+            "Encomiendas y Servicios"
+        ],
+        "productos": [
+            "Vtr",
+            "Telefonia",
+            "cable e internet"
+        ],
+        "nodo": "231",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/vtr_gr.jpg",
+        "piso": "1",
+        "geo": "bs1072-1076-1080-1084-1088-1092",
+        "area": "Ampliacion"
+    },
+    {
+        "nombre": "Vía Uno",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Vía Uno",
+            "Variedad de zapatos de mujer"
+        ],
+        "nodo": "215",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/viauno_gr.jpg",
+        "piso": "1",
+        "geo": "1040",
+        "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Wado´s",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "Wado´s",
+            "Jeans",
+            "poleras",
+            "chaquetas",
+            "billeteras",
+            "faldas",
+            "vestidos"
+        ],
+        "nodo": "217",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Wados.jpg",
+        "piso": "1",
+        "geo": "1113-29",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "We Love Shoes",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "Calzado Femenino",
+            "Accesorios"
+        ],
+        "nodo": "35",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/welovesshoes.jpg",
+        "piso": "1",
+        "geo": "1281 - 1285",
+        "area": "Ampliación"
+    },
+    {
+        "nombre": "Xtreme",
+        "rubro": [
+            "Maletería"
+        ],
+        "productos": [
+            "Xtreme",
+            "Maletas",
+            "candados",
+            "bolsos",
+            "carteras",
+            "mochila"
+        ],
+        "nodo": "333",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/xtremesaxoline.jpg",
+        "piso": "2",
+        "geo": "2153-57a",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "YOUSERV",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "Heladeria"
+        ],
+        "nodo": "41",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/youserv.jpg",
+        "piso": "2",
+        "geo": "2114 - 2118",
+        "area": "Pasillo Ripley"
+    },
+    {
+        "nombre": "Yogen Fruz",
+        "rubro": [
+            "Cafeterías y Heladerías",
+            "Restaurantes"
+        ],
+        "productos": [
+            "Yogen Fruz",
+            "Helados de fruta natural",
+            "yoguth",
+            "manjar"
+        ],
+        "nodo": "219",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/YogenFruz.jpg",
+        "piso": "2",
+        "geo": "2002-06",
+        "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Yukids",
+        "rubro": [
+            "Entretención y Cultura"
+        ],
+        "productos": [
+            "Nestle",
+            "Vital",
+            "Nescafé",
+            "Guallarauco",
+            "Evercrip",
+            "Juegos infantiles y cafeteria"
+        ],
+        "nodo": "220",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Yukids.jpg",
+        "piso": "2",
+        "geo": "2334-2338",
+        "area": "Ampliacion"
+    },
+    {
+        "nombre": "the republic of beauty",
+        "rubro": [
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "cosmeticos",
+            "pinturas",
+            "Cosmeticos Femeninos"
+        ],
+        "nodo": "2",
+        "logo": "http://www.mallplaza.cl/images/stories/logo_trob.png",
+        "piso": "2",
+        "geo": "2097/2101/2105",
+        "area": "null"
+    },
+    {
+        "nombre": "weplay",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "tecnologia",
+            "video juegos",
+            "consolas",
+            "pc"
+        ],
+        "nodo": "2",
+        "logo": "http://www.mallplaza.cl/images/stories/logo_weplay.jpg",
+        "piso": "2",
+        "geo": "282",
+        "area": "Ampliacion"
+    }
+]

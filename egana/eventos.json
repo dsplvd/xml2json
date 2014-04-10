@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "¡Nos sumamos a la Hora del Planeta!",
+        "descripcion": "<p style=\"text-align: justify;\">Desde las <strong>20:30 horas apagaremos</strong> las luces no escenciales de nuestros malls para contribuir a esta causa.</p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanas/cultura_detalle.jpg"
+    },
+    {
+        "titulo": "¡Súmate a la Causa de Mall Plaza!",
+        "descripcion": "<div>Cambia tu <strong>bolsa de compra</strong> por una <strong>reutilizable</strong>, úsala una y otra vez, y así ayudarás al <strong>medio ambiente</strong>.   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/causaegana/causa_egana_stgo_detalle.jpg"
+    },
+    {
+        "titulo": "¡Ya somos 1 millón de fans en Facebook!",
+        "descripcion": "<p>Queremos festejar en grande que nuestra comunidad sigue creciendo, mantente alerta en el<strong> Fans Page</strong> y participa por increíbles premios.  </p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanas/millon_fans__detalle.jpg"
+    },
+    {
+        "titulo": "Sofía Gómez está dispuesta hacer ¡Todo por amor!",
+        "descripcion": "<p>Ella fue la ganadora de este concurso, al gritar por las redes sociales <strong>#TeQuieroTantoQue</strong>  </p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/01_enamorados_ganadora_detalle.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "tienda": "Polemic",
+        "finicio": "27-01-2014",
+        "ftermino": "07-02-2014",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
+    },
+    {
+        "tienda": "Gacel",
+        "finicio": "27-01-2014",
+        "ftermino": "07-02-2014",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-60.jpg"
+    },
+    {
+        "tienda": "JJO",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-70.jpg"
+    }
+]
