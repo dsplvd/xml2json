@@ -37,7 +37,7 @@ for (i=0;i<descuentosXml.length;i++) {
 	});
 	}
 descuentosJson = JSON.stringify(descuentosJson, null, 4);
-fs.writeFile(process.argv[2]+'/descuentos.json', descuentosJson, function (err) {
+fs.writeFile('/home/ddmallplaza/xml2json/'+process.argv[2]+'/descuentos.json', descuentosJson, function (err) {
   if (err) throw err;
   console.log('descuentos.json saved');
 });
@@ -62,7 +62,7 @@ for (i=0;i<eventosXml.length;i++) {
 	});
 	}
 eventosJson = JSON.stringify(eventosJson, null, 4);
-fs.writeFile(process.argv[2]+'/eventos.json', eventosJson, function (err) {
+fs.writeFile('/home/ddmallplaza/xml2json/'+process.argv[2]+'/eventos.json', eventosJson, function (err) {
   if (err) throw err;
   console.log('eventos.json saved');
 });
@@ -87,7 +87,7 @@ for (i=0;i<pasandoXml.length;i++) {
 	});
 	}
 pasandoJson = JSON.stringify(pasandoJson, null, 4);
-fs.writeFile(process.argv[2]+'/pasando.json', pasandoJson, function (err) {
+fs.writeFile('/home/ddmallplaza/xml2json/'+process.argv[2]+'/pasando.json', pasandoJson, function (err) {
   if (err) throw err;
   console.log('pasando.json saved');
 });
@@ -114,7 +114,7 @@ for (i=0;i<cineXml.length;i++) {
 	});
 	}
 cineJson = JSON.stringify(cineJson, null, 4);
-fs.writeFile(process.argv[2]+'/cine.json', cineJson, function (err) {
+fs.writeFile('/home/ddmallplaza/xml2json/'+process.argv[2]+'/cine.json', cineJson, function (err) {
   if (err) throw err;
   console.log('cine.json saved');
 });

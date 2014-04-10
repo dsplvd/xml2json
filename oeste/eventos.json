@@ -1,5 +1,20 @@
 [
     {
+        "titulo": "¡Lo mejor del Jazz y la cultura está en Mall Plaza!",
+        "descripcion": "<p>Porque <strong>la cultura nos mueve</strong>, te invitamos a disfrutar de un atractivo y único <strong>ciclo de jazz en Mall Plaza Egaña. </strong></p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanacultura/jazz_cultura_detalle.jpg"
+    },
+    {
+        "titulo": "¡Nos sumamos a la Hora del Planeta!",
+        "descripcion": "<p style=\"text-align: justify;\">Desde las <strong>20:30 horas apagaremos</strong> las luces no escenciales de nuestros malls para contribuir a esta causa.</p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanas/cultura_detalle.jpg"
+    },
+    {
+        "titulo": "¡Ven a conocer la nueva tienda de Everlast en Aires!",
+        "descripcion": "<p>Disfruta de sus nuevas colecciones para esta temporada en <strong>Mall Plaza Oeste</strong>.</p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/everlast_mpoeste_detalle.jpg"
+    },
+    {
         "titulo": "¡Súmate a la Causa de Mall Plaza!",
         "descripcion": "<div>Cambia tu <strong>bolsa de compra</strong> por una <strong>reutilizable</strong>, úsala una y otra vez, y así ayudarás al <strong>medio ambiente</strong>.   </div>",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/causaegana/causa_egana_stgo_detalle.jpg"
@@ -13,25 +28,5 @@
         "titulo": "La Roja sale a la Cancha para cumplir lo que pides",
         "descripcion": "<p>No te pierdas el <strong>PUMA Tour 2014: A La Roja le Pido</strong> y conoce la<strong> camiseta</strong> que usará la <strong>Selección Chilena</strong>.  </p>",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/puma2_tour_detalle.jpg"
-    },
-    {
-        "titulo": "Sofía Gómez está dispuesta hacer ¡Todo por amor!",
-        "descripcion": "<p>Ella fue la ganadora de este concurso, al gritar por las redes sociales <strong>#TeQuieroTantoQue</strong>  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/01_enamorados_ganadora_detalle.jpg"
-    },
-    {
-        "titulo": "¡Ven a Las Terrazas de Mall Plaza Oeste y descubre en 100 Montaditos  el sabor de la cocina española!",
-        "descripcion": "<p>Porque hay vida cuando disfrutamos de la <strong>mejor gastronomía</strong>, te invitamos a visitar <strong>100 Montaditos.  </strong></p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/02_100_montaditos_detalle.jpg"
-    },
-    {
-        "titulo": "¡No te preocupes si no alcanzas a ir a la Municipalidad de Cerrillos! ",
-        "descripcion": "<p>Porque en <strong>Mall Plaza Oeste</strong> también puedes realizar tus <strong>trámites</strong> de <strong>permiso de circulación</strong>.  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/02_pago_permiso_circulacionmpo_detalle.jpg"
-    },
-    {
-        "titulo": "¡Ven y refréscate de nuevos aires!  Conoce y sorpréndete con Aires de Mall Plaza Oeste",
-        "descripcion": "<p>Descubre lo <strong>último en moda y tendencias</strong> en este innovador espacio que <strong>cautivará tus sentidos.   </strong></p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/aires_mpoeste_detalle.jpg"
     }
 ]

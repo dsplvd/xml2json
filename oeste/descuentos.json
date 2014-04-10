@@ -1,9 +1,27 @@
 [
     {
+        "tienda": "Timberland",
+        "finicio": "07-04-2014",
+        "ftermino": "30-04-2014",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
+    },
+    {
+        "tienda": "Timberland",
+        "finicio": "07-04-2014",
+        "ftermino": "30-04-2014",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-40.jpg"
+    },
+    {
+        "tienda": "Home Factory",
+        "finicio": "07-04-2014",
+        "ftermino": "30-04-2014",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-40.jpg"
+    },
+    {
         "tienda": "Alfombras Dib",
         "finicio": "null",
         "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
     },
     {
         "tienda": "Alfombras Dib",
@@ -12,45 +30,45 @@
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-70.jpg"
     },
     {
-        "tienda": "Home Factory",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
-    },
-    {
-        "tienda": "Daily",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
-    },
-    {
-        "tienda": "Via uno",
-        "finicio": "20-03-2014",
-        "ftermino": "20-03-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-20.jpg"
-    },
-    {
-        "tienda": "EPK",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
-    },
-    {
-        "tienda": "EPK",
-        "finicio": "null",
-        "ftermino": "null",
+        "tienda": "Umbro",
+        "finicio": "07-04-2014",
+        "ftermino": "30-04-2014",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-60.jpg"
     },
     {
-        "tienda": "Bata",
-        "finicio": "27-02-2014",
-        "ftermino": "24-03-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
+        "tienda": "Moon by Foster",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
     },
     {
-        "tienda": "Bata",
-        "finicio": "27-02-2014",
-        "ftermino": "24-03-2014",
+        "tienda": "JJO",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-25.jpg"
+    },
+    {
+        "tienda": "Lounge",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg"
+    },
+    {
+        "tienda": "Kevingston",
+        "finicio": "null",
+        "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-20.jpg"
+    },
+    {
+        "tienda": "Kevingston",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-25.jpg"
+    },
+    {
+        "tienda": "Kevingston",
+        "finicio": "null",
+        "ftermino": "null",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
     }
 ]
