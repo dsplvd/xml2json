@@ -17,6 +17,46 @@ function sortJSON(data, key) {
     });
 }
 
+request.get('http://mallplaza.cl/xml/tiendas.php?siteid=mallplaza-'+process.argv[2], function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+    var tiendasXml = body;
+    tiendasXml = libxmljs.parseXmlString(tiendasXml);
+	tiendasXml = tiendasXml.find('//tienda');
+	var tiendasJson = [];
+
+for (i=0;i<tiendasXml.length;i++) {
+	var nombre = getData(tiendasXml[i], 'nombre');
+	var rubro = getData(tiendasXml[i], 'categorias');
+	if (typeof rubro === "string") { rubro = rubro.split(',');}
+	var productos = getData(tiendasXml[i], 'tags');	
+	if (typeof productos === "string") { productos = productos.split(',');}
+	var geo = getData(tiendasXml[i], 'local');
+	if (typeof geo === "string") { geo = geo.split('+');}
+	var nodo = getData(tiendasXml[i], 'referencia_plano');
+	var logo = getData(tiendasXml[i], 'logo');
+	var piso = getData(tiendasXml[i], 'piso');
+	var area = getData(tiendasXml[i], 'sector');
+	tiendasJson.push({
+		nombre: nombre,
+		rubro: rubro,
+		productos: productos,
+		nodo: nodo,
+		logo: logo,
+		piso: piso,
+		geo: geo,
+		area: area
+	});
+}
+
+tiendasJson = sortJSON(tiendasJson, 'nombre');	
+tiendasJson = JSON.stringify(tiendasJson, null, 4);
+fs.writeFile(process.argv[2]+'/tiendas.json', tiendasJson, function (err) {
+  if (err) throw err;
+  console.log('tiendas.json saved');
+});
+}
+});
+
 request.get('http://mallplaza.cl/xml/descuentos.php?siteid=mallplaza-'+process.argv[2], function (error, response, body) {
     if (!error && response.statusCode == 200) {
     var descuentosXml = body;
