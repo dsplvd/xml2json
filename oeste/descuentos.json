@@ -1,262 +1,198 @@
 [
     {
-<<<<<<< HEAD
         "tienda": "Potros",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-20.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-20.jpg"
+        "imagenLocal": "/backpack/img-dcto-20.jpg"
     },
     {
         "tienda": "Libreria Nacional",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-60.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-60.jpg"
+        "imagenLocal": "/backpack/img-dcto-60.jpg"
     },
     {
         "tienda": "Colloky",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Moletto",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-3x2.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-3x2.jpg"
+        "imagenLocal": "/backpack/img-dcto-3x2.jpg"
     },
     {
         "tienda": "Head",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Foster",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Moon by Foster",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Crocs",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Music World",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-80.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-80.jpg"
+        "imagenLocal": "/backpack/img-dcto-80.jpg"
     },
     {
         "tienda": "Mossimo",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-30.jpg"
-=======
-        "tienda": "Timberland",
-        "finicio": "07-04-2014",
-        "ftermino": "30-04-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
-    },
-    {
-        "tienda": "Timberland",
-        "finicio": "07-04-2014",
-        "ftermino": "30-04-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-40.jpg"
-    },
-    {
-        "tienda": "Home Factory",
-        "finicio": "07-04-2014",
-        "ftermino": "30-04-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-40.jpg"
-    },
-    {
-        "tienda": "Alfombras Dib",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
->>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
+        "imagenLocal": "/backpack/img-dcto-30.jpg"
     },
     {
         "tienda": "Alfombras Dib",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
-<<<<<<< HEAD
         "tienda": "Zoo York",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-40.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-40.jpg"
+        "imagenLocal": "/backpack/img-dcto-40.jpg"
     },
     {
         "tienda": "Bamers",
-=======
-        "tienda": "Umbro",
-        "finicio": "07-04-2014",
-        "ftermino": "30-04-2014",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-60.jpg"
-    },
-    {
-        "tienda": "Moon by Foster",
->>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-2x1.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-2x1.jpg"
+        "imagenLocal": "/backpack/img-dcto-2x1.jpg"
     },
     {
-<<<<<<< HEAD
         "tienda": "Perfúmame",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Todo Piel",
-=======
-        "tienda": "JJO",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-25.jpg"
-    },
-    {
-        "tienda": "Lounge",
->>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-70.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-70.jpg"
+        "imagenLocal": "/backpack/img-dcto-70.jpg"
     },
     {
-<<<<<<< HEAD
         "tienda": "Baby Center Store",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Bubble Gummers",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-2x1.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-2x1.jpg"
+        "imagenLocal": "/backpack/img-dcto-2x1.jpg"
     },
     {
         "tienda": "Arrow",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Levi's Store",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-25.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-25.jpg"
+        "imagenLocal": "/backpack/img-dcto-25.jpg"
     },
     {
         "tienda": "De Togni",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-70.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-70.jpg"
+        "imagenLocal": "/backpack/img-dcto-70.jpg"
     },
     {
         "tienda": "CMoran",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Americanino",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Flores Euphoria",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-30.jpg"
+        "imagenLocal": "/backpack/img-dcto-30.jpg"
     },
     {
         "tienda": "Kevingston",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-2x1.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-2x1.jpg"
+        "imagenLocal": "/backpack/img-dcto-2x1.jpg"
     },
     {
         "tienda": "DOIT",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "October",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Studio F",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     },
     {
         "tienda": "Shoes & Piel",
         "finicio": "null",
         "ftermino": "null",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-50.jpg",
-        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/img-dcto-50.jpg"
-=======
-        "tienda": "Kevingston",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-20.jpg"
-    },
-    {
-        "tienda": "Kevingston",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-25.jpg"
-    },
-    {
-        "tienda": "Kevingston",
-        "finicio": "null",
-        "ftermino": "null",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/promociones/img-dcto-30.jpg"
->>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
+        "imagenLocal": "/backpack/img-dcto-50.jpg"
     }
 ]

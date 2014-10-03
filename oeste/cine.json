@@ -1,162 +1,107 @@
 [
     {
-<<<<<<< HEAD
         "titulo": "Rodencia ",
         "texto": "<div>Es la historia de aventuras y amor del pequeño ratón EDAM, torpe aprendiz de mago   </div>",
         "horario": "<p><strong>Sala 3D/ Doblada:</strong></p><div><div>4-oct:11:10</div><div>5-oct:11:10</div></div><div>&nbsp;</div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept4/rodencia.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/rodencia.jpg"
+        "aficheLocal": "/backpack/rodencia.jpg"
     },
     {
         "titulo": "Ritual Sangriento",
         "texto": "<div style=\"text-align: justify;\"> </div><div style=\"text-align: justify;\">La familia Parker es conocida en el pueblo por su discreción. Detrás de las puertas   </div>",
         "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><div><div>2-oct:23:45</div><div>3-oct:23:45</div><div>4-oct:00:00</div><div>5-oct:00:00</div><div>6-oct:23:45</div><div>7-oct:23:45</div><div>8-oct:23:45</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept4/afiche_ritual_sangriento.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/afiche_ritual_sangriento.jpg"
+        "aficheLocal": "/backpack/afiche_ritual_sangriento.jpg"
     },
     {
         "titulo": "Maze Runner - Correr o Morir",
         "texto": "<div style=\"text-align: justify;\">Cuando Thomas (O'Brien) despierta atrapado en un laberinto enorme, con un grupo de otros niños,   </div>",
-        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div>25-sep: &nbsp;12:20 &nbsp;15:00 &nbsp;17:30 &nbsp;20:10 &nbsp;22:50</div><div>26-sep: &nbsp;12:20 &nbsp;15:00 &nbsp;17:30 &nbsp;20:10 &nbsp;22:50 &nbsp;00:25</div><div>27-sep: &nbsp;10:15 &nbsp;12:50 &nbsp;15:25 &nbsp;18:00 &nbsp;20:35 &nbsp;23:10 &nbsp;00:45</div><div>28-sep: &nbsp;10:15 &nbsp;12:50 &nbsp;15:25 &nbsp;18:00 &nbsp;20:35 &nbsp;23:10</div><div>29-sep: &nbsp;12:20 &nbsp;15:00 &nbsp;17:30 &nbsp;20:10 &nbsp;22:50</div><div>30-sep: &nbsp;12:20 &nbsp;15:00 &nbsp;17:30 &nbsp;20:10 &nbsp;22:50</div><div>&nbsp; &nbsp;1-oct: &nbsp;12:20 &nbsp;15:00 &nbsp;17:30 &nbsp;20:10 &nbsp;22:50</div>",
+        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div><div>3-oct:12:05 14:30 17:00 18:00 19:40 20:40 22:10 23:15 00:50 00:45</div><div>4-oct:13:10 15:50 16:50 18:30 19:30 21:10 22:10 23:40 00:45</div><div>5-oct:13:10 15:50 16:50 18:30 19:30 21:10 22:10 23:40 00:45</div><div>6-oct:12:05 14:30 17:00 18:00 19:40 20:40 22:10 23:15 00:50 00:45</div><div>7-oct:09:50 12:05 14:30 17:00 18:00 19:40 20:40 22:10 23:15</div><div>8-oct:12:05 14:30 17:00 18:00 19:40 20:40 22:10 23:15</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept3/mazerunner_afiche.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mazerunner_afiche.jpg"
+        "aficheLocal": "/backpack/mazerunner_afiche.jpg"
     },
     {
         "titulo": "Caballeros del Zodiaco",
         "texto": "<div style=\"text-align: justify;\">Guerreros llamados &ldquo;Caballeros&rdquo; son los campeones de la esperanza que siempre han aparecido desde la Era del Mito cuando el mal amenaza al mundo.   </div>",
         "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div><div>2-oct:19:10 21:25</div><div>3-oct:12:30 14:40 16:55 19:10 21:25</div><div>4-oct:10:40 12:55 15:00 17:10 19:20 21:40</div><div>5-oct:10:40 12:55 15:00 17:10 19:20 21:40</div><div>6-oct:12:30 14:40 16:55 19:10 21:25</div><div>7-oct:10:30 12:30 14:40 16:55 19:10 21:25</div><div>8-oct:12:30 14:40 16:55 19:10 21:25</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept3/caballeros_afiche.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/caballeros_afiche.jpg"
+        "aficheLocal": "/backpack/caballeros_afiche.jpg"
     },
     {
         "titulo": "Guns N' Roses Appetite for Democracy 3D Live at Hard Rock Las Vegas",
         "texto": "<div><span style=\"font-size: 12px;\">Guns N 'Roses consiguió ser reconocido mundialmente  luego de su álbum debut Appetite for Destruction.   </span></div>",
         "horario": "<p><strong>Sala 3D/ Subtitulada:</strong></p><div>25-sep: &nbsp;21:30</div><div>26-sep: &nbsp;21:30</div><div>27-sep: &nbsp;21:30</div><div>28-sep: &nbsp;19:30</div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept3/guns-n-roses_finalbaja.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/guns-n-roses_finalbaja.jpg"
+        "aficheLocal": "/backpack/guns-n-roses_finalbaja.jpg"
     },
     {
         "titulo": "Comando Especial 2",
         "texto": "<p>&ldquo;Después de pasar por la secundaria (dos veces), grandes cambios están por venir  para los oficiales Schmidt   </p>",
         "horario": "null",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept2/22jumpstreet.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/22jumpstreet.jpg"
+        "aficheLocal": "/backpack/22jumpstreet.jpg"
     },
     {
         "titulo": "Winter El Delfín 2",
         "texto": "<p style=\"text-align: justify;\">Continúa la historia de la valiente delfín Winter, que con su rescate milagroso y recuperación, se convirtió en un símbolo de esperanza y perseverancia.  </p>",
         "horario": "null",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/sept2/dolphin.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dolphin.jpg"
+        "aficheLocal": "/backpack/dolphin.jpg"
     },
     {
         "titulo": "Hércules",
         "texto": "<div>La cinta de Paramount Pictures y Metro-Goldwyn-Mayer Pictures, HÉRCULES, estelarizada por Dwayne Johnson. Basada en &lsquo;Hércules&rsquo; de Radical Comics, esta cinta de acción presenta un elenco internacional. Esta nueva visión del mito clásico se desarrolla en un mundo real, en el que lo supernatural no existe. HÉRCULES también está estelarizada por Ian McShane, Rufus Sewell, Joseph Fiennes, Peter Mullan y John Hurt.</div><div> </div><div><div><strong>Director:</strong> Brett Ratner</div><div><strong>Reparto:</strong> Dwayne Johnson, John Hurt, Ian McShane</div></div><div> </div>",
         "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><div><div>3-oct:18:10 20:35 23:00 00:20</div><div>4-oct:16:20 18:40 21:00 23:20 00:40</div><div>5-oct:16:20 18:40 21:00 23:20 00:40</div><div>6-oct:18:10 20:35 23:00 00:20</div><div>7-oct:10:05 18:10 20:35 23:00</div><div>8-oct:18:10 20:35 23:00</div></div><p>&nbsp;</p>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/septiembre1/hercules_afiche_espa_ol_chile.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/hercules_afiche_espa_ol_chile.jpg"
+        "aficheLocal": "/backpack/hercules_afiche_espa_ol_chile.jpg"
     },
     {
         "titulo": "Locos por las Nueces",
         "texto": "<div>Una cascarrabias e independiente ardilla es desterrada de su parque y obligada a sobrevivir en la ciudad. Por suerte, tropieza con algo que puede salvarle la vida a ella y al resto de los habitantes del parque, mientras se preparan para el invierno y para la tienda de Maury Nut.</div><div> </div><div><div><strong>Director:</strong> Peter Lepeniotis</div><div><strong>Reparto:</strong> Will Arnett - Katherine Heigl - Brendan Fraser</div></div><div> </div>",
         "horario": "<p>&nbsp;</p><p><strong>Sala 2D/ Doblada:</strong></p><div><div>2-oct:18:20</div><div>3-oct:12:10 14:10 16:15 18:20</div><div>4-oct:10:20 12:30 14:35 16:40 18:50 20:50</div><div>5-oct:10:20 12:30 14:35 16:40 18:50 20:50</div><div>6-oct:12:10 14:10 16:15 18:20</div><div>7-oct:20:20</div><div>8-oct:12:10 14:10 16:15 18:20</div><div>&nbsp;</div><div><strong>Sala 3D/ Doblada:</strong></div><div>&nbsp;</div><div>7-oct:10:10 12:10 14:10 16:15 18:20</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/septiembre1/locos_por_las_nueces.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/locos_por_las_nueces.jpg"
+        "aficheLocal": "/backpack/locos_por_las_nueces.jpg"
     },
     {
         "titulo": "Líbranos del Mal",
         "texto": "<div style=\"text-align: justify;\"><span style=\"font-size: 12px;\">En Líbranos del Mal, Ralph Sarchie (Eric Bana), oficial de la policía de Nueva York, se encuentra luchando con sus problemas   </span></div>",
         "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><div><div><div><div>25-sep: &nbsp;14:20 &nbsp;17:10 &nbsp;19:50 &nbsp;22:30</div><div>26-sep: &nbsp;14:20 &nbsp;17:10 &nbsp;19:50 &nbsp;22:30 &nbsp;00:10</div><div>27-sep: &nbsp;11:20 &nbsp;14:10 &nbsp;16:50 &nbsp;19:30 &nbsp;22:10 &nbsp;00:50</div><div>28-sep: &nbsp;11:50 &nbsp;14:20 &nbsp;17:00 &nbsp;19:40 &nbsp;22:20</div><div>29-sep: &nbsp;14:20 &nbsp;17:10 &nbsp;19:50 &nbsp;22:30</div><div>30-sep: &nbsp;14:20 &nbsp;17:10 &nbsp;19:50 &nbsp;22:30</div><div>&nbsp; &nbsp;1-oct: &nbsp;14:20 &nbsp;17:10 &nbsp;19:50 &nbsp;22:30</div></div></div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/agosto5/libranos del mal.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/libranos del mal.jpg"
+        "aficheLocal": "/backpack/libranos del mal.jpg"
     },
     {
         "titulo": "Lucy",
         "texto": "<p style=\"text-align: justify;\">Un thriller de acción que examina la posibilidad de qué podría hacer verdaderamente un humano si se destraba el 100 por ciento de su capacidad cerebral.  </p>",
         "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><div><div>2-oct:22:30</div><div>3-oct:22:30 00:45</div><div>4-oct:22:50 00:05</div><div>5-oct:22:50 00:05</div><div>6-oct:22:30 00:45</div><div>7-oct:22:30</div><div>8-oct:22:30 00:45</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/agosto4/lucy.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lucy.jpg"
+        "aficheLocal": "/backpack/lucy.jpg"
     },
     {
         "titulo": "En El Tornado",
         "texto": "<p style=\"text-align: justify;\">En el lapso de un solo día, la ciudad de Silverton es arrasada por una avalancha sin precedentes de tornados.   </p>",
         "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div><div>25-sep: &nbsp;20:35 &nbsp;22:55</div><div>26-sep: &nbsp;20:35 &nbsp;22:55</div><div>27-sep: &nbsp;19:40 &nbsp;21:50 &nbsp;00:00</div><div>28-sep: &nbsp;19:20 &nbsp;21:30 &nbsp;23:35</div><div>29-sep: &nbsp;20:20 &nbsp;22:40</div><div>30-sep: &nbsp;20:20 &nbsp;22:40</div><div>&nbsp; &nbsp;1-oct: &nbsp;20:20 &nbsp;22:40</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/agosto3/en_el_tornado.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/en_el_tornado.jpg"
+        "aficheLocal": "/backpack/en_el_tornado.jpg"
     },
     {
         "titulo": "One Direction: Where We Are - The Concert Film",
         "texto": "<p style=\"text-align: justify;\">La banda más grande del mundo y las superestrellas del pop mundial, One Direction, traen su épica gira mundial 'Where We Are' a los cines de todo el mundo.  </p>",
         "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><div>11-oct:16:00 18:30 19:00</div><div>12-oct:14:00 16:30</div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/agosto3/onedirecction.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/onedirecction.jpg"
+        "aficheLocal": "/backpack/onedirecction.jpg"
     },
     {
         "titulo": "Tortugas Ninja",
         "texto": "<p>El futuro es sombrío para NY, hasta cuatro hermanos marginados improbables se levantan de las alcantarillas y descubren su destino como &ldquo;TORTUGAS NINJA&rdquo;.  </p>",
         "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div><div>3-oct:13:20 15:40</div><div>4-oct:10:00 12:10 14:30</div><div>5-oct:10:00 12:10 14:30</div><div>6-oct:13:20 15:40</div><div>7-oct:11:05 13:20 15:40</div><div>8-oct:13:20 15:40</div></div><div><div>&nbsp;</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/agosto2/tninja.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/tninja.jpg"
+        "aficheLocal": "/backpack/tninja.jpg"
     },
     {
         "titulo": "Guardianes de la Galaxia",
         "texto": "<p>Repleta de acción, la épica aventura espacial GUARDIANES DE LA GALAXIA, de Marvel,  el temerario aventurero Peter Quill se convierte en presa de una implacable cacería de recompensa. </p>",
         "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><div><div><div>&nbsp;</div><div>3-oct:12:2015:15</div><div>4-oct:10:5013:30</div><div>5-oct:10:5013:30</div><div>6-oct:12:2015:15</div><div>7-oct:12:2015:15</div><div>8-oct:12:2015:15</div></div></div><div>&nbsp;</div><div><div>&nbsp;</div><div>&nbsp;</div></div>",
         "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/julio5/guardianes_de_la_galaxia_afiche_final.jpg",
-        "aficheLocal": "/home/ddmallplaza/mall/backpack/oeste/img/guardianes_de_la_galaxia_afiche_final.jpg"
-=======
-        "titulo": "Capitán América y el Soldado del Invierno",
-        "texto": "<p>Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers \"Capitán América\", intenta adaptarse al mundo moderno.   </p>",
-        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">12:30 </span><span class=\"showtime-hour\">13:30</span><span class=\"showtime-hour\"> 15:30 </span><span class=\"showtime-hour\">16:30</span><span class=\"showtime-hour\"> 18:30 </span><span class=\"showtime-hour\">19:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">12:30</span><span class=\"showtime-hour\"> 13:30 </span><span class=\"showtime-hour\">15:30</span><span class=\"showtime-hour\"> 16:30 </span><span class=\"showtime-hour\">18:30</span><span class=\"showtime-hour\"> 19:30</span></li></ul><p class=\"showtime-item\">&nbsp;</p><p class=\"showtime-item\"><span class=\"showtime-hour\"><strong>Sala 3D/ Doblada:</strong></span></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">14:20 </span><span class=\"showtime-hour\">17:20</span><span class=\"showtime-hour\"> 20:20</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">14:20</span><span class=\"showtime-hour\"> 17:20 </span><span class=\"showtime-hour\">20:20</span></li></ul><p class=\"showtime-item\">&nbsp;</p><p class=\"showtime-item\"><span class=\"showtime-hour\"><span class=\"showtime-hour\"><strong>Sala 3D/ Subtitulada:</strong></span></span></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">23:20</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">23:20</span></li></ul><p class=\"showtime-item\">&nbsp;</p><p class=\"showtime-item\">&nbsp;</p><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/capitan_america_afiche.jpg"
-    },
-    {
-        "titulo": "Noé",
-        "texto": "<p>El Ganador del Óscar, Russell Crowe, protagoniza Noé. Un hombre elegido por Dios para una gran tarea antes de que una inundación apocalíptica destruya el mundo&rdquo;.  </p>",
-        "horario": "<p><strong>Sala 3D / Doblada:</strong></p><ul class=\"showtime-items\" style=\"padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 20px; background-color: rgb(238, 238, 238);\"><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">8-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">12:20</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">15:20</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">18:20</span></li><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">9-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">12:20</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">15:20</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">18:20</span></li></ul><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><strong>Sala 3D / Doblada 2&deg; Copia:</strong></p><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\">&nbsp;</p><ul class=\"showtime-items\" style=\"padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 20px; background-color: rgb(238, 238, 238);\"><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">8-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">14:00</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">17:00</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">20:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">23:10</span></li><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">9-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">14:00</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">17:00</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">20:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">23:10</span></li></ul><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><strong>Sala 3D/ Subtitulada:</strong></p><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\">&nbsp;</p><ul class=\"showtime-items\" style=\"padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 20px; background-color: rgb(238, 238, 238);\"><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">8-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">21:20</span></li><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">9-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">21:20</span></li></ul><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><strong>Sala 2D/ Doblada:</strong></p><p class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\">&nbsp;</p><ul class=\"showtime-items\" style=\"padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 20px; background-color: rgb(238, 238, 238);\"><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">8-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">13:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">16:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">19:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">22:10</span></li><li class=\"showtime-item\" style=\"border: 0px; margin: 0px; overflow: hidden; padding: 0px; list-style-type: none;\"><span class=\"showtime-day\" style=\"font-weight: bold; width: 55px; display: inline-block; float: left; margin: 0px 7px 0px 0px;\">9-abr:</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">13:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">16:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">19:10</span><span class=\"showtime-hour\" style=\"margin: 0px 7px 0px 0px; float: left; width: 45px;\">22:10</span></li></ul>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/noe.jpg"
-    },
-    {
-        "titulo": "Don Jon",
-        "texto": "<p>Jon Martello (Joseph Gordon-Levitt) es un joven mujeriego adicto al sexo en general, y al porno en Internet en particular, que intenta ejercer algún tipo de control sobre sí mismo.  </p>",
-        "horario": "<p><strong>Sala 2D/Subtitulada:</strong></p><ul><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\"> 16:50</span><span class=\"showtime-hour\">&nbsp; 19:00</span><span class=\"showtime-hour\">&nbsp; 21:05&nbsp; </span><span class=\"showtime-hour\">23:10</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr: </span><span class=\"showtime-hour\">12:40&nbsp; </span><span class=\"showtime-hour\">14:40&nbsp; </span><span class=\"showtime-hour\">16:50</span><span class=\"showtime-hour\">&nbsp; 19:00&nbsp; </span><span class=\"showtime-hour\">21:05&nbsp; </span><span class=\"showtime-hour\">23:10</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\"> 12:40</span><span class=\"showtime-hour\">&nbsp; 14:40</span><span class=\"showtime-hour\">&nbsp; 16:50</span><span class=\"showtime-hour\">&nbsp; 19:00</span><span class=\"showtime-hour\">&nbsp; 21:05</span><span class=\"showtime-hour\">&nbsp; 23:10</span></li></ul><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/donjon.jpg"
-    },
-    {
-        "titulo": "Escape Imposible",
-        "texto": "<p>Ray Breslim es un experto en seguridad que termina encarcelado en una de las prisiones de alta vigilancia que él mismo ha diseñado. Breslim cae en su propia trampa.  </p>",
-        "horario": "<p><strong>Sala 2D/ Subtitulado:</strong></p><ul><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\"> 22:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\"> 22:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr: </span><span class=\"showtime-hour\">22:30</span></li></ul><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/escape.jpg"
-    },
-    {
-        "titulo": "Heredero del Diablo",
-        "texto": "<p style=\"text-align: justify;\">Después de una feliz luna de miel en la que hubo una noche que no recuerdan nada, una pareja de recién casados se entera de una noticia sorprendente: serán padres antes de lo que tenían previsto.  </p>",
-        "horario": "<p><strong>Sala 2D/ Subtitulada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">3-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40 </span><span class=\"showtime-hour\">19:50</span><span class=\"showtime-hour\"> 22:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">4-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40</span><span class=\"showtime-hour\"> 19:50</span><span class=\"showtime-hour\"> 22:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40</span><span class=\"showtime-hour\"> 19:50</span><span class=\"showtime-hour\"> 22:00 </span><span class=\"showtime-hour\">00:10</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">6-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40</span><span class=\"showtime-hour\"> 19:50</span><span class=\"showtime-hour\"> 22:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40</span><span class=\"showtime-hour\"> 19:50</span><span class=\"showtime-hour\"> 22:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25</span><span class=\"showtime-hour\"> 17:40</span><span class=\"showtime-hour\"> 19:50</span><span class=\"showtime-hour\"> 22:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">13:15</span><span class=\"showtime-hour\"> 15:25 </span><span class=\"showtime-hour\">17:40</span><span class=\"showtime-hour\"> 19:50 </span><span class=\"showtime-hour\">22:00</span></li></ul><p>&nbsp;</p><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/heredero.jpg"
-    },
-    {
-        "titulo": "Non Stop Sin escalas",
-        "texto": "<p style=\"text-align: justify;\">Durante un vuelo que se dirige de Nueva York a Londres, el policía Bill Marks (Liam Neeson) recibe un mensaje de texto anónimo en el que le avisan que cada 20 minutos un pasajero del avión morirá.   </p>",
-        "horario": "<p class=\"showtime-detail\"><strong>Sala 2D/ Subtitulada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">3-abr:</span><span class=\"showtime-hour\">20:40 </span><span class=\"showtime-hour\">23:05</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">4-abr:</span><span class=\"showtime-hour\">23:05</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">23:05</span><span class=\"showtime-hour\"> 01:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">6-abr:</span><span class=\"showtime-hour\">23:05</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\">23:05</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">23:05</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">23:05</span></li></ul><p class=\"showtime-detail\">&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/nonstop.jpg"
-    },
-    {
-        "titulo": "300: El Nacimiento de un Imperio",
-        "texto": "<p>En este nuevo capítulo de la saga épica la batalla es en el mar,en la que el general griego Themistokles intenta unir Grecia al liderar el ataque que cambiará el curso de la guerra.   </p>",
-        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">3-abr:</span><span class=\"showtime-hour\">13:20 </span><span class=\"showtime-hour\">15:40</span><span class=\"showtime-hour\"> 18:05 </span><span class=\"showtime-hour\">20:30</span><span class=\"showtime-hour\"> 23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">4-abr:</span><span class=\"showtime-hour\">13:20</span><span class=\"showtime-hour\"> 15:40</span><span class=\"showtime-hour\"> 18:05</span><span class=\"showtime-hour\"> 20:30</span><span class=\"showtime-hour\"> 23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">10:00</span><span class=\"showtime-hour\"> 11:05</span><span class=\"showtime-hour\"> 13:20</span><span class=\"showtime-hour\"> 15:40</span><span class=\"showtime-hour\"> 18:05 </span><span class=\"showtime-hour\">20:30</span><span class=\"showtime-hour\"> 23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">6-abr:</span><span class=\"showtime-hour\">10:00</span><span class=\"showtime-hour\"> 11:05</span><span class=\"showtime-hour\"> 13:20</span><span class=\"showtime-hour\"> 15:40</span><span class=\"showtime-hour\"> 18:05</span><span class=\"showtime-hour\"> 20:30 </span><span class=\"showtime-hour\">23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\">13:20</span><span class=\"showtime-hour\"> 15:40</span><span class=\"showtime-hour\"> 18:05</span><span class=\"showtime-hour\"> 20:30</span><span class=\"showtime-hour\"> 23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">13:20</span><span class=\"showtime-hour\"> 15:40</span><span class=\"showtime-hour\"> 18:05</span><span class=\"showtime-hour\"> 20:30</span><span class=\"showtime-hour\"> 23:00</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">13:20</span><span class=\"showtime-hour\"> 15:40 </span><span class=\"showtime-hour\">18:05</span><span class=\"showtime-hour\"> 20:30 </span><span class=\"showtime-hour\">23:00</span></li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong><strong>Sala 2D/ Subtitulada:</strong></strong></p><p><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">01:25</span></p><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/300_afiche.jpg"
-    },
-    {
-        "titulo": "Need for Speed",
-        "texto": "<p>Condenado por un crimen que no había cometido, Tobey sale de la cárcel para ajustar cuentas con el responsable de su encarcelamiento.   </p>",
-        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">3-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">4-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">6-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">21:30</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">21:30</span></li></ul><p class=\"showtime-item\">&nbsp;</p><p class=\"showtime-item\">&nbsp;</p><p>&nbsp;</p>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/need-for_afiche.jpg"
-    },
-    {
-        "titulo": "Mr Peabody & Sherman",
-        "texto": "<p>El Sr. Peabody es un perro inventor, un codicioso científico, ha ganado dos veces una medalla olímpica y, lo más importante, es todo un genio.  </p>",
-        "horario": "<p><strong>Sala 2D/ Doblada:</strong></p><ul class=\"showtime-items\"><li class=\"showtime-item\"><span class=\"showtime-day\">3-abr:</span><span class=\"showtime-hour\">12:00 </span><span class=\"showtime-hour\">14:10</span><span class=\"showtime-hour\"> 16:20 </span><span class=\"showtime-hour\">18:35</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">4-abr:</span><span class=\"showtime-hour\">12:00</span><span class=\"showtime-hour\"> 14:10</span><span class=\"showtime-hour\"> 16:20</span><span class=\"showtime-hour\"> 18:35</span><span class=\"showtime-hour\"> 20:50</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">5-abr:</span><span class=\"showtime-hour\">10:15</span><span class=\"showtime-hour\"> 12:00</span><span class=\"showtime-hour\"> 14:10</span><span class=\"showtime-hour\"> 16:20</span><span class=\"showtime-hour\"> 18:35 </span><span class=\"showtime-hour\">20:50</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">6-abr:</span><span class=\"showtime-hour\">10:15</span><span class=\"showtime-hour\"> 12:00</span><span class=\"showtime-hour\"> 14:10</span><span class=\"showtime-hour\"> 16:20</span><span class=\"showtime-hour\"> 18:35</span><span class=\"showtime-hour\"> 20:50</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">7-abr:</span><span class=\"showtime-hour\">12:00</span><span class=\"showtime-hour\"> 14:10</span><span class=\"showtime-hour\"> 16:20</span><span class=\"showtime-hour\"> 18:35</span><span class=\"showtime-hour\"> 20:50</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">8-abr:</span><span class=\"showtime-hour\">12:00</span><span class=\"showtime-hour\"> 14:10</span><span class=\"showtime-hour\"> 16:20</span><span class=\"showtime-hour\"> 18:35</span><span class=\"showtime-hour\"> 20:50</span></li><li class=\"showtime-item\"><span class=\"showtime-day\">9-abr:</span><span class=\"showtime-hour\">12:00</span><span class=\"showtime-hour\"> 14:10 </span><span class=\"showtime-hour\">16:20</span><span class=\"showtime-hour\"> 18:35 </span><span class=\"showtime-hour\">20:50</span></li></ul>",
-        "afiche": "http://www.mallplaza.cl/images/stories/compartido/cine/peabody_sherman_afiche.jpg"
->>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
+        "aficheLocal": "/backpack/guardianes_de_la_galaxia_afiche_final.jpg"
     }
 ]

@@ -13,7 +13,7 @@
         ],
         "nodo": "44",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/100montaditos.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/100montaditos.jpg",
+        "logoLocal": "/backpack/100montaditos.jpg",
         "piso": "1",
         "geo": [
             "T-101"
@@ -26,8 +26,7 @@
         "rubro": [
             "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Nike",
@@ -42,7 +41,7 @@
         ],
         "nodo": "288",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/100Futbol.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/100Futbol.jpg",
+        "logoLocal": "/backpack/100Futbol.jpg",
         "piso": "3",
         "geo": [
             "A-321+A-325+A-329"
@@ -67,7 +66,7 @@
         ],
         "nodo": "36",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/1234.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/1234.jpg",
+        "logoLocal": "/backpack/1234.jpg",
         "piso": "1",
         "geo": [
             "B-106"
@@ -80,7 +79,7 @@
         "rubro": [
             "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Adidas",
@@ -90,7 +89,7 @@
         ],
         "nodo": "77",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Adidas.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Adidas.jpg",
+        "logoLocal": "/backpack/Adidas.jpg",
         "piso": "1",
         "geo": [
             "A-161+A-165+A-169+A-173+A-177"
@@ -111,7 +110,7 @@
         ],
         "nodo": "251",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/adidas_original.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/adidas_original.jpg",
+        "logoLocal": "/backpack/adidas_original.jpg",
         "piso": "2",
         "geo": [
             "B-214+B-216"
@@ -123,7 +122,7 @@
         "nombre": "Afex (casa de cambio)",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Dólar",
@@ -137,7 +136,7 @@
         ],
         "nodo": "214",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Afex.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Afex.jpg",
+        "logoLocal": "/backpack/Afex.jpg",
         "piso": "2",
         "geo": [
             "BDK-2040a"
@@ -149,9 +148,9 @@
         "nombre": "Albin Trotter",
         "rubro": [
             "Accesorios",
-            "Hogar y Regalos",
+            "Hogar y Decoración",
             "Servicios",
-            "Vivienda y Construcción"
+            "Construcción"
         ],
         "productos": [
             "calefonts",
@@ -160,7 +159,7 @@
         ],
         "nodo": "305",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/albin-trotter.png",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/albin-trotter.png",
+        "logoLocal": "/backpack/albin-trotter.png",
         "piso": "3",
         "geo": [
             "D-318+D-322+D-326"
@@ -171,7 +170,7 @@
     {
         "nombre": "Alfombras Dib",
         "rubro": [
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Alfombras",
@@ -181,7 +180,7 @@
         ],
         "nodo": "301",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/dib.png",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dib.png",
+        "logoLocal": "/backpack/dib.png",
         "piso": "3",
         "geo": [
             "D-364+D-368"
@@ -211,7 +210,7 @@
         ],
         "nodo": "425",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/AllNutrition.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/AllNutrition.jpg",
+        "logoLocal": "/backpack/AllNutrition.jpg",
         "piso": "3",
         "geo": [
             "MP-320"
@@ -230,7 +229,7 @@
         ],
         "nodo": "108",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Alpinowagen.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Alpinowagen.jpg",
+        "logoLocal": "/backpack/Alpinowagen.jpg",
         "piso": "1",
         "geo": [
             "AP-153+AP-154+AP-155"
@@ -254,7 +253,7 @@
         ],
         "nodo": "308",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Americanino.jpg",
+        "logoLocal": "/backpack/Americanino.jpg",
         "piso": "3",
         "geo": [
             "C-301+C-305+C-309+C-310+C-317"
@@ -275,7 +274,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Americanino.jpg",
+        "logoLocal": "/backpack/Americanino.jpg",
         "piso": "1",
         "geo": [
             "BA-144+BA-140"
@@ -296,7 +295,7 @@
         ],
         "nodo": "180",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Amphora.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Amphora.jpg",
+        "logoLocal": "/backpack/Amphora.jpg",
         "piso": "2",
         "geo": [
             "A-237+A241a"
@@ -320,7 +319,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/andocreando.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/andocreando.jpg",
+        "logoLocal": "/backpack/andocreando.jpg",
         "piso": "2",
         "geo": [
             "A-222"
@@ -340,7 +339,7 @@
         ],
         "nodo": "173",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Antena3.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Antena3.jpg",
+        "logoLocal": "/backpack/Antena3.jpg",
         "piso": "2",
         "geo": [
             " A-289+A-293"
@@ -362,7 +361,7 @@
         ],
         "nodo": "16",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Arrow.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Arrow.jpg",
+        "logoLocal": "/backpack/Arrow.jpg",
         "piso": "1",
         "geo": [
             "C-145+C-149"
@@ -385,7 +384,7 @@
         ],
         "nodo": "102",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Aseguradoramagallanes.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Aseguradoramagallanes.jpg",
+        "logoLocal": "/backpack/Aseguradoramagallanes.jpg",
         "piso": "1",
         "geo": [
             "AP-136a"
@@ -410,7 +409,7 @@
         ],
         "nodo": "321",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/audiomusica.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/audiomusica.jpg",
+        "logoLocal": "/backpack/audiomusica.jpg",
         "piso": "3",
         "geo": [
             "A-378+A-374+A-370+BS-301"
@@ -433,7 +432,7 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/automotoraruz.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/automotoraruz.jpg",
+        "logoLocal": "/backpack/automotoraruz.jpg",
         "piso": "1",
         "geo": [
             "AU-101+A-105"
@@ -453,7 +452,7 @@
         ],
         "nodo": "58",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Azaleia.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Azaleia.jpg",
+        "logoLocal": "/backpack/Azaleia.jpg",
         "piso": "1",
         "geo": [
             "A-106c+A-110"
@@ -472,7 +471,7 @@
         ],
         "nodo": "314",
         "logo": "http://www.mallplaza.cl/images/stories/boost2.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/boost2.jpg",
+        "logoLocal": "/backpack/boost2.jpg",
         "piso": "3",
         "geo": [
             "C-377"
@@ -497,7 +496,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/babycenter.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/babycenter.jpg",
+        "logoLocal": "/backpack/babycenter.jpg",
         "piso": "2",
         "geo": [
             "D-250+D-254+D-258"
@@ -528,7 +527,7 @@
         ],
         "nodo": "25",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/babyinfanti.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/babyinfanti.jpg",
+        "logoLocal": "/backpack/babyinfanti.jpg",
         "piso": "1",
         "geo": [
             "C158+C162"
@@ -553,7 +552,7 @@
         ],
         "nodo": "319",
         "logo": "http://www.mallplaza.cl/images/stories/baby world.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/baby world.jpg",
+        "logoLocal": "/backpack/baby world.jpg",
         "piso": "3",
         "geo": [
             "C-370"
@@ -576,7 +575,7 @@
         ],
         "nodo": "314",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bamers.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bamers.jpg",
+        "logoLocal": "/backpack/bamers.jpg",
         "piso": "3",
         "geo": [
             "C-357"
@@ -588,7 +587,7 @@
         "nombre": "Banco BBVA",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "BBVA",
@@ -598,7 +597,7 @@
         ],
         "nodo": "156",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bbva.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bbva.jpg",
+        "logoLocal": "/backpack/bbva.jpg",
         "piso": "2",
         "geo": [
             "BMCD-1001+BMCD-1005+BMCD-1009+BMCD-1013+BMCD-1017+BMCD-1021"
@@ -610,7 +609,7 @@
         "nombre": "Banco BCI",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco BCI",
@@ -620,7 +619,7 @@
         ],
         "nodo": "236",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancobci.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancobci.jpg",
+        "logoLocal": "/backpack/bancobci.jpg",
         "piso": "1",
         "geo": [
             "C-278+C-282+C-286+E205"
@@ -632,7 +631,7 @@
         "nombre": "Banco Estado",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco del estado",
@@ -642,7 +641,7 @@
         ],
         "nodo": "272",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoestado.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoestado.jpg",
+        "logoLocal": "/backpack/bancoestado.jpg",
         "piso": "1",
         "geo": [
             "BS-104+BS-106"
@@ -654,7 +653,7 @@
         "nombre": "Banco Falabella",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco Falabella",
@@ -664,7 +663,7 @@
         ],
         "nodo": "250",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BancoFalabella.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BancoFalabella.jpg",
+        "logoLocal": "/backpack/BancoFalabella.jpg",
         "piso": "1",
         "geo": [
             "B-222a"
@@ -676,7 +675,7 @@
         "nombre": "Banco Itau",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco Itau",
@@ -686,7 +685,7 @@
         ],
         "nodo": "270",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoitau.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoitau.jpg",
+        "logoLocal": "/backpack/bancoitau.jpg",
         "piso": "1",
         "geo": [
             "BS-110+BS-112"
@@ -698,7 +697,7 @@
         "nombre": "Banco Ripley",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco Ripley",
@@ -708,7 +707,7 @@
         ],
         "nodo": "193",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoripley.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoripley.jpg",
+        "logoLocal": "/backpack/bancoripley.jpg",
         "piso": "2",
         "geo": [
             "D-270+D-274+E-204"
@@ -720,7 +719,7 @@
         "nombre": "Banco Santander ",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco Santander Santiago",
@@ -730,7 +729,7 @@
         ],
         "nodo": "269",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancosantander.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancosantander.jpg",
+        "logoLocal": "/backpack/bancosantander.jpg",
         "piso": "1",
         "geo": [
             "BS-114+BS-116"
@@ -742,7 +741,7 @@
         "nombre": "Banco Santander Banefe",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco Santander Banefe",
@@ -750,7 +749,7 @@
         ],
         "nodo": "268",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancobanefe.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancobanefe.jpg",
+        "logoLocal": "/backpack/bancobanefe.jpg",
         "piso": "1",
         "geo": [
             "BS-118"
@@ -762,7 +761,7 @@
         "nombre": "Banco de Chile",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Banco de Chile",
@@ -772,7 +771,7 @@
         ],
         "nodo": "237",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancochile.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancochile.jpg",
+        "logoLocal": "/backpack/bancochile.jpg",
         "piso": "1",
         "geo": [
             "BS-122"
@@ -794,7 +793,7 @@
         ],
         "nodo": "48",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bariloche.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bariloche.jpg",
+        "logoLocal": "/backpack/bariloche.jpg",
         "piso": "1",
         "geo": [
             "LT-107"
@@ -827,7 +826,7 @@
         ],
         "nodo": "39",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bata.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Bata.jpg",
+        "logoLocal": "/backpack/Bata.jpg",
         "piso": "1",
         "geo": [
             "B-114a+B-118a+B-122a"
@@ -860,7 +859,7 @@
         ],
         "nodo": "30",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/batafamiliar.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/batafamiliar.jpg",
+        "logoLocal": "/backpack/batafamiliar.jpg",
         "piso": "1",
         "geo": [
             "C-130+C-134"
@@ -880,7 +879,7 @@
         ],
         "nodo": "204",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bellota.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Bellota.jpg",
+        "logoLocal": "/backpack/Bellota.jpg",
         "piso": "2",
         "geo": [
             "C-233"
@@ -891,9 +890,9 @@
     {
         "nombre": "Belsport",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Ofrece marcas de renombre en un funcional",
@@ -902,7 +901,7 @@
         ],
         "nodo": "33",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Belsport.jpg",
+        "logoLocal": "/backpack/Belsport.jpg",
         "piso": "1",
         "geo": [
             "C-114+C-116"
@@ -913,7 +912,7 @@
     {
         "nombre": "Belsport 2",
         "rubro": [
-            "Deporte"
+            "Accesorios Deportivos"
         ],
         "productos": [
             "Ofrece marcas de renombre en un funcional",
@@ -922,7 +921,7 @@
         ],
         "nodo": "207",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Belsport.jpg",
+        "logoLocal": "/backpack/Belsport.jpg",
         "piso": "2",
         "geo": [
             "C-245a+C-245b+C-249a+C-249b+C-253"
@@ -943,7 +942,7 @@
         ],
         "nodo": "31",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bigbang.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bigbang.jpg",
+        "logoLocal": "/backpack/bigbang.jpg",
         "piso": "1",
         "geo": [
             "C-126a"
@@ -966,7 +965,7 @@
         ],
         "nodo": "297",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bip.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bip.jpg",
+        "logoLocal": "/backpack/bip.jpg",
         "piso": "3",
         "geo": [
             "A-370+A-374+A-978 "
@@ -985,7 +984,7 @@
         ],
         "nodo": "179",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Block.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Block.jpg",
+        "logoLocal": "/backpack/Block.jpg",
         "piso": "2",
         "geo": [
             "A-241b+A-245+A-249"
@@ -1004,7 +1003,7 @@
         ],
         "nodo": "181",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/boutiquemex.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/boutiquemex.jpg",
+        "logoLocal": "/backpack/boutiquemex.jpg",
         "piso": "2",
         "geo": [
             "A-233"
@@ -1030,7 +1029,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/box.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/box.jpg",
+        "logoLocal": "/backpack/box.jpg",
         "piso": "2",
         "geo": [
             "MP-209"
@@ -1051,7 +1050,7 @@
         ],
         "nodo": "9",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bravissimo.jpg",
+        "logoLocal": "/backpack/bravissimo.jpg",
         "piso": "1",
         "geo": [
             "D-165"
@@ -1072,7 +1071,7 @@
         ],
         "nodo": "42",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bravissimo.jpg",
+        "logoLocal": "/backpack/bravissimo.jpg",
         "piso": "1",
         "geo": [
             "B-138b+B-142"
@@ -1099,7 +1098,7 @@
         ],
         "nodo": "76",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bresler.jpg",
+        "logoLocal": "/backpack/bresler.jpg",
         "piso": "1",
         "geo": [
             "A-185"
@@ -1117,7 +1116,7 @@
         ],
         "nodo": "173",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bresler.jpg",
+        "logoLocal": "/backpack/bresler.jpg",
         "piso": "2",
         "geo": [
             "A-293"
@@ -1141,7 +1140,7 @@
         ],
         "nodo": "174",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BrunoRossi.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BrunoRossi.jpg",
+        "logoLocal": "/backpack/BrunoRossi.jpg",
         "piso": "2",
         "geo": [
             "A-281"
@@ -1165,7 +1164,7 @@
         ],
         "nodo": "17",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BubbleGummers.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BubbleGummers.jpg",
+        "logoLocal": "/backpack/BubbleGummers.jpg",
         "piso": "1",
         "geo": [
             "C-153+C-157"
@@ -1187,7 +1186,7 @@
         ],
         "nodo": "344",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BufaloBeef.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BufaloBeef.jpg",
+        "logoLocal": "/backpack/BufaloBeef.jpg",
         "piso": "3",
         "geo": [
             "B-309"
@@ -1209,7 +1208,7 @@
         ],
         "nodo": "332",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Buffetexpress.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Buffetexpress.jpg",
+        "logoLocal": "/backpack/Buffetexpress.jpg",
         "piso": "3",
         "geo": [
             "B-322+B-318"
@@ -1230,7 +1229,7 @@
         ],
         "nodo": "343",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/burgerking.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/burgerking.jpg",
+        "logoLocal": "/backpack/burgerking.jpg",
         "piso": "3",
         "geo": [
             "B-303"
@@ -1251,7 +1250,7 @@
         ],
         "nodo": "49",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CAT.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CAT.jpg",
+        "logoLocal": "/backpack/CAT.jpg",
         "piso": "1",
         "geo": [
             "BA-124+BA-128"
@@ -1262,7 +1261,7 @@
     {
         "nombre": "CIC Hogar",
         "rubro": [
-            "Hogar y Regalos",
+            "Hogar y Decoración",
             "Muebles"
         ],
         "productos": [
@@ -1275,7 +1274,7 @@
         ],
         "nodo": "293",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cic.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cic.jpg",
+        "logoLocal": "/backpack/cic.jpg",
         "piso": "3",
         "geo": [
             "D-317+D-321+D-325"
@@ -1294,7 +1293,7 @@
         ],
         "nodo": "137",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cmrfalabellaautomotriz.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cmrfalabellaautomotriz.jpg",
+        "logoLocal": "/backpack/cmrfalabellaautomotriz.jpg",
         "piso": "1",
         "geo": [
             "AP-113"
@@ -1313,7 +1312,7 @@
         ],
         "nodo": "239",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cristian moran.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cristian moran.jpg",
+        "logoLocal": "/backpack/cristian moran.jpg",
         "piso": "2",
         "geo": [
             "C-258"
@@ -1324,7 +1323,7 @@
     {
         "nombre": "Caffarena",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Caffarena",
@@ -1336,7 +1335,7 @@
         ],
         "nodo": "62",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Caffarena.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Caffarena.jpg",
+        "logoLocal": "/backpack/Caffarena.jpg",
         "piso": "1",
         "geo": [
             "A-138"
@@ -1357,7 +1356,7 @@
         ],
         "nodo": "290",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/call-it-spring.gif",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/call-it-spring.gif",
+        "logoLocal": "/backpack/call-it-spring.gif",
         "piso": "3",
         "geo": [
             "A-301+A-305+A-309+A-313b"
@@ -1368,7 +1367,7 @@
     {
         "nombre": "Cannon",
         "rubro": [
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Cannon",
@@ -1378,7 +1377,7 @@
         ],
         "nodo": "87",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cannon.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cannon.jpg",
+        "logoLocal": "/backpack/cannon.jpg",
         "piso": "1",
         "geo": [
             "D-125+D-129"
@@ -1401,7 +1400,7 @@
         ],
         "nodo": "244",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Capellini.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Capellini.jpg",
+        "logoLocal": "/backpack/Capellini.jpg",
         "piso": "2",
         "geo": [
             "C-222+C-226a"
@@ -1420,7 +1419,7 @@
         ],
         "nodo": "126",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/carmeister.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/carmeister.jpg",
+        "logoLocal": "/backpack/carmeister.jpg",
         "piso": "1",
         "geo": [
             "AU-100+AU-104"
@@ -1439,7 +1438,7 @@
         ],
         "nodo": "10",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cardinale.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cardinale.jpg",
+        "logoLocal": "/backpack/cardinale.jpg",
         "piso": "1",
         "geo": [
             "D-114+D-118 a"
@@ -1460,7 +1459,7 @@
         ],
         "nodo": "41",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casaamarilla.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casaamarilla.jpg",
+        "logoLocal": "/backpack/casaamarilla.jpg",
         "piso": "1",
         "geo": [
             "B-138"
@@ -1490,7 +1489,7 @@
         ],
         "nodo": "22",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casablanca.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casablanca.jpg",
+        "logoLocal": "/backpack/casablanca.jpg",
         "piso": "1",
         "geo": [
             "C-186+C-189"
@@ -1501,7 +1500,7 @@
     {
         "nombre": "Casa Pichara",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Elgon",
@@ -1516,7 +1515,7 @@
         ],
         "nodo": "163",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casapichara.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casapichara.jpg",
+        "logoLocal": "/backpack/casapichara.jpg",
         "piso": "1",
         "geo": [
             "BT-146+BT-148+BT-150"
@@ -1536,7 +1535,7 @@
         ],
         "nodo": "D-161",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CasaRoyal.jpg",
+        "logoLocal": "/backpack/CasaRoyal.jpg",
         "piso": "1",
         "geo": [
             "D-137+D-157+D-161"
@@ -1558,7 +1557,7 @@
         ],
         "nodo": "75",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CasaRoyal.jpg",
+        "logoLocal": "/backpack/CasaRoyal.jpg",
         "piso": "1",
         "geo": [
             "D-149+D-153+D-157+D-161"
@@ -1570,7 +1569,7 @@
         "nombre": "Casa de Cambio Euro Cambio",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios",
+            "Encomiendas",
             "Servicios"
         ],
         "productos": [
@@ -1578,7 +1577,7 @@
         ],
         "nodo": "152",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/eurocambio.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/eurocambio.jpg",
+        "logoLocal": "/backpack/eurocambio.jpg",
         "piso": "1",
         "geo": [
             "BT-120"
@@ -1589,7 +1588,7 @@
     {
         "nombre": "Casaideas",
         "rubro": [
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Casa Ideas",
@@ -1599,7 +1598,7 @@
         ],
         "nodo": "24",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casaideas.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casaideas.jpg",
+        "logoLocal": "/backpack/casaideas.jpg",
         "piso": "1",
         "geo": [
             "D-149+D-153+D-157+D-161+E-101"
@@ -1627,7 +1626,7 @@
         ],
         "nodo": "119",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Centraldefrenosgoodyear.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Centraldefrenosgoodyear.jpg",
+        "logoLocal": "/backpack/Centraldefrenosgoodyear.jpg",
         "piso": "1",
         "geo": [
             "AP-178+AP-179+AP-180+AP-181+AP-182+AP-183"
@@ -1638,7 +1637,7 @@
     {
         "nombre": "Centro Bip",
         "rubro": [
-            "Encomiendas y Servicios",
+            "Encomiendas",
             "Servicios"
         ],
         "productos": [
@@ -1651,7 +1650,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/centrobip.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/centrobip.jpg",
+        "logoLocal": "/backpack/centrobip.jpg",
         "piso": "1",
         "geo": [
             "BT-117"
@@ -1662,7 +1661,7 @@
     {
         "nombre": "Chantilly",
         "rubro": [
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Chantilly",
@@ -1674,7 +1673,7 @@
         ],
         "nodo": "89",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chantilly.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chantilly.jpg",
+        "logoLocal": "/backpack/Chantilly.jpg",
         "piso": "1",
         "geo": [
             "D-141+D-145"
@@ -1693,7 +1692,7 @@
         ],
         "nodo": "129",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chery.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chery.jpg",
+        "logoLocal": "/backpack/chery.jpg",
         "piso": "1",
         "geo": [
             "ST-115+ST-119"
@@ -1713,7 +1712,7 @@
         ],
         "nodo": "122",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chery.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chery.jpg",
+        "logoLocal": "/backpack/chery.jpg",
         "piso": "1",
         "geo": [
             "null"
@@ -1735,7 +1734,7 @@
         ],
         "nodo": "105",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chevrolet.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chevrolet.jpg",
+        "logoLocal": "/backpack/chevrolet.jpg",
         "piso": "1",
         "geo": [
             "AP-108"
@@ -1747,7 +1746,7 @@
         "nombre": "Chilexpress",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Chilexpress",
@@ -1759,7 +1758,7 @@
         ],
         "nodo": "160",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chilexpress.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chilexpress.jpg",
+        "logoLocal": "/backpack/Chilexpress.jpg",
         "piso": "1",
         "geo": [
             "BT-125+BT-127+BT-129b"
@@ -1780,7 +1779,7 @@
         ],
         "nodo": "329",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chinawok.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chinawok.jpg",
+        "logoLocal": "/backpack/Chinawok.jpg",
         "piso": "3",
         "geo": [
             "B-310"
@@ -1805,7 +1804,7 @@
         ],
         "nodo": "290",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chocolates-roman.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chocolates-roman.jpg",
+        "logoLocal": "/backpack/chocolates-roman.jpg",
         "piso": "3",
         "geo": [
             "MP-322"
@@ -1826,7 +1825,7 @@
         ],
         "nodo": "116",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chuckcheese ´s.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chuckcheese ´s.jpg",
+        "logoLocal": "/backpack/chuckcheese ´s.jpg",
         "piso": "1",
         "geo": [
             "AJ-100"
@@ -1837,7 +1836,7 @@
     {
         "nombre": "Cinemark",
         "rubro": [
-            "Entretención y Cultura"
+            "Entretención"
         ],
         "productos": [
             "Cinemark",
@@ -1845,7 +1844,7 @@
         ],
         "nodo": "93",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cinemark.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cinemark.jpg",
+        "logoLocal": "/backpack/cinemark.jpg",
         "piso": "1",
         "geo": [
             "D-101"
@@ -1871,7 +1870,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/clarks.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/clarks.jpg",
+        "logoLocal": "/backpack/clarks.jpg",
         "piso": "1",
         "geo": [
             "BA-136"
@@ -1891,7 +1890,7 @@
         ],
         "nodo": "232",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/claro.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/claro.jpg",
+        "logoLocal": "/backpack/claro.jpg",
         "piso": "2",
         "geo": [
             "BDK-2017+BDK-2021+BDK-2029+BDK-2033+BDK-2037+BDK-2041+BDK-2045"
@@ -1910,7 +1909,7 @@
         ],
         "nodo": "147",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/clinicadecalzado.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/clinicadecalzado.jpg",
+        "logoLocal": "/backpack/clinicadecalzado.jpg",
         "piso": "1",
         "geo": [
             "BT-101"
@@ -1932,7 +1931,7 @@
         ],
         "nodo": "83",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Colloky.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Colloky.jpg",
+        "logoLocal": "/backpack/Colloky.jpg",
         "piso": "1",
         "geo": [
             "A-113+A-117"
@@ -1952,7 +1951,7 @@
         ],
         "nodo": "285",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Converse.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Converse.jpg",
+        "logoLocal": "/backpack/Converse.jpg",
         "piso": "3",
         "geo": [
             "A-341+A-345+A-349"
@@ -1974,7 +1973,7 @@
         ],
         "nodo": "90",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/coppelia.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/coppelia.jpg",
+        "logoLocal": "/backpack/coppelia.jpg",
         "piso": "1",
         "geo": [
             "D-149+D-153a"
@@ -1986,7 +1985,7 @@
         "nombre": "Correos de Chile",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "Correos de Chile",
@@ -1998,7 +1997,7 @@
         ],
         "nodo": "153",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Correo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Correo.jpg",
+        "logoLocal": "/backpack/Correo.jpg",
         "piso": "1",
         "geo": [
             "BT-119"
@@ -2019,7 +2018,7 @@
         ],
         "nodo": "199",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Cory.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Cory.jpg",
+        "logoLocal": "/backpack/Cory.jpg",
         "piso": "2",
         "geo": [
             "D-202+D-206"
@@ -2041,7 +2040,7 @@
         ],
         "nodo": "3",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/costanera.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/costanera.jpg",
+        "logoLocal": "/backpack/costanera.jpg",
         "piso": "1",
         "geo": [
             "BT-133+BT-135"
@@ -2052,7 +2051,7 @@
     {
         "nombre": "Cotys",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Triumph",
@@ -2066,8 +2065,8 @@
             "baby doll y pantys"
         ],
         "nodo": "82",
-        "logo": "http://www.mallplaza.cl/images/stories/cotys_lingerie.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cotys_lingerie.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Cotys.jpg",
+        "logoLocal": "/backpack/Cotys.jpg",
         "piso": "1",
         "geo": [
             "A-125+A-121"
@@ -2086,7 +2085,7 @@
         ],
         "nodo": "158",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cpech.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cpech.jpg",
+        "logoLocal": "/backpack/cpech.jpg",
         "piso": "1",
         "geo": [
             "BMCD-2049a+BMCD-2053a+BMCD-2057a+BMCD-2061a+BMCD-2000+BMCD-2004+BMCD-2008+BMCD-2012+BMCD-2016+BMCD-2020"
@@ -2098,7 +2097,7 @@
         "nombre": "CrediChile",
         "rubro": [
             "Bancos",
-            "Encomiendas y Servicios"
+            "Encomiendas"
         ],
         "productos": [
             "CrediChile",
@@ -2106,7 +2105,7 @@
         ],
         "nodo": "162",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/credichile.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/credichile.jpg",
+        "logoLocal": "/backpack/credichile.jpg",
         "piso": "1",
         "geo": [
             "BT-151+BT-152+BT-153+BT-154+BT-155+BT-156+BT-157+BT-158+BT-159+BT-160+BT-161+BT-162"
@@ -2128,7 +2127,7 @@
         ],
         "nodo": "282",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/crocs.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/crocs.jpg",
+        "logoLocal": "/backpack/crocs.jpg",
         "piso": "3",
         "geo": [
             "A-365+A-369"
@@ -2139,7 +2138,7 @@
     {
         "nombre": "DBS",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Opi",
@@ -2154,7 +2153,7 @@
         ],
         "nodo": "50",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DBS.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/DBS.jpg",
+        "logoLocal": "/backpack/DBS.jpg",
         "piso": "1",
         "geo": [
             "D-153b+D-157+D-161"
@@ -2174,7 +2173,7 @@
         ],
         "nodo": "45",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doit.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/doit.jpg",
+        "logoLocal": "/backpack/doit.jpg",
         "piso": "1",
         "geo": [
             "BA-137"
@@ -2195,7 +2194,7 @@
         ],
         "nodo": "68",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Dagorret.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Dagorret.jpg",
+        "logoLocal": "/backpack/Dagorret.jpg",
         "piso": "1",
         "geo": [
             "BA-133"
@@ -2206,7 +2205,7 @@
     {
         "nombre": "Daily",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Dockers",
@@ -2217,7 +2216,7 @@
         ],
         "nodo": "176",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Daily.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Daily.jpg",
+        "logoLocal": "/backpack/Daily.jpg",
         "piso": "2",
         "geo": [
             "A-273"
@@ -2240,7 +2239,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/detodomigusto.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/detodomigusto.jpg",
+        "logoLocal": "/backpack/detodomigusto.jpg",
         "piso": "1",
         "geo": [
             "MP-140"
@@ -2259,7 +2258,7 @@
         ],
         "nodo": "258",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Detogni.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Detogni.jpg",
+        "logoLocal": "/backpack/Detogni.jpg",
         "piso": "2",
         "geo": [
             "A-230+A-234a"
@@ -2270,7 +2269,7 @@
     {
         "nombre": "Decoramás",
         "rubro": [
-            "Hogar y Regalos",
+            "Hogar y Decoración",
             "Muebles"
         ],
         "productos": [
@@ -2285,7 +2284,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/decoramas.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/decoramas.jpg",
+        "logoLocal": "/backpack/decoramas.jpg",
         "piso": "3",
         "geo": [
             "D-329+D-333+D-337"
@@ -2306,7 +2305,7 @@
         ],
         "nodo": "45",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/delicias.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/delicias.jpg",
+        "logoLocal": "/backpack/delicias.jpg",
         "piso": "1",
         "geo": [
             "T-109"
@@ -2325,7 +2324,7 @@
         ],
         "nodo": "115",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
+        "logoLocal": "/backpack/dercoseminuevos.jpg",
         "piso": "1",
         "geo": [
             "AP-172+AP-176+AP-180"
@@ -2346,7 +2345,7 @@
         ],
         "nodo": "131",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Derco.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Derco.jpg",
+        "logoLocal": "/backpack/Derco.jpg",
         "piso": "1",
         "geo": [
             "AP-104"
@@ -2365,7 +2364,7 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
+        "logoLocal": "/backpack/dercoseminuevos.jpg",
         "piso": "1",
         "geo": [
             "AP-105"
@@ -2384,7 +2383,7 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
+        "logoLocal": "/backpack/dercoseminuevos.jpg",
         "piso": "1",
         "geo": [
             "AP-102a"
@@ -2410,7 +2409,7 @@
         ],
         "nodo": "255",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/disworld.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/disworld.jpg",
+        "logoLocal": "/backpack/disworld.jpg",
         "piso": "1",
         "geo": [
             "D-134+D-138"
@@ -2436,7 +2435,7 @@
         ],
         "nodo": "14",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Dockers.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Dockers.jpg",
+        "logoLocal": "/backpack/Dockers.jpg",
         "piso": "1",
         "geo": [
             "C-129+C-133"
@@ -2456,7 +2455,7 @@
         ],
         "nodo": "333",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Doggis.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Doggis.jpg",
+        "logoLocal": "/backpack/Doggis.jpg",
         "piso": "3",
         "geo": [
             "B-330+B-326"
@@ -2469,8 +2468,7 @@
         "rubro": [
             "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "outdoor",
@@ -2482,7 +2480,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doiteh.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/doiteh.jpg",
+        "logoLocal": "/backpack/doiteh.jpg",
         "piso": "2",
         "geo": [
             "BA-201+BA-205"
@@ -2503,7 +2501,7 @@
         ],
         "nodo": "345",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/domino.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/domino.jpg",
+        "logoLocal": "/backpack/domino.jpg",
         "piso": "3",
         "geo": [
             "B-301+B-305"
@@ -2524,7 +2522,7 @@
         ],
         "nodo": "177",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dulceluna.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dulceluna.jpg",
+        "logoLocal": "/backpack/dulceluna.jpg",
         "piso": "2",
         "geo": [
             "A-269"
@@ -2548,7 +2546,7 @@
         ],
         "nodo": "209",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DunkinDonuts.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/DunkinDonuts.jpg",
+        "logoLocal": "/backpack/DunkinDonuts.jpg",
         "piso": "2",
         "geo": [
             "C-256"
@@ -2567,7 +2565,7 @@
         ],
         "nodo": "94",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/duoc uc.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/duoc uc.jpg",
+        "logoLocal": "/backpack/duoc uc.jpg",
         "piso": "1",
         "geo": [
             "s/n"
@@ -2595,7 +2593,7 @@
         ],
         "nodo": "184",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Econopticas.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Econopticas.jpg",
+        "logoLocal": "/backpack/Econopticas.jpg",
         "piso": "2",
         "geo": [
             "D-217b+D-221"
@@ -2617,7 +2615,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/emporio.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/emporio.jpg",
+        "logoLocal": "/backpack/emporio.jpg",
         "piso": "1",
         "geo": [
             "T-122"
@@ -2638,7 +2636,7 @@
         ],
         "nodo": "MP-144",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/enersocks.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/enersocks.jpg",
+        "logoLocal": "/backpack/enersocks.jpg",
         "piso": "1",
         "geo": [
             "MP-144"
@@ -2664,7 +2662,7 @@
         ],
         "nodo": "222",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/entelpcs.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entelpcs.jpg",
+        "logoLocal": "/backpack/entelpcs.jpg",
         "piso": "2",
         "geo": [
             "BDK-2057+BDK-2061"
@@ -2690,7 +2688,7 @@
         ],
         "nodo": "263",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/entelpcs.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entelpcs.jpg",
+        "logoLocal": "/backpack/entelpcs.jpg",
         "piso": "2",
         "geo": [
             "A-262"
@@ -2711,7 +2709,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/equivalenza.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/equivalenza.jpg",
+        "logoLocal": "/backpack/equivalenza.jpg",
         "piso": "1",
         "geo": [
             "MP-112"
@@ -2722,7 +2720,7 @@
     {
         "nombre": "Everlast",
         "rubro": [
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Vestuario",
@@ -2733,7 +2731,7 @@
         ],
         "nodo": "68",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Everlastngx.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Everlastngx.jpg",
+        "logoLocal": "/backpack/Everlastngx.jpg",
         "piso": "1",
         "geo": [
             "BA-172"
@@ -2753,7 +2751,7 @@
         ],
         "nodo": "21",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/exception.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/exception.jpg",
+        "logoLocal": "/backpack/exception.jpg",
         "piso": "1",
         "geo": [
             "C-177"
@@ -2779,7 +2777,7 @@
         ],
         "nodo": "23",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Falabella.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Falabella.jpg",
+        "logoLocal": "/backpack/Falabella.jpg",
         "piso": "1",
         "geo": [
             "TA-2"
@@ -2801,7 +2799,7 @@
         ],
         "nodo": "185",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fancy.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fancy.jpg",
+        "logoLocal": "/backpack/fancy.jpg",
         "piso": "1",
         "geo": [
             "D-225"
@@ -2824,7 +2822,7 @@
         ],
         "nodo": "264",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/farmaciaahumadaext.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/farmaciaahumadaext.jpg",
+        "logoLocal": "/backpack/farmaciaahumadaext.jpg",
         "piso": "2",
         "geo": [
             "A-270+A-274+A-278+A-282+A-286b"
@@ -2844,7 +2842,7 @@
         ],
         "nodo": "168",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/farmaciacruzverde.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/farmaciacruzverde.jpg",
+        "logoLocal": "/backpack/farmaciacruzverde.jpg",
         "piso": "1",
         "geo": [
             "BT-165+BT-166+BT-167+BT-168+BT-169+BT-170+BT-172+BT-174"
@@ -2864,7 +2862,7 @@
         ],
         "nodo": "208",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/salco.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/salco.jpg",
+        "logoLocal": "/backpack/salco.jpg",
         "piso": "2",
         "geo": [
             "C-257+C-261+BDK-2042a+BDK-2042b+BDK-2044a+BDK-2044b"
@@ -2891,7 +2889,7 @@
         ],
         "nodo": "65",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fashionspark.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Fashionspark.jpg",
+        "logoLocal": "/backpack/Fashionspark.jpg",
         "piso": "1",
         "geo": [
             "A-154+A-158+A-162a+A-162b+F-103"
@@ -2919,7 +2917,7 @@
         ],
         "nodo": "247",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ferouch.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ferouch.jpg",
+        "logoLocal": "/backpack/Ferouch.jpg",
         "piso": "2",
         "geo": [
             "C-202+C-206+C-210"
@@ -2940,7 +2938,7 @@
         ],
         "nodo": "197",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ferracini.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ferracini.jpg",
+        "logoLocal": "/backpack/ferracini.jpg",
         "piso": "2",
         "geo": [
             "D-226+D-230"
@@ -2963,7 +2961,7 @@
         ],
         "nodo": "121",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ferripaldi.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ferripaldi.jpg",
+        "logoLocal": "/backpack/Ferripaldi.jpg",
         "piso": "1",
         "geo": [
             "AP-176+AP-177"
@@ -2982,7 +2980,7 @@
         ],
         "nodo": "311",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/festina.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/festina.jpg",
+        "logoLocal": "/backpack/festina.jpg",
         "piso": "3",
         "geo": [
             "C-341"
@@ -3005,7 +3003,7 @@
         ],
         "nodo": "133",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fiat.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fiat.jpg",
+        "logoLocal": "/backpack/fiat.jpg",
         "piso": "1",
         "geo": [
             "AP-103"
@@ -3032,7 +3030,7 @@
         ],
         "nodo": "242",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/FICCUS.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/FICCUS.jpg",
+        "logoLocal": "/backpack/FICCUS.jpg",
         "piso": "2",
         "geo": [
             "C-238+C-242"
@@ -3043,8 +3041,7 @@
     {
         "nombre": "Flores Euphoria",
         "rubro": [
-            "Lencería y Ropa Interior",
-            "Vestuario Femenino"
+            "Lencería"
         ],
         "productos": [
             "Flores Euphoria",
@@ -3053,7 +3050,7 @@
         ],
         "nodo": "8",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Flores.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Flores.jpg",
+        "logoLocal": "/backpack/Flores.jpg",
         "piso": "1",
         "geo": [
             "D-126+D-130"
@@ -3075,7 +3072,7 @@
         ],
         "nodo": "137",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ford.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ford.jpg",
+        "logoLocal": "/backpack/Ford.jpg",
         "piso": "1",
         "geo": [
             "AP-124+AP-125"
@@ -3097,7 +3094,7 @@
         ],
         "nodo": "73",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/forever-21-logo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/forever-21-logo.jpg",
+        "logoLocal": "/backpack/forever-21-logo.jpg",
         "piso": "1",
         "geo": [
             "BA-148+BA-152+BA-238+BA-242+BA-246+BA-248+TM-104"
@@ -3119,7 +3116,7 @@
         ],
         "nodo": "139",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fortaleza.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fortaleza.jpg",
+        "logoLocal": "/backpack/fortaleza.jpg",
         "piso": "1",
         "geo": [
             "AP-129"
@@ -3138,7 +3135,7 @@
         ],
         "nodo": "357",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Forum.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Forum.jpg",
+        "logoLocal": "/backpack/Forum.jpg",
         "piso": "1",
         "geo": [
             "AP-152"
@@ -3168,7 +3165,7 @@
         ],
         "nodo": "325",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/foster.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/foster.jpg",
+        "logoLocal": "/backpack/foster.jpg",
         "piso": "3",
         "geo": [
             "C-300+C-306+C-310+C-314"
@@ -3188,7 +3185,7 @@
         ],
         "nodo": "326",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fritz.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Fritz.jpg",
+        "logoLocal": "/backpack/Fritz.jpg",
         "piso": "3",
         "geo": [
             "B-302+B-306"
@@ -3201,7 +3198,7 @@
         "rubro": [
             "Calzado Deportivo",
             "Calzado Masculino",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Cat",
@@ -3216,7 +3213,7 @@
         ],
         "nodo": "78",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Funsport.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Funsport.jpg",
+        "logoLocal": "/backpack/Funsport.jpg",
         "piso": "1",
         "geo": [
             "A-153+A-157"
@@ -3243,7 +3240,7 @@
         ],
         "nodo": "318",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/GSMChile.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/GSMChile.jpg",
+        "logoLocal": "/backpack/GSMChile.jpg",
         "piso": "3",
         "geo": [
             "C-378+C-382"
@@ -3266,7 +3263,7 @@
         ],
         "nodo": "261",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gacel.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Gacel.jpg",
+        "logoLocal": "/backpack/Gacel.jpg",
         "piso": "2",
         "geo": [
             "A-246+A-250"
@@ -3277,7 +3274,7 @@
     {
         "nombre": "Gema",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Haby",
@@ -3292,7 +3289,7 @@
         ],
         "nodo": "200",
         "logo": "http://www.mallplaza.cl/images/stories/gema.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gema.jpg",
+        "logoLocal": "/backpack/gema.jpg",
         "piso": "2",
         "geo": [
             "C-229"
@@ -3311,7 +3308,7 @@
         ],
         "nodo": "1",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/gimnasioenergy.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gimnasioenergy.jpg",
+        "logoLocal": "/backpack/gimnasioenergy.jpg",
         "piso": "2",
         "geo": [
             "F-105+F-106+F-107+F-108"
@@ -3338,7 +3335,7 @@
         ],
         "nodo": "238",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/gizmobies.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gizmobies.jpg",
+        "logoLocal": "/backpack/gizmobies.jpg",
         "piso": "2",
         "geo": [
             "MP-202"
@@ -3349,7 +3346,7 @@
     {
         "nombre": "Glam & Co",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Peluqueria",
@@ -3358,7 +3355,7 @@
         ],
         "nodo": "191",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/glamco.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/glamco.jpg",
+        "logoLocal": "/backpack/glamco.jpg",
         "piso": "2",
         "geo": [
             "D-269+D-265+D-261"
@@ -3377,7 +3374,7 @@
         ],
         "nodo": "19",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gotta.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Gotta.jpg",
+        "logoLocal": "/backpack/Gotta.jpg",
         "piso": "1",
         "geo": [
             "C-169"
@@ -3396,7 +3393,7 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/greatwall.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/greatwall.jpg",
+        "logoLocal": "/backpack/greatwall.jpg",
         "piso": "1",
         "geo": [
             "AP-109+AP-115"
@@ -3416,7 +3413,7 @@
         ],
         "nodo": "47",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/greenbull.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/greenbull.jpg",
+        "logoLocal": "/backpack/greenbull.jpg",
         "piso": "1",
         "geo": [
             "T-105"
@@ -3436,7 +3433,7 @@
         ],
         "nodo": "155",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/grido.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/grido.jpg",
+        "logoLocal": "/backpack/grido.jpg",
         "piso": "1",
         "geo": [
             "BT-126+BT128"
@@ -3456,7 +3453,7 @@
         ],
         "nodo": "295",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/grido.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/grido.jpg",
+        "logoLocal": "/backpack/grido.jpg",
         "piso": "3",
         "geo": [
             "D-341"
@@ -3480,7 +3477,7 @@
         ],
         "nodo": "262",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/guante.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/guante.jpg",
+        "logoLocal": "/backpack/guante.jpg",
         "piso": "2",
         "geo": [
             "A-254+A-258"
@@ -3491,7 +3488,7 @@
     {
         "nombre": "Happyland",
         "rubro": [
-            "Entretención y Cultura"
+            "Entretención"
         ],
         "productos": [
             "Happyland",
@@ -3499,7 +3496,7 @@
         ],
         "nodo": "334",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Happyland.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Happyland.jpg",
+        "logoLocal": "/backpack/Happyland.jpg",
         "piso": "3",
         "geo": [
             "B-340"
@@ -3520,7 +3517,7 @@
         ],
         "nodo": "259",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/head.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/head.jpg",
+        "logoLocal": "/backpack/head.jpg",
         "piso": "2",
         "geo": [
             "A-238+A-234b"
@@ -3531,7 +3528,7 @@
     {
         "nombre": "Home Center Sodimac",
         "rubro": [
-            "Vivienda y Construcción"
+            "Construcción"
         ],
         "productos": [
             "Home Center Sodimac",
@@ -3541,7 +3538,7 @@
         ],
         "nodo": "142",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/homecente.JPG",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homecente.JPG",
+        "logoLocal": "/backpack/homecente.JPG",
         "piso": "1",
         "geo": [
             "HC-200+PC-200"
@@ -3560,7 +3557,7 @@
         ],
         "nodo": "299",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/homefactory.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homefactory.jpg",
+        "logoLocal": "/backpack/homefactory.jpg",
         "piso": "3",
         "geo": [
             "D-361"
@@ -3571,7 +3568,7 @@
     {
         "nombre": "Homy",
         "rubro": [
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Modulares",
@@ -3584,7 +3581,7 @@
         ],
         "nodo": "92",
         "logo": "http://www.mallplaza.cl/images/stories/homy.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homy.jpg",
+        "logoLocal": "/backpack/homy.jpg",
         "piso": "1",
         "geo": [
             "D-109+D-113+D-117+D-241+D-245+HM-104+HM-204"
@@ -3604,7 +3601,7 @@
         ],
         "nodo": "139",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/hondalogo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/hondalogo.jpg",
+        "logoLocal": "/backpack/hondalogo.jpg",
         "piso": "1",
         "geo": [
             "AP-129+AP-131"
@@ -3624,7 +3621,7 @@
         ],
         "nodo": "54",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HushPuppies.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/HushPuppies.jpg",
+        "logoLocal": "/backpack/HushPuppies.jpg",
         "piso": "1",
         "geo": [
             "B-109+B-113+B-117"
@@ -3644,7 +3641,7 @@
         ],
         "nodo": "60",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HusPuppiesKids.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/HusPuppiesKids.jpg",
+        "logoLocal": "/backpack/HusPuppiesKids.jpg",
         "piso": "1",
         "geo": [
             "A-122+A-126"
@@ -3666,7 +3663,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/iamsmart.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/iamsmart.jpg",
+        "logoLocal": "/backpack/iamsmart.jpg",
         "piso": "1",
         "geo": [
             "MP-117"
@@ -3686,7 +3683,7 @@
         ],
         "nodo": "245",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/imagen1.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/imagen1.jpg",
+        "logoLocal": "/backpack/imagen1.jpg",
         "piso": "2",
         "geo": [
             "C-218"
@@ -3698,7 +3695,7 @@
         "nombre": "Inside",
         "rubro": [
             "Calzado Deportivo",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Volcom",
@@ -3712,7 +3709,7 @@
         ],
         "nodo": "351",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/inside.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/inside.jpg",
+        "logoLocal": "/backpack/inside.jpg",
         "piso": "3",
         "geo": [
             "A-346+A-350+A-354"
@@ -3731,7 +3728,7 @@
         ],
         "nodo": "73",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/integramedica.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/integramedica.jpg",
+        "logoLocal": "/backpack/integramedica.jpg",
         "piso": "1",
         "geo": [
             "EM-100+EM-200"
@@ -3742,7 +3739,7 @@
     {
         "nombre": "Intersalon",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Lakme",
@@ -3758,7 +3755,7 @@
         ],
         "nodo": "5",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Intersalon.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Intersalon.jpg",
+        "logoLocal": "/backpack/Intersalon.jpg",
         "piso": "1",
         "geo": [
             "D-150+D-154+D-146b"
@@ -3769,7 +3766,7 @@
     {
         "nombre": "Intime",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Intime",
@@ -3778,7 +3775,7 @@
         ],
         "nodo": "189",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Intime.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Intime.jpg",
+        "logoLocal": "/backpack/Intime.jpg",
         "piso": "2",
         "geo": [
             "D-249+D-253"
@@ -3802,7 +3799,7 @@
         ],
         "nodo": "291",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Irol.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Irol.jpg",
+        "logoLocal": "/backpack/Irol.jpg",
         "piso": "3",
         "geo": [
             "D-301+D-305"
@@ -3821,7 +3818,7 @@
         ],
         "nodo": "359",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/jac.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/jac.jpg",
+        "logoLocal": "/backpack/jac.jpg",
         "piso": "1",
         "geo": [
             "AP-123"
@@ -3848,7 +3845,7 @@
         ],
         "nodo": "322",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/JJO.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/JJO.jpg",
+        "logoLocal": "/backpack/JJO.jpg",
         "piso": "3",
         "geo": [
             "C-326+C-330"
@@ -3870,7 +3867,7 @@
         ],
         "nodo": "240",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/joyasbaron.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/joyasbaron.jpg",
+        "logoLocal": "/backpack/joyasbaron.jpg",
         "piso": "2",
         "geo": [
             "D-229"
@@ -3891,7 +3888,7 @@
         ],
         "nodo": "339",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/juanmaestro.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/juanmaestro.jpg",
+        "logoLocal": "/backpack/juanmaestro.jpg",
         "piso": "3",
         "geo": [
             "B-337"
@@ -3912,7 +3909,7 @@
         ],
         "nodo": "341",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KentuchyFriedChicken.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KentuchyFriedChicken.jpg",
+        "logoLocal": "/backpack/KentuchyFriedChicken.jpg",
         "piso": "3",
         "geo": [
             "B-325+B-329"
@@ -3931,7 +3928,7 @@
         ],
         "nodo": "106",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KiaMotors.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KiaMotors.jpg",
+        "logoLocal": "/backpack/KiaMotors.jpg",
         "piso": "1",
         "geo": [
             "AP-107"
@@ -3951,7 +3948,7 @@
         ],
         "nodo": "303",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kses.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kses.jpg",
+        "logoLocal": "/backpack/kses.jpg",
         "piso": "3",
         "geo": [
             "MP-338"
@@ -3962,7 +3959,7 @@
     {
         "nombre": "Kayser",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Kayser",
@@ -3978,7 +3975,7 @@
         ],
         "nodo": "241",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KAyser.JPG",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KAyser.JPG",
+        "logoLocal": "/backpack/KAyser.JPG",
         "piso": "2",
         "geo": [
             "C-246+C-250"
@@ -3999,7 +3996,7 @@
         ],
         "nodo": "67",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Kevingstonwoman.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Kevingstonwoman.jpg",
+        "logoLocal": "/backpack/Kevingstonwoman.jpg",
         "piso": "1",
         "geo": [
             "BA-160"
@@ -4018,7 +4015,7 @@
         ],
         "nodo": "104",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/serviciotecnicokia.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/serviciotecnicokia.jpg",
+        "logoLocal": "/backpack/serviciotecnicokia.jpg",
         "piso": "1",
         "geo": [
             "AP-187+AP-191+AP-195+AP-199"
@@ -4030,8 +4027,7 @@
         "nombre": "Kitchen Republic",
         "rubro": [
             "Accesorios",
-            "Hogar y Decoración",
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "cocina",
@@ -4042,7 +4038,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kr.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kr.jpg",
+        "logoLocal": "/backpack/kr.jpg",
         "piso": "2",
         "geo": [
             "C-221+C-225"
@@ -4068,7 +4064,7 @@
         ],
         "nodo": "51",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/konicaminolta.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/konicaminolta.jpg",
+        "logoLocal": "/backpack/konicaminolta.jpg",
         "piso": "1",
         "geo": [
             "B-137a"
@@ -4087,7 +4083,7 @@
         ],
         "nodo": "131",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kovacs.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kovacs.jpg",
+        "logoLocal": "/backpack/kovacs.jpg",
         "piso": "1",
         "geo": [
             "AU-108+AU-112"
@@ -4109,7 +4105,7 @@
         ],
         "nodo": "46",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/lapiccolaitalia.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lapiccolaitalia.jpg",
+        "logoLocal": "/backpack/lapiccolaitalia.jpg",
         "piso": "1",
         "geo": [
             "T-104+T-103"
@@ -4130,7 +4126,7 @@
         ],
         "nodo": "148",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/generico_tiendas_listado.jpg",
+        "logoLocal": "/backpack/generico_tiendas_listado.jpg",
         "piso": "1",
         "geo": [
             "BT-107+BT-105+BT-103"
@@ -4157,7 +4153,7 @@
         ],
         "nodo": "359",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/latabaqueria.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/latabaqueria.jpg",
+        "logoLocal": "/backpack/latabaqueria.jpg",
         "piso": "1",
         "geo": [
             "AP-122"
@@ -4178,7 +4174,7 @@
         ],
         "nodo": "37",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LAN.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/LAN.jpg",
+        "logoLocal": "/backpack/LAN.jpg",
         "piso": "1",
         "geo": [
             "B-110"
@@ -4197,7 +4193,7 @@
         ],
         "nodo": "145",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lavaseco5asec.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Lavaseco5asec.jpg",
+        "logoLocal": "/backpack/Lavaseco5asec.jpg",
         "piso": "1",
         "geo": [
             "BT-102"
@@ -4223,7 +4219,7 @@
         ],
         "nodo": "269",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/le-diatone.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/le-diatone.jpg",
+        "logoLocal": "/backpack/le-diatone.jpg",
         "piso": "2",
         "geo": [
             "MP-211"
@@ -4249,7 +4245,7 @@
         ],
         "nodo": "34",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/levis.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/levis.jpg",
+        "logoLocal": "/backpack/levis.jpg",
         "piso": "1",
         "geo": [
             "C-102a+C-106+C-110"
@@ -4270,7 +4266,7 @@
         ],
         "nodo": "18",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LibreriaNacional.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/LibreriaNacional.jpg",
+        "logoLocal": "/backpack/LibreriaNacional.jpg",
         "piso": "1",
         "geo": [
             "C-165+C-161"
@@ -4293,7 +4289,7 @@
         ],
         "nodo": "234",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/antartica.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/antartica.jpg",
+        "logoLocal": "/backpack/antartica.jpg",
         "piso": "2",
         "geo": [
             "C-285+C-289+BDK-2052"
@@ -4315,7 +4311,7 @@
         ],
         "nodo": "243",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lapizlopez.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Lapizlopez.jpg",
+        "logoLocal": "/backpack/Lapizlopez.jpg",
         "piso": "2",
         "geo": [
             "C-230"
@@ -4328,7 +4324,7 @@
         "rubro": [
             "Accesorios",
             "Cuidado Personal",
-            "Peluquería y Belleza",
+            "Peluquería",
             "Servicios"
         ],
         "productos": [
@@ -4348,7 +4344,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/lima.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lima.jpg",
+        "logoLocal": "/backpack/lima.jpg",
         "piso": "1",
         "geo": [
             "MP-133"
@@ -4374,7 +4370,7 @@
         ],
         "nodo": "201",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Blackandblue.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Blackandblue.jpg",
+        "logoLocal": "/backpack/Blackandblue.jpg",
         "piso": "1",
         "geo": [
             "A-114+A118"
@@ -4395,7 +4391,7 @@
         ],
         "nodo": "118",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/llantasdelpacifico.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/llantasdelpacifico.jpg",
+        "logoLocal": "/backpack/llantasdelpacifico.jpg",
         "piso": "1",
         "geo": [
             "ST-159+ST-163+ST-167+ST-171+ST-175"
@@ -4414,7 +4410,7 @@
         ],
         "nodo": "49",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/lounge_lo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lounge_lo.jpg",
+        "logoLocal": "/backpack/lounge_lo.jpg",
         "piso": "1",
         "geo": [
             "BA-120"
@@ -4437,7 +4433,7 @@
         ],
         "nodo": "41",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/generico_tiendas_listado.jpg",
+        "logoLocal": "/backpack/generico_tiendas_listado.jpg",
         "piso": "1",
         "geo": [
             "B-126a+B-126b"
@@ -4448,7 +4444,7 @@
     {
         "nombre": "Make Up",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Perfumes",
@@ -4462,7 +4458,7 @@
         ],
         "nodo": "38",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Makeupexpress.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Makeupexpress.jpg",
+        "logoLocal": "/backpack/Makeupexpress.jpg",
         "piso": "1",
         "geo": [
             "B-130"
@@ -4481,7 +4477,7 @@
         ],
         "nodo": "134",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/makzadfm.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/makzadfm.jpg",
+        "logoLocal": "/backpack/makzadfm.jpg",
         "piso": "1",
         "geo": [
             "AP-116"
@@ -4505,7 +4501,7 @@
         ],
         "nodo": "303",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mallconection.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mallconection.jpg",
+        "logoLocal": "/backpack/mallconection.jpg",
         "piso": "3",
         "geo": [
             "D-342+D-346"
@@ -4524,7 +4520,7 @@
         ],
         "nodo": "50",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mamut.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mamut.jpg",
+        "logoLocal": "/backpack/mamut.jpg",
         "piso": "1",
         "geo": [
             "B-137b+B-141"
@@ -4544,7 +4540,7 @@
         ],
         "nodo": "206",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mariohaddad.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Mariohaddad.jpg",
+        "logoLocal": "/backpack/Mariohaddad.jpg",
         "piso": "2",
         "geo": [
             "C-241"
@@ -4555,7 +4551,7 @@
     {
         "nombre": "Massage Express Spa",
         "rubro": [
-            "Peluquería y Belleza",
+            "Peluquería",
             "Salud"
         ],
         "productos": [
@@ -4570,7 +4566,7 @@
         ],
         "nodo": "212",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/massageespressspa.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/massageespressspa.jpg",
+        "logoLocal": "/backpack/massageespressspa.jpg",
         "piso": "2",
         "geo": [
             "BDK-2046a+BDK-2048"
@@ -4581,9 +4577,9 @@
     {
         "nombre": "Maui and Sons",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Vans",
@@ -4599,7 +4595,7 @@
         ],
         "nodo": "12",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/maui.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/maui.jpg",
+        "logoLocal": "/backpack/maui.jpg",
         "piso": "1",
         "geo": [
             "C-113+C-117"
@@ -4620,7 +4616,7 @@
         ],
         "nodo": "338",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/macdonalds.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/macdonalds.jpg",
+        "logoLocal": "/backpack/macdonalds.jpg",
         "piso": "3",
         "geo": [
             "B-229"
@@ -4639,7 +4635,7 @@
         ],
         "nodo": "158",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mcdonalds.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mcdonalds.jpg",
+        "logoLocal": "/backpack/mcdonalds.jpg",
         "piso": "2",
         "geo": [
             "B-229"
@@ -4650,7 +4646,7 @@
     {
         "nombre": "Merrell",
         "rubro": [
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Zapatos",
@@ -4661,7 +4657,7 @@
         ],
         "nodo": "BA-128",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Merrel.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Merrel.jpg",
+        "logoLocal": "/backpack/Merrel.jpg",
         "piso": "1",
         "geo": [
             "BA-132"
@@ -4683,7 +4679,7 @@
         ],
         "nodo": "175",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Microplay.JPG",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Microplay.JPG",
+        "logoLocal": "/backpack/Microplay.JPG",
         "piso": "2",
         "geo": [
             "A-277"
@@ -4702,7 +4698,7 @@
         ],
         "nodo": "175",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mininas_lo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mininas_lo.jpg",
+        "logoLocal": "/backpack/mininas_lo.jpg",
         "piso": "2",
         "geo": [
             "A-261+A-265"
@@ -4721,7 +4717,7 @@
         ],
         "nodo": "138",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mitsubishi.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Mitsubishi.jpg",
+        "logoLocal": "/backpack/Mitsubishi.jpg",
         "piso": "1",
         "geo": [
             "AP-126+AP-127+AP-128"
@@ -4745,7 +4741,7 @@
         ],
         "nodo": "257",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Moletto.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Moletto.jpg",
+        "logoLocal": "/backpack/Moletto.jpg",
         "piso": "2",
         "geo": [
             "A-226"
@@ -4756,7 +4752,7 @@
     {
         "nombre": "Monarch",
         "rubro": [
-            "Lencería y Ropa Interior"
+            "Lencería"
         ],
         "productos": [
             "Monarch",
@@ -4774,7 +4770,7 @@
         ],
         "nodo": "32",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Monarch.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Monarch.jpg",
+        "logoLocal": "/backpack/Monarch.jpg",
         "piso": "1",
         "geo": [
             "C-122"
@@ -4793,7 +4789,7 @@
         ],
         "nodo": "323",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/moon.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/moon.jpg",
+        "logoLocal": "/backpack/moon.jpg",
         "piso": "3",
         "geo": [
             "C-326+C-330"
@@ -4818,7 +4814,7 @@
         ],
         "nodo": "322",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mossimo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mossimo.jpg",
+        "logoLocal": "/backpack/mossimo.jpg",
         "piso": "3",
         "geo": [
             "C-342+C-346+C-350"
@@ -4838,7 +4834,7 @@
         ],
         "nodo": "217",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/movistar.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/movistar.jpg",
+        "logoLocal": "/backpack/movistar.jpg",
         "piso": "2",
         "geo": [
             "E-207+E-208+E-209+E-210+E-211"
@@ -4859,7 +4855,7 @@
         ],
         "nodo": "150",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/multiservice.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/multiservice.jpg",
+        "logoLocal": "/backpack/multiservice.jpg",
         "piso": "1",
         "geo": [
             "BT-118"
@@ -4880,7 +4876,7 @@
         ],
         "nodo": "287",
         "logo": "http://www.mallplaza.cl/images/stories/musicworld.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/musicworld.jpg",
+        "logoLocal": "/backpack/musicworld.jpg",
         "piso": "3",
         "geo": [
             "A-333"
@@ -4891,7 +4887,7 @@
     {
         "nombre": "NRG Energy",
         "rubro": [
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "NRG Energy",
@@ -4899,7 +4895,7 @@
         ],
         "nodo": "55",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nrg.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nrg.jpg",
+        "logoLocal": "/backpack/Nrg.jpg",
         "piso": "1",
         "geo": [
             "B-105"
@@ -4921,7 +4917,7 @@
         ],
         "nodo": "27",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Naturalizer.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Naturalizer.jpg",
+        "logoLocal": "/backpack/Naturalizer.jpg",
         "piso": "1",
         "geo": [
             "C-148"
@@ -4948,7 +4944,7 @@
         ],
         "nodo": "123",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Neumaton.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Neumaton.jpg",
+        "logoLocal": "/backpack/Neumaton.jpg",
         "piso": "1",
         "geo": [
             "ST-109+ST-113"
@@ -4971,7 +4967,7 @@
         ],
         "nodo": "205",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/NewBalance.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/NewBalance.jpg",
+        "logoLocal": "/backpack/NewBalance.jpg",
         "piso": "2",
         "geo": [
             "B-205+B-209"
@@ -4996,7 +4992,7 @@
         ],
         "nodo": "BA-105",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/newman.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/newman.jpg",
+        "logoLocal": "/backpack/newman.jpg",
         "piso": "1",
         "geo": [
             "BA-106"
@@ -5016,7 +5012,7 @@
         ],
         "nodo": "149",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nextel.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nextel.jpg",
+        "logoLocal": "/backpack/Nextel.jpg",
         "piso": "1",
         "geo": [
             "BT-109+BT-110+BT-111+BT-112+BT-113+BT-114+BT-115+BT-116"
@@ -5027,8 +5023,8 @@
     {
         "nombre": "Nike",
         "rubro": [
-            "Deporte",
-            "Vestuario Deportivo"
+            "Accesorios Deportivos",
+            "Artículos Deportivos"
         ],
         "productos": [
             "Nike",
@@ -5037,7 +5033,7 @@
         ],
         "nodo": "349",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nike.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nike.jpg",
+        "logoLocal": "/backpack/Nike.jpg",
         "piso": "2",
         "geo": [
             "D-317+D-321+D-325"
@@ -5056,7 +5052,7 @@
         ],
         "nodo": "135",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nissan.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nissan.jpg",
+        "logoLocal": "/backpack/Nissan.jpg",
         "piso": "1",
         "geo": [
             "AP-120+AP-121+A-123"
@@ -5074,7 +5070,7 @@
         ],
         "nodo": "225",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/okmarket.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/okmarket.jpg",
+        "logoLocal": "/backpack/okmarket.jpg",
         "piso": "2",
         "geo": [
             "BD-2065"
@@ -5093,7 +5089,7 @@
         ],
         "nodo": "356",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/october.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/october.jpg",
+        "logoLocal": "/backpack/october.jpg",
         "piso": "1",
         "geo": [
             "BA-125"
@@ -5115,7 +5111,7 @@
         ],
         "nodo": "312",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/olidata_lo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/olidata_lo.jpg",
+        "logoLocal": "/backpack/olidata_lo.jpg",
         "piso": "3",
         "geo": [
             "C-345+C-349"
@@ -5136,7 +5132,7 @@
         ],
         "nodo": "260",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/olive.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/olive.jpg",
+        "logoLocal": "/backpack/olive.jpg",
         "piso": "2",
         "geo": [
             "C-229"
@@ -5158,7 +5154,7 @@
         ],
         "nodo": "309",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Opaline.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Opaline.jpg",
+        "logoLocal": "/backpack/Opaline.jpg",
         "piso": "3",
         "geo": [
             "C-321+C-337"
@@ -5185,7 +5181,7 @@
         ],
         "nodo": "15",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasgmo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasgmo.jpg",
+        "logoLocal": "/backpack/opticasgmo.jpg",
         "piso": "1",
         "geo": [
             "C-137+C-141"
@@ -5212,7 +5208,7 @@
         ],
         "nodo": "35",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasplacevendome.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasplacevendome.jpg",
+        "logoLocal": "/backpack/opticasplacevendome.jpg",
         "piso": "1",
         "geo": [
             "B-102c"
@@ -5235,7 +5231,7 @@
         ],
         "nodo": "88",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasrotterkrauss.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasrotterkrauss.jpg",
+        "logoLocal": "/backpack/opticasrotterkrauss.jpg",
         "piso": "1",
         "geo": [
             "D-133+D-137"
@@ -5258,7 +5254,7 @@
         ],
         "nodo": "205",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/schilling.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/schilling.jpg",
+        "logoLocal": "/backpack/schilling.jpg",
         "piso": "2",
         "geo": [
             "C-237"
@@ -5279,7 +5275,7 @@
         ],
         "nodo": "304",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/PcFactory.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/PcFactory.jpg",
+        "logoLocal": "/backpack/PcFactory.jpg",
         "piso": "3",
         "geo": [
             "D-330+D-334+D-338"
@@ -5290,7 +5286,7 @@
     {
         "nombre": "Palumbo",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Palumbo",
@@ -5298,7 +5294,7 @@
         ],
         "nodo": "6",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/palumbo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/palumbo.jpg",
+        "logoLocal": "/backpack/palumbo.jpg",
         "piso": "1",
         "geo": [
             "D-114"
@@ -5321,7 +5317,7 @@
         ],
         "nodo": "169",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/panaderiasancamilo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/panaderiasancamilo.jpg",
+        "logoLocal": "/backpack/panaderiasancamilo.jpg",
         "piso": "1",
         "geo": [
             "BSD-1040"
@@ -5347,7 +5343,7 @@
         ],
         "nodo": "74",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Paris.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Paris.jpg",
+        "logoLocal": "/backpack/Paris.jpg",
         "piso": "1",
         "geo": [
             "TA-1"
@@ -5368,7 +5364,7 @@
         ],
         "nodo": "195",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Patuelli.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Patuelli.jpg",
+        "logoLocal": "/backpack/Patuelli.jpg",
         "piso": "2",
         "geo": [
             "D-234+D-238"
@@ -5390,7 +5386,7 @@
         ],
         "nodo": "340",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/PedroJuandiego.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/PedroJuandiego.jpg",
+        "logoLocal": "/backpack/PedroJuandiego.jpg",
         "piso": "3",
         "geo": [
             "B-333"
@@ -5409,7 +5405,7 @@
         ],
         "nodo": "203",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/peppermint.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/peppermint.jpg",
+        "logoLocal": "/backpack/peppermint.jpg",
         "piso": "2",
         "geo": [
             "s/n"
@@ -5428,7 +5424,7 @@
         ],
         "nodo": "182",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/perfumame.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/perfumame.jpg",
+        "logoLocal": "/backpack/perfumame.jpg",
         "piso": "2",
         "geo": [
             "A-229"
@@ -5447,7 +5443,7 @@
         ],
         "nodo": "111",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Peugeot.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Peugeot.jpg",
+        "logoLocal": "/backpack/Peugeot.jpg",
         "piso": "1",
         "geo": [
             "AP-103"
@@ -5470,7 +5466,7 @@
         ],
         "nodo": "210",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pillin.JPG",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pillin.JPG",
+        "logoLocal": "/backpack/pillin.JPG",
         "piso": "2",
         "geo": [
             "C-269+C-273"
@@ -5496,7 +5492,7 @@
         ],
         "nodo": "306",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pimps.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pimps.jpg",
+        "logoLocal": "/backpack/pimps.jpg",
         "piso": "3",
         "geo": [
             "D-314"
@@ -5517,7 +5513,7 @@
         ],
         "nodo": "342",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pizzahut.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pizzahut.jpg",
+        "logoLocal": "/backpack/pizzahut.jpg",
         "piso": "3",
         "geo": [
             "B-317+B-321"
@@ -5536,7 +5532,7 @@
         ],
         "nodo": "28",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Poeme.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Poeme.jpg",
+        "logoLocal": "/backpack/Poeme.jpg",
         "piso": "1",
         "geo": [
             "C-142"
@@ -5564,7 +5560,7 @@
         ],
         "nodo": "352",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Polemic.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Polemic.jpg",
+        "logoLocal": "/backpack/Polemic.jpg",
         "piso": "3",
         "geo": [
             "A-362"
@@ -5584,7 +5580,7 @@
         ],
         "nodo": "254",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollini.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pollini.jpg",
+        "logoLocal": "/backpack/pollini.jpg",
         "piso": "2",
         "geo": [
             "A-206+A-210+A-214a"
@@ -5607,7 +5603,7 @@
         ],
         "nodo": "330",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollo_stop.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pollo_stop.jpg",
+        "logoLocal": "/backpack/pollo_stop.jpg",
         "piso": "3",
         "geo": [
             "B-314+B-320"
@@ -5626,7 +5622,7 @@
         ],
         "nodo": "106",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Pompeyocarrasco.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Pompeyocarrasco.jpg",
+        "logoLocal": "/backpack/Pompeyocarrasco.jpg",
         "piso": "1",
         "geo": [
             "AP-109b+AP-109c+AP-111b+AP-113+AP-114"
@@ -5650,7 +5646,7 @@
         ],
         "nodo": "26",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Potros.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Potros.jpg",
+        "logoLocal": "/backpack/Potros.jpg",
         "piso": "1",
         "geo": [
             "C-150+C-154a"
@@ -5665,7 +5661,7 @@
             "Cuidado Personal",
             "Joyerías y Relojerías",
             "Módulos",
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "joyería",
@@ -5675,7 +5671,7 @@
         ],
         "nodo": "MP-160",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/praguejoyas.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/praguejoyas.jpg",
+        "logoLocal": "/backpack/praguejoyas.jpg",
         "piso": "1",
         "geo": [
             "MP-160"
@@ -5686,7 +5682,7 @@
     {
         "nombre": "Pre Unic",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "Jordana",
@@ -5705,7 +5701,7 @@
         ],
         "nodo": "4",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/preunic.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/preunic.jpg",
+        "logoLocal": "/backpack/preunic.jpg",
         "piso": "1",
         "geo": [
             "D-158+D-162+D-166"
@@ -5725,7 +5721,7 @@
         ],
         "nodo": "356",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Privilege.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Privilege.jpg",
+        "logoLocal": "/backpack/Privilege.jpg",
         "piso": "1",
         "geo": [
             "BA-108+BA-112+BA-116"
@@ -5736,9 +5732,9 @@
     {
         "nombre": "Puma",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Puma",
@@ -5748,7 +5744,7 @@
         ],
         "nodo": "198",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/puma.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/puma.jpg",
+        "logoLocal": "/backpack/puma.jpg",
         "piso": "2",
         "geo": [
             "D-210+D-214+D-218+D-222"
@@ -5767,7 +5763,7 @@
         ],
         "nodo": "159",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/puntosalud.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/puntosalud.jpg",
+        "logoLocal": "/backpack/puntosalud.jpg",
         "piso": "1",
         "geo": [
             "BT-138+BT-140"
@@ -5786,7 +5782,7 @@
         ],
         "nodo": "284",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kicks.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kicks.jpg",
+        "logoLocal": "/backpack/kicks.jpg",
         "piso": "3",
         "geo": [
             "A-353+A-357"
@@ -5799,7 +5795,7 @@
         "rubro": [
             "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Reebok",
@@ -5809,7 +5805,7 @@
         ],
         "nodo": "251",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Reebok.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Reebok.jpg",
+        "logoLocal": "/backpack/Reebok.jpg",
         "piso": "2",
         "geo": [
             "B-222"
@@ -5836,7 +5832,7 @@
         ],
         "nodo": "11",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ReifschbeiderStore.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ReifschbeiderStore.jpg",
+        "logoLocal": "/backpack/ReifschbeiderStore.jpg",
         "piso": "1",
         "geo": [
             "D-106+D-110"
@@ -5867,7 +5863,7 @@
         ],
         "nodo": "346",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripcurl.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ripcurl.jpg",
+        "logoLocal": "/backpack/Ripcurl.jpg",
         "piso": "3",
         "geo": [
             "A-300+A-302+A-306+A-310+A-314"
@@ -5893,7 +5889,7 @@
         ],
         "nodo": "2",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripley.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ripley.jpg",
+        "logoLocal": "/backpack/Ripley.jpg",
         "piso": "1",
         "geo": [
             "TA-3"
@@ -5917,7 +5913,7 @@
         ],
         "nodo": "85",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Rockford.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Rockford.jpg",
+        "logoLocal": "/backpack/Rockford.jpg",
         "piso": "1",
         "geo": [
             "D-101+D-105"
@@ -5939,7 +5935,7 @@
         ],
         "nodo": "69",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/romano.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/romano.jpg",
+        "logoLocal": "/backpack/romano.jpg",
         "piso": "1",
         "geo": [
             "BA-168"
@@ -5959,7 +5955,7 @@
         ],
         "nodo": "40",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Samsung.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Samsung.jpg",
+        "logoLocal": "/backpack/Samsung.jpg",
         "piso": "1",
         "geo": [
             "B-134"
@@ -5978,7 +5974,7 @@
         ],
         "nodo": "313",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Savory.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Savory.jpg",
+        "logoLocal": "/backpack/Savory.jpg",
         "piso": "3",
         "geo": [
             "C-353"
@@ -6001,7 +5997,7 @@
         ],
         "nodo": "350",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/savorystop.jpg",
+        "logoLocal": "/backpack/savorystop.jpg",
         "piso": "3",
         "geo": [
             "C-353"
@@ -6023,7 +6019,7 @@
         ],
         "nodo": "53",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/saxoline.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/saxoline.jpg",
+        "logoLocal": "/backpack/saxoline.jpg",
         "piso": "1",
         "geo": [
             "B-121+B-125"
@@ -6034,9 +6030,9 @@
     {
         "nombre": "Scarla Deportes",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Multimarcas",
@@ -6045,7 +6041,7 @@
         ],
         "nodo": "292",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/scarladeporte.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/scarladeporte.jpg",
+        "logoLocal": "/backpack/scarladeporte.jpg",
         "piso": "3",
         "geo": [
             "D-309+D-313"
@@ -6066,7 +6062,7 @@
         ],
         "nodo": "43",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/shopdog.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/shopdog.jpg",
+        "logoLocal": "/backpack/shopdog.jpg",
         "piso": "1",
         "geo": [
             "LT-110"
@@ -6085,7 +6081,7 @@
         ],
         "nodo": "46",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/secret.png",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/secret.png",
+        "logoLocal": "/backpack/secret.png",
         "piso": "1",
         "geo": [
             "BA-141"
@@ -6104,7 +6100,7 @@
         ],
         "nodo": "125",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/serviciotecnicoderco.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/serviciotecnicoderco.jpg",
+        "logoLocal": "/backpack/serviciotecnicoderco.jpg",
         "piso": "1",
         "geo": [
             "AP-101"
@@ -6125,7 +6121,7 @@
         ],
         "nodo": "164",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Servipag.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Servipag.jpg",
+        "logoLocal": "/backpack/Servipag.jpg",
         "piso": "1",
         "geo": [
             "BT-139+BT-137"
@@ -6144,7 +6140,7 @@
         ],
         "nodo": "358",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/shell.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/shell.jpg",
+        "logoLocal": "/backpack/shell.jpg",
         "piso": "1",
         "geo": [
             "AP-00"
@@ -6169,7 +6165,7 @@
         ],
         "nodo": "52",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Shoesandpiel.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Shoesandpiel.jpg",
+        "logoLocal": "/backpack/Shoesandpiel.jpg",
         "piso": "1",
         "geo": [
             "B-129+B-133"
@@ -6196,7 +6192,7 @@
         ],
         "nodo": "307",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sckechers.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sckechers.jpg",
+        "logoLocal": "/backpack/sckechers.jpg",
         "piso": "3",
         "geo": [
             "D-302+D-306+D-310"
@@ -6218,7 +6214,7 @@
         ],
         "nodo": "189",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/smart.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/smart.jpg",
+        "logoLocal": "/backpack/smart.jpg",
         "piso": "2",
         "geo": [
             "D-229 "
@@ -6246,7 +6242,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sony.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sony.jpg",
+        "logoLocal": "/backpack/sony.jpg",
         "piso": "1",
         "geo": [
             "MP-137"
@@ -6257,9 +6253,9 @@
     {
         "nombre": "Sparta Deportes",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Artículos Deportivos"
         ],
         "productos": [
             "Multimarcas",
@@ -6268,7 +6264,7 @@
         ],
         "nodo": "302",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/spartadeportes.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/spartadeportes.jpg",
+        "logoLocal": "/backpack/spartadeportes.jpg",
         "piso": "3",
         "geo": [
             "D-342b+D-346b+D-350+D-354+D-360"
@@ -6288,7 +6284,7 @@
         ],
         "nodo": "BA-117",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/studiof.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/studiof.jpg",
+        "logoLocal": "/backpack/studiof.jpg",
         "piso": "1",
         "geo": [
             "BA-113"
@@ -6313,7 +6309,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sushi_house_ch.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sushi_house_ch.jpg",
+        "logoLocal": "/backpack/sushi_house_ch.jpg",
         "piso": "1",
         "geo": [
             "T-118+T-122+T-124"
@@ -6324,14 +6320,14 @@
     {
         "nombre": "THE REPUBLIC OF  BEAUTY",
         "rubro": [
-            "Peluquería y Belleza"
+            "Peluquería"
         ],
         "productos": [
             "null"
         ],
         "nodo": "57",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/the_republic_of_beauty.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/the_republic_of_beauty.jpg",
+        "logoLocal": "/backpack/the_republic_of_beauty.jpg",
         "piso": "1",
         "geo": [
             " A-100a+A-100b+A-104a+A-104b"
@@ -6342,9 +6338,7 @@
     {
         "nombre": "TOP",
         "rubro": [
-            "Lencería y Ropa Interior",
-            "Vestuario Femenino",
-            "Vestuario Masculino"
+            "Lencería"
         ],
         "productos": [
             "TOP",
@@ -6353,7 +6347,7 @@
         ],
         "nodo": "29",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Top.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Top.jpg",
+        "logoLocal": "/backpack/Top.jpg",
         "piso": "1",
         "geo": [
             "C-138"
@@ -6382,7 +6376,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/wolff.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/wolff.jpg",
+        "logoLocal": "/backpack/wolff.jpg",
         "piso": "2",
         "geo": [
             "D-234"
@@ -6405,7 +6399,7 @@
         ],
         "nodo": "null",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/tanta.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/tanta.jpg",
+        "logoLocal": "/backpack/tanta.jpg",
         "piso": "1",
         "geo": [
             "T-136+T-140+T-144+T-148+MP-166+MP-170"
@@ -6426,7 +6420,7 @@
         ],
         "nodo": "335",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tarragona.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tarragona.jpg",
+        "logoLocal": "/backpack/Tarragona.jpg",
         "piso": "3",
         "geo": [
             "B-342"
@@ -6449,7 +6443,7 @@
         ],
         "nodo": "336",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Telepizza.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Telepizza.jpg",
+        "logoLocal": "/backpack/Telepizza.jpg",
         "piso": "3",
         "geo": [
             "B-346"
@@ -6460,7 +6454,7 @@
     {
         "nombre": "Teletrak",
         "rubro": [
-            "Entretención y Cultura"
+            "Entretención"
         ],
         "productos": [
             "Teletrak",
@@ -6468,7 +6462,7 @@
         ],
         "nodo": "229",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Teletrak.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Teletrak.jpg",
+        "logoLocal": "/backpack/Teletrak.jpg",
         "piso": "2",
         "geo": [
             "BDK-2085+BDK-2089+BDK-2093+BDK-2097"
@@ -6490,7 +6484,7 @@
         ],
         "nodo": "86",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todomoda.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Todomoda.jpg",
+        "logoLocal": "/backpack/Todomoda.jpg",
         "piso": "1",
         "geo": [
             "D-121"
@@ -6511,7 +6505,7 @@
         ],
         "nodo": "187",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todopiel.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Todopiel.jpg",
+        "logoLocal": "/backpack/Todopiel.jpg",
         "piso": "2",
         "geo": [
             "D-233+D-237"
@@ -6532,7 +6526,7 @@
         ],
         "nodo": "50",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/TommyHilfiger.JPG",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/TommyHilfiger.JPG",
+        "logoLocal": "/backpack/TommyHilfiger.JPG",
         "piso": "1",
         "geo": [
             "BA-109"
@@ -6551,7 +6545,7 @@
         ],
         "nodo": "144",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tottus.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tottus.jpg",
+        "logoLocal": "/backpack/Tottus.jpg",
         "piso": "1",
         "geo": [
             "H-200"
@@ -6579,7 +6573,7 @@
         ],
         "nodo": "320",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/toyplanet.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/toyplanet.jpg",
+        "logoLocal": "/backpack/toyplanet.jpg",
         "piso": "3",
         "geo": [
             "C-362+C-366"
@@ -6600,7 +6594,7 @@
         ],
         "nodo": "134",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Toyota.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Toyota.jpg",
+        "logoLocal": "/backpack/Toyota.jpg",
         "piso": "1",
         "geo": [
             "AP-118"
@@ -6611,7 +6605,7 @@
     {
         "nombre": "Trial",
         "rubro": [
-            "Vestuario Deportivo",
+            "Artículos Deportivos",
             "Vestuario Masculino"
         ],
         "productos": [
@@ -6624,7 +6618,7 @@
         ],
         "nodo": "81",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Trial.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Trial.jpg",
+        "logoLocal": "/backpack/Trial.jpg",
         "piso": "1",
         "geo": [
             "C-329+C-333+C-337"
@@ -6643,7 +6637,7 @@
         ],
         "nodo": "151",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tronwell.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tronwell.jpg",
+        "logoLocal": "/backpack/Tronwell.jpg",
         "piso": "2",
         "geo": [
             "BMCD-1401"
@@ -6665,7 +6659,7 @@
         ],
         "nodo": "310",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ufo.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ufo.jpg",
+        "logoLocal": "/backpack/ufo.jpg",
         "piso": "3",
         "geo": [
             "C-329+C-333+C-337"
@@ -6685,7 +6679,7 @@
         ],
         "nodo": "190",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/uranium.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/uranium.jpg",
+        "logoLocal": "/backpack/uranium.jpg",
         "piso": "2",
         "geo": [
             "D-257"
@@ -6705,7 +6699,7 @@
         ],
         "nodo": "43",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Varsovienne.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Varsovienne.jpg",
+        "logoLocal": "/backpack/Varsovienne.jpg",
         "piso": "1",
         "geo": [
             "BA-131"
@@ -6725,7 +6719,7 @@
         ],
         "nodo": "BA-103",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/viauno.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/viauno.jpg",
+        "logoLocal": "/backpack/viauno.jpg",
         "piso": "1",
         "geo": [
             "BA-103"
@@ -6744,7 +6738,7 @@
         ],
         "nodo": "162",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/vitamina.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/vitamina.jpg",
+        "logoLocal": "/backpack/vitamina.jpg",
         "piso": "2",
         "geo": [
             "BMCD-1020+BMCD-1024+BMCD-1028+BMCD-1032+BMCD-1049+BMCD-1053"
@@ -6763,7 +6757,7 @@
         ],
         "nodo": "108",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/volkswagen.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/volkswagen.jpg",
+        "logoLocal": "/backpack/volkswagen.jpg",
         "piso": "1",
         "geo": [
             "AP-124+AP-125"
@@ -6775,7 +6769,7 @@
         "nombre": "Vox",
         "rubro": [
             "Accesorios",
-            "Hogar y Regalos"
+            "Hogar y Decoración"
         ],
         "productos": [
             "Vox",
@@ -6785,7 +6779,7 @@
         ],
         "nodo": "281",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/VOX.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/VOX.jpg",
+        "logoLocal": "/backpack/VOX.jpg",
         "piso": "3",
         "geo": [
             "A-373"
@@ -6810,7 +6804,7 @@
         ],
         "nodo": "84",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Wados.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Wados.jpg",
+        "logoLocal": "/backpack/Wados.jpg",
         "piso": "1",
         "geo": [
             "A-101+A-105+A-109"
@@ -6832,7 +6826,7 @@
         ],
         "nodo": "61",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/weloveshoes.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/weloveshoes.jpg",
+        "logoLocal": "/backpack/weloveshoes.jpg",
         "piso": "1",
         "geo": [
             "A-130+A-134"
@@ -6858,7 +6852,7 @@
         ],
         "nodo": "315",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/weplay.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/weplay.jpg",
+        "logoLocal": "/backpack/weplay.jpg",
         "piso": "3",
         "geo": [
             "C-353"
@@ -6879,7 +6873,7 @@
         ],
         "nodo": "289",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/xtremesaxoline.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/xtremesaxoline.jpg",
+        "logoLocal": "/backpack/xtremesaxoline.jpg",
         "piso": "3",
         "geo": [
             "A-313+A-317"
@@ -6903,7 +6897,7 @@
         ],
         "nodo": "20",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Xurroscafe.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Xurroscafe.jpg",
+        "logoLocal": "/backpack/Xurroscafe.jpg",
         "piso": "1",
         "geo": [
             "C-173"
@@ -6922,7 +6916,7 @@
         ],
         "nodo": "350",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Yogen.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Yogen.jpg",
+        "logoLocal": "/backpack/Yogen.jpg",
         "piso": "3",
         "geo": [
             "A-342"
@@ -6940,7 +6934,7 @@
         ],
         "nodo": "316",
         "logo": "http://www.mallplaza.cl/images/stories/youserv2.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/youserv2.jpg",
+        "logoLocal": "/backpack/youserv2.jpg",
         "piso": "3",
         "geo": [
             "C-377+C-381+C-385"
@@ -6966,7 +6960,7 @@
         ],
         "nodo": "183",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Zara.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Zara.jpg",
+        "logoLocal": "/backpack/Zara.jpg",
         "piso": "2",
         "geo": [
             "A-225"
@@ -6988,7 +6982,7 @@
         ],
         "nodo": "251",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/zoo-york.jpg",
-        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/zoo-york.jpg",
+        "logoLocal": "/backpack/zoo-york.jpg",
         "piso": "2",
         "geo": [
             "B-206"
