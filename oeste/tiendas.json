@@ -2,7 +2,8 @@
     {
         "nombre": "100 Montaditos",
         "rubro": [
-            "Las Terrazas"
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
             "Comida española",
@@ -11,18 +12,22 @@
             "tablas"
         ],
         "nodo": "44",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/100montaditos.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/100montaditos.jpg",
         "piso": "1",
-        "geo": ": T-101",
+        "geo": [
+            "T-101"
+        ],
+        "geoTemp": "T-101",
         "area": "Terrazas"
     },
     {
         "nombre": "100% Futbol",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
             "Deporte",
-            "Vestuario Deportivo",
-            "Accesorios Deportivos"
+            "Vestuario Deportivo"
         ],
         "productos": [
             "Nike",
@@ -37,13 +42,18 @@
         ],
         "nodo": "288",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/100Futbol.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/100Futbol.jpg",
         "piso": "3",
-        "geo": "A-321-325-329",
+        "geo": [
+            "A-321+A-325+A-329"
+        ],
+        "geoTemp": "A-321+A-325+A-329",
         "area": "Pasillo 10"
     },
     {
         "nombre": "12:34",
         "rubro": [
+            "Accesorios",
             "Joyerías y Relojerías"
         ],
         "productos": [
@@ -57,30 +67,13 @@
         ],
         "nodo": "36",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/1234.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/1234.jpg",
         "piso": "1",
-        "geo": "B 106",
+        "geo": [
+            "B-106"
+        ],
+        "geoTemp": "B-106",
         "area": "Pasillo 1"
-    },
-    {
-        "nombre": "7 Veinte",
-        "rubro": [
-            "Vestuario Deportivo"
-        ],
-        "productos": [
-            "Burton",
-            "Analog",
-            "Gravis",
-            "Skull Candy",
-            "Sector 9",
-            "Swett Jane",
-            "Habitat",
-            "Alien Workshop"
-        ],
-        "nodo": "286",
-        "logo": "null",
-        "piso": "3",
-        "geo": "A-337 ",
-        "area": "Pasillo Paris"
     },
     {
         "nombre": "Adidas",
@@ -97,9 +90,34 @@
         ],
         "nodo": "77",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Adidas.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Adidas.jpg",
         "piso": "1",
-        "geo": "A-161 - 165 -169 -173",
+        "geo": [
+            "A-161+A-165+A-169+A-173+A-177"
+        ],
+        "geoTemp": "A-161+A-165+A-169+A-173+A-177",
         "area": "Pasillo 4"
+    },
+    {
+        "nombre": "Adidas Originals",
+        "rubro": [
+            "Accesorios Deportivos"
+        ],
+        "productos": [
+            "zapatillas",
+            "ropa",
+            "accesorios",
+            "juvenil"
+        ],
+        "nodo": "251",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/adidas_original.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/adidas_original.jpg",
+        "piso": "2",
+        "geo": [
+            "B-214+B-216"
+        ],
+        "geoTemp": "B-214+B-216",
+        "area": "ex pasillo Johnsons"
     },
     {
         "nombre": "Afex (casa de cambio)",
@@ -119,9 +137,36 @@
         ],
         "nodo": "214",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Afex.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Afex.jpg",
         "piso": "2",
-        "geo": "BDK-2040a",
+        "geo": [
+            "BDK-2040a"
+        ],
+        "geoTemp": "BDK-2040a",
         "area": "Bulevar Deck"
+    },
+    {
+        "nombre": "Albin Trotter",
+        "rubro": [
+            "Accesorios",
+            "Hogar y Regalos",
+            "Servicios",
+            "Vivienda y Construcción"
+        ],
+        "productos": [
+            "calefonts",
+            "parrillas",
+            "cocinas"
+        ],
+        "nodo": "305",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/albin-trotter.png",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/albin-trotter.png",
+        "piso": "3",
+        "geo": [
+            "D-318+D-322+D-326"
+        ],
+        "geoTemp": "D-318+D-322+D-326",
+        "area": "Pasillo Ripley"
     },
     {
         "nombre": "Alfombras Dib",
@@ -135,9 +180,13 @@
             "Textil hogar"
         ],
         "nodo": "301",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/dib.png",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dib.png",
         "piso": "3",
-        "geo": "D-364 + D-368",
+        "geo": [
+            "D-364+D-368"
+        ],
+        "geoTemp": "D-364+D-368",
         "area": "Pasillo Ripley"
     },
     {
@@ -162,25 +211,13 @@
         ],
         "nodo": "425",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/AllNutrition.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/AllNutrition.jpg",
         "piso": "3",
-        "geo": "Modulo",
+        "geo": [
+            "MP-320"
+        ],
+        "geoTemp": "MP-320",
         "area": "Plaza central"
-    },
-    {
-        "nombre": "All Nutrition",
-        "rubro": [
-            "Alimentos y Bebidas"
-        ],
-        "productos": [
-            "Suplemento Alimenticio",
-            "Quemadores de Grasas",
-            "Vitaminas"
-        ],
-        "nodo": "195",
-        "logo": "null",
-        "piso": "2",
-        "geo": "null",
-        "area": "Pasillo Ripley"
     },
     {
         "nombre": "Alpino Wagen",
@@ -193,8 +230,12 @@
         ],
         "nodo": "108",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Alpinowagen.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Alpinowagen.jpg",
         "piso": "1",
-        "geo": "AP-153-154-155",
+        "geo": [
+            "AP-153+AP-154+AP-155"
+        ],
+        "geoTemp": "AP-153+AP-154+AP-155",
         "area": "Locales Autoplaza"
     },
     {
@@ -213,15 +254,39 @@
         ],
         "nodo": "308",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Americanino.jpg",
         "piso": "3",
-        "geo": "C-301-305-309-310-317",
+        "geo": [
+            "C-301+C-305+C-309+C-310+C-317"
+        ],
+        "geoTemp": "C-301+C-305+C-309+C-310+C-317",
         "area": "Pasillo 8"
+    },
+    {
+        "nombre": "Americanino Aires",
+        "rubro": [
+            "Accesorios",
+            "Vestuario Unisex"
+        ],
+        "productos": [
+            "moda",
+            "juvenil",
+            "ropa"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Americanino.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Americanino.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-144+BA-140"
+        ],
+        "geoTemp": "BA-144+BA-140",
+        "area": "Aires"
     },
     {
         "nombre": "Amphora",
         "rubro": [
-            "Accesorios Femeninos",
-            "Calzado Femenino"
+            "Accesorios"
         ],
         "productos": [
             "Amphora",
@@ -231,14 +296,62 @@
         ],
         "nodo": "180",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Amphora.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Amphora.jpg",
         "piso": "2",
-        "geo": "A 237- A241a",
+        "geo": [
+            "A-237+A241a"
+        ],
+        "geoTemp": "A-237+A241a",
         "area": "Pasillo 7"
+    },
+    {
+        "nombre": "Ando Creando",
+        "rubro": [
+            "Accesorios",
+            "Artículos de Libreria"
+        ],
+        "productos": [
+            "material didáctico",
+            "juegos didácticos",
+            "manualidades",
+            "materiales",
+            "accesorios",
+            "material de escritorio"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/andocreando.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/andocreando.jpg",
+        "piso": "2",
+        "geo": [
+            "A-222"
+        ],
+        "geoTemp": "A-222",
+        "area": "Pasillo 7"
+    },
+    {
+        "nombre": "Antena 3D",
+        "rubro": [
+            "Accesorios"
+        ],
+        "productos": [
+            "Electrodomesticos",
+            "Articulos Perfumeria y cosmeticos",
+            "otros enseres domesticos"
+        ],
+        "nodo": "173",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Antena3.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Antena3.jpg",
+        "piso": "2",
+        "geo": [
+            " A-289+A-293"
+        ],
+        "geoTemp": " A-289+A-293",
+        "area": "Pasillo Paris"
     },
     {
         "nombre": "Arrow",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Femenino",
             "Vestuario Masculino"
         ],
@@ -249,8 +362,12 @@
         ],
         "nodo": "16",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Arrow.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Arrow.jpg",
         "piso": "1",
-        "geo": "C-145-149",
+        "geo": [
+            "C-145+C-149"
+        ],
+        "geoTemp": "C-145+C-149",
         "area": "Pasillo 2"
     },
     {
@@ -268,8 +385,12 @@
         ],
         "nodo": "102",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Aseguradoramagallanes.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Aseguradoramagallanes.jpg",
         "piso": "1",
-        "geo": "AP-136a",
+        "geo": [
+            "AP-136a"
+        ],
+        "geoTemp": "AP-136a",
         "area": "Bulevar DuocUC"
     },
     {
@@ -289,8 +410,12 @@
         ],
         "nodo": "321",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/audiomusica.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/audiomusica.jpg",
         "piso": "3",
-        "geo": "A-378-374-370-BS301",
+        "geo": [
+            "A-378+A-374+A-370+BS-301"
+        ],
+        "geoTemp": "A-378+A-374+A-370+BS-301",
         "area": "Pasillo 9"
     },
     {
@@ -308,31 +433,18 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/automotoraruz.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/automotoraruz.jpg",
         "piso": "1",
-        "geo": "AU-101-105",
+        "geo": [
+            "AU-101+A-105"
+        ],
+        "geoTemp": "AU-101+A-105",
         "area": "Locales Autoplaza"
-    },
-    {
-        "nombre": "Autopista Vespucio Sur",
-        "rubro": [
-            "Módulos",
-            "Servicios"
-        ],
-        "productos": [
-            "Autopista Vespucio Sur",
-            "Punto de Venta y Postventa",
-            "Tags"
-        ],
-        "nodo": "3",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/autopistavespuciosur.jpg",
-        "piso": "1",
-        "geo": "s/n",
-        "area": "Pasillo 4"
     },
     {
         "nombre": "Azaleia",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino"
         ],
         "productos": [
@@ -341,8 +453,12 @@
         ],
         "nodo": "58",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Azaleia.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Azaleia.jpg",
         "piso": "1",
-        "geo": "A-106c-110",
+        "geo": [
+            "A-106c+A-110"
+        ],
+        "geoTemp": "A-106c+A-110",
         "area": "Pasillo 4"
     },
     {
@@ -356,14 +472,43 @@
         ],
         "nodo": "314",
         "logo": "http://www.mallplaza.cl/images/stories/boost2.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/boost2.jpg",
         "piso": "3",
-        "geo": "null",
+        "geo": [
+            "C-377"
+        ],
+        "geoTemp": "C-377",
         "area": "Pasillo Falabella"
+    },
+    {
+        "nombre": "Baby Center Store",
+        "rubro": [
+            "Accesorios"
+        ],
+        "productos": [
+            "juguetes",
+            "rodados",
+            "outdoor",
+            "andadores",
+            "cunas",
+            "coches",
+            "bolsos",
+            "accesorios"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/babycenter.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/babycenter.jpg",
+        "piso": "2",
+        "geo": [
+            "D-250+D-254+D-258"
+        ],
+        "geoTemp": "D-250+D-254+D-258",
+        "area": "Pasillo 6"
     },
     {
         "nombre": "Baby Infanti",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
             "Juguetería"
         ],
         "productos": [
@@ -383,14 +528,18 @@
         ],
         "nodo": "25",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/babyinfanti.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/babyinfanti.jpg",
         "piso": "1",
-        "geo": "C158 - C162",
+        "geo": [
+            "C158+C162"
+        ],
+        "geoTemp": "C158+C162",
         "area": "Pasillo 2"
     },
     {
         "nombre": "Baby World",
         "rubro": [
-            "Accesorios Infantiles"
+            "Accesorios"
         ],
         "productos": [
             "Coches",
@@ -404,8 +553,12 @@
         ],
         "nodo": "319",
         "logo": "http://www.mallplaza.cl/images/stories/baby world.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/baby world.jpg",
         "piso": "3",
-        "geo": "C370",
+        "geo": [
+            "C-370"
+        ],
+        "geoTemp": "C-370",
         "area": "Pasillo Falabella"
     },
     {
@@ -422,27 +575,14 @@
             "accesorios"
         ],
         "nodo": "314",
-        "logo": "null",
-        "piso": "3",
-        "geo": "C-357",
-        "area": "Pasillo Falabella"
-    },
-    {
-        "nombre": "Bamers",
-        "rubro": [
-            "Calzado Femenino",
-            "Calzado Infantil",
-            "Calzado Masculino"
-        ],
-        "productos": [
-            "Bamers",
-            "Calzados"
-        ],
-        "nodo": "75",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bamers.jpg",
-        "piso": "1",
-        "geo": "s/n",
-        "area": "Pasillo 4"
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bamers.jpg",
+        "piso": "3",
+        "geo": [
+            "C-357"
+        ],
+        "geoTemp": "C-357",
+        "area": "Pasillo Falabella"
     },
     {
         "nombre": "Banco BBVA",
@@ -458,9 +598,13 @@
         ],
         "nodo": "156",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bbva.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bbva.jpg",
         "piso": "2",
-        "geo": "bmcd 1001 - 1005 - 1009- 1013 - 1017 - 1021",
-        "area": "Bulevar McDonald´s"
+        "geo": [
+            "BMCD-1001+BMCD-1005+BMCD-1009+BMCD-1013+BMCD-1017+BMCD-1021"
+        ],
+        "geoTemp": "BMCD-1001+BMCD-1005+BMCD-1009+BMCD-1013+BMCD-1017+BMCD-1021",
+        "area": "Bulevar McDonald´s - Exterior"
     },
     {
         "nombre": "Banco BCI",
@@ -476,9 +620,13 @@
         ],
         "nodo": "236",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancobci.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancobci.jpg",
         "piso": "1",
-        "geo": "C-278-282-286-E205",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "C-278+C-282+C-286+E205"
+        ],
+        "geoTemp": "C-278+C-282+C-286+E205",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco Estado",
@@ -494,9 +642,13 @@
         ],
         "nodo": "272",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoestado.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoestado.jpg",
         "piso": "1",
-        "geo": "BS-104-106",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "BS-104+BS-106"
+        ],
+        "geoTemp": "BS-104+BS-106",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco Falabella",
@@ -512,9 +664,13 @@
         ],
         "nodo": "250",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BancoFalabella.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BancoFalabella.jpg",
         "piso": "1",
-        "geo": "B-222a",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "B-222a"
+        ],
+        "geoTemp": "B-222a",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco Itau",
@@ -530,27 +686,13 @@
         ],
         "nodo": "270",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoitau.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoitau.jpg",
         "piso": "1",
-        "geo": "BS-110-112",
-        "area": "Bulevar Financiero"
-    },
-    {
-        "nombre": "Banco Nova",
-        "rubro": [
-            "Bancos",
-            "Encomiendas y Servicios"
+        "geo": [
+            "BS-110+BS-112"
         ],
-        "productos": [
-            "Banco Nova",
-            "Creditos",
-            "Ahorros",
-            "Cuentas corrientes"
-        ],
-        "nodo": "271",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/banconova.jpg",
-        "piso": "1",
-        "geo": "BS-108",
-        "area": "Bulevar Financiero"
+        "geoTemp": "BS-110+BS-112",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco Ripley",
@@ -566,8 +708,12 @@
         ],
         "nodo": "193",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancoripley.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancoripley.jpg",
         "piso": "2",
-        "geo": "D-270-274-E204",
+        "geo": [
+            "D-270+D-274+E-204"
+        ],
+        "geoTemp": "D-270+D-274+E-204",
         "area": "Pasillo 6"
     },
     {
@@ -584,9 +730,13 @@
         ],
         "nodo": "269",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancosantander.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancosantander.jpg",
         "piso": "1",
-        "geo": "BS-114-116",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "BS-114+BS-116"
+        ],
+        "geoTemp": "BS-114+BS-116",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco Santander Banefe",
@@ -600,9 +750,13 @@
         ],
         "nodo": "268",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancobanefe.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancobanefe.jpg",
         "piso": "1",
-        "geo": "BS-118",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "BS-118"
+        ],
+        "geoTemp": "BS-118",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Banco de Chile",
@@ -618,15 +772,19 @@
         ],
         "nodo": "237",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bancochile.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bancochile.jpg",
         "piso": "1",
-        "geo": "BS 122",
-        "area": "Bulevar Financiero"
+        "geo": [
+            "BS-122"
+        ],
+        "geoTemp": "BS-122",
+        "area": "Bulevar Financiero - Exterior"
     },
     {
         "nombre": "Bariloche",
         "rubro": [
-            "Restaurantes",
-            "Las Terrazas"
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
             "Bariloche",
@@ -636,18 +794,22 @@
         ],
         "nodo": "48",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bariloche.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bariloche.jpg",
         "piso": "1",
-        "geo": "LT-107",
+        "geo": [
+            "LT-107"
+        ],
+        "geoTemp": "LT-107",
         "area": "Terrazas"
     },
     {
         "nombre": "Bata",
         "rubro": [
+            "Accesorios",
             "Calzado Deportivo",
             "Calzado Femenino",
             "Calzado Infantil",
-            "Calzado Masculino",
-            "Accesorios Generales"
+            "Calzado Masculino"
         ],
         "productos": [
             "Nike",
@@ -665,18 +827,22 @@
         ],
         "nodo": "39",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bata.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Bata.jpg",
         "piso": "1",
-        "geo": "B-114a-118a-122a",
+        "geo": [
+            "B-114a+B-118a+B-122a"
+        ],
+        "geoTemp": "B-114a+B-118a+B-122a",
         "area": "Pasillo 1"
     },
     {
         "nombre": "Bata Familiar",
         "rubro": [
+            "Accesorios",
             "Calzado Deportivo",
             "Calzado Femenino",
             "Calzado Infantil",
-            "Calzado Masculino",
-            "Accesorios Generales"
+            "Calzado Masculino"
         ],
         "productos": [
             "Nike",
@@ -694,14 +860,18 @@
         ],
         "nodo": "30",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/batafamiliar.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/batafamiliar.jpg",
         "piso": "1",
-        "geo": "C-130-134",
+        "geo": [
+            "C-130+C-134"
+        ],
+        "geoTemp": "C-130+C-134",
         "area": "Pasillo 2"
     },
     {
         "nombre": "Bellota",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Masculino"
         ],
         "productos": [
@@ -710,8 +880,12 @@
         ],
         "nodo": "204",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Bellota.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Bellota.jpg",
         "piso": "2",
-        "geo": "C-233",
+        "geo": [
+            "C-233"
+        ],
+        "geoTemp": "C-233",
         "area": "Pasillo 5"
     },
     {
@@ -728,8 +902,12 @@
         ],
         "nodo": "33",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Belsport.jpg",
         "piso": "1",
-        "geo": "C-114-116",
+        "geo": [
+            "C-114+C-116"
+        ],
+        "geoTemp": "C-114+C-116",
         "area": "Pasillo 2"
     },
     {
@@ -744,14 +922,18 @@
         ],
         "nodo": "207",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Belsport.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Belsport.jpg",
         "piso": "2",
-        "geo": "C245a - C245b - C249a - C249b - C253",
+        "geo": [
+            "C-245a+C-245b+C-249a+C-249b+C-253"
+        ],
+        "geoTemp": "C-245a+C-245b+C-249a+C-249b+C-253",
         "area": "Pasillo 5"
     },
     {
         "nombre": "Big Bang",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Vestuario Femenino"
         ],
         "productos": [
@@ -761,8 +943,12 @@
         ],
         "nodo": "31",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bigbang.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bigbang.jpg",
         "piso": "1",
-        "geo": "C-126a",
+        "geo": [
+            "C-126a"
+        ],
+        "geoTemp": "C-126a",
         "area": "Pasillo 2"
     },
     {
@@ -779,29 +965,14 @@
             "Discos duros"
         ],
         "nodo": "297",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bip.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bip.jpg",
         "piso": "3",
-        "geo": " A-370 + A-374 + A-978 ",
+        "geo": [
+            "A-370+A-374+A-978 "
+        ],
+        "geoTemp": "A-370+A-374+A-978 ",
         "area": "Pasillo Ripley"
-    },
-    {
-        "nombre": "Black and Blue",
-        "rubro": [
-            "Accesorios Infantiles",
-            "Calzado Infantil",
-            "Vestuario Infantil"
-        ],
-        "productos": [
-            "Black and Blue",
-            "Vestuario Niños",
-            "Calzado Niños",
-            "Accesorios Infantil"
-        ],
-        "nodo": "201",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Blackandblue.jpg",
-        "piso": "2",
-        "geo": "C 221",
-        "area": "Pasillo 5"
     },
     {
         "nombre": "Block",
@@ -814,8 +985,12 @@
         ],
         "nodo": "179",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Block.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Block.jpg",
         "piso": "2",
-        "geo": "A-241b - A245 - A249",
+        "geo": [
+            "A-241b+A-245+A-249"
+        ],
+        "geoTemp": "A-241b+A-245+A-249",
         "area": "Pasillo Paris"
     },
     {
@@ -829,15 +1004,44 @@
         ],
         "nodo": "181",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/boutiquemex.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/boutiquemex.jpg",
         "piso": "2",
-        "geo": "A-233",
+        "geo": [
+            "A-233"
+        ],
+        "geoTemp": "A-233",
         "area": "Pasillo 7"
     },
     {
-        "nombre": "Bravissmo (Pasillo 3)",
+        "nombre": "Box Market",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Bebidas",
+            "Módulos"
+        ],
+        "productos": [
+            "sandwich",
+            "confites",
+            "dulces",
+            "galletas",
+            "café",
+            "bebidas",
+            "jugos",
+            "pasteles"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/box.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/box.jpg",
+        "piso": "2",
+        "geo": [
+            "MP-209"
+        ],
+        "geoTemp": "MP-209",
+        "area": "Pasillo 5"
+    },
+    {
+        "nombre": "Bravissimo 2",
+        "rubro": [
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Bravissimo",
@@ -847,15 +1051,18 @@
         ],
         "nodo": "9",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bravissimo.jpg",
         "piso": "1",
-        "geo": "D-165",
+        "geo": [
+            "D-165"
+        ],
+        "geoTemp": "D-165",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Bravissmo Oeste",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Bravissimo",
@@ -865,39 +1072,18 @@
         ],
         "nodo": "42",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bravissimo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bravissimo.jpg",
         "piso": "1",
-        "geo": "B-138b-142",
-        "area": "Pasillo 1"
-    },
-    {
-        "nombre": "Bresler",
-        "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+        "geo": [
+            "B-138b+B-142"
         ],
-        "productos": [
-            "Bresler",
-            "ECCU",
-            "CCU",
-            "Nescafé y Breden master",
-            "Helados porcionados y de paleta",
-            "café",
-            "bebida",
-            "nuffin",
-            "medias lunas",
-            "Croissant"
-        ],
-        "nodo": "56",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
-        "piso": "1",
-        "geo": "null",
+        "geoTemp": "B-138b+B-142",
         "area": "Pasillo 1"
     },
     {
         "nombre": "Bresler 2",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Bresler",
@@ -913,8 +1099,12 @@
         ],
         "nodo": "76",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bresler.jpg",
         "piso": "1",
-        "geo": "A-185",
+        "geo": [
+            "A-185"
+        ],
+        "geoTemp": "A-185",
         "area": "Pasillo 4"
     },
     {
@@ -927,14 +1117,18 @@
         ],
         "nodo": "173",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bresler.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bresler.jpg",
         "piso": "2",
-        "geo": "null",
+        "geo": [
+            "A-293"
+        ],
+        "geoTemp": "A-293",
         "area": "Pasillo Paris"
     },
     {
         "nombre": "Bruno Rossi",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino"
         ],
         "productos": [
@@ -947,8 +1141,12 @@
         ],
         "nodo": "174",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BrunoRossi.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BrunoRossi.jpg",
         "piso": "2",
-        "geo": "A - 281",
+        "geo": [
+            "A-281"
+        ],
+        "geoTemp": "A-281",
         "area": "Pasillo 7"
     },
     {
@@ -967,8 +1165,12 @@
         ],
         "nodo": "17",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BubbleGummers.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BubbleGummers.jpg",
         "piso": "1",
-        "geo": "C-153-157",
+        "geo": [
+            "C-153+C-157"
+        ],
+        "geoTemp": "C-153+C-157",
         "area": "Pasillo 2"
     },
     {
@@ -985,8 +1187,12 @@
         ],
         "nodo": "344",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/BufaloBeef.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/BufaloBeef.jpg",
         "piso": "3",
-        "geo": "B-309",
+        "geo": [
+            "B-309"
+        ],
+        "geoTemp": "B-309",
         "area": "Food Court"
     },
     {
@@ -1003,8 +1209,12 @@
         ],
         "nodo": "332",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Buffetexpress.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Buffetexpress.jpg",
         "piso": "3",
-        "geo": "B-322-318",
+        "geo": [
+            "B-322+B-318"
+        ],
+        "geoTemp": "B-322+B-318",
         "area": "Food Court"
     },
     {
@@ -1020,9 +1230,34 @@
         ],
         "nodo": "343",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/burgerking.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/burgerking.jpg",
         "piso": "3",
-        "geo": "B-303",
+        "geo": [
+            "B-303"
+        ],
+        "geoTemp": "B-303",
         "area": "Food Court"
+    },
+    {
+        "nombre": "CAT",
+        "rubro": [
+            "Vestuario Unisex"
+        ],
+        "productos": [
+            "vestuario femenino",
+            "vestuario masculino",
+            "calzado femenino",
+            "calzado masculino"
+        ],
+        "nodo": "49",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CAT.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CAT.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-124+BA-128"
+        ],
+        "geoTemp": "BA-124+BA-128",
+        "area": "Pasillo Aires"
     },
     {
         "nombre": "CIC Hogar",
@@ -1040,9 +1275,13 @@
         ],
         "nodo": "293",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cic.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cic.jpg",
         "piso": "3",
-        "geo": "D-317-321-325",
-        "area": "Pasillo 8"
+        "geo": [
+            "D-317+D-321+D-325"
+        ],
+        "geoTemp": "D-317+D-321+D-325",
+        "area": "Pasillo 9"
     },
     {
         "nombre": "CMR Automotriz",
@@ -1055,9 +1294,32 @@
         ],
         "nodo": "137",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cmrfalabellaautomotriz.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cmrfalabellaautomotriz.jpg",
         "piso": "1",
-        "geo": "AP-113",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-113"
+        ],
+        "geoTemp": "AP-113",
+        "area": "Locales Autoplaza - Exterior"
+    },
+    {
+        "nombre": "CMoran",
+        "rubro": [
+            "Calzado Femenino"
+        ],
+        "productos": [
+            "calzado femenino",
+            "calzados femenino de temporada"
+        ],
+        "nodo": "239",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cristian moran.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cristian moran.jpg",
+        "piso": "2",
+        "geo": [
+            "C-258"
+        ],
+        "geoTemp": "C-258",
+        "area": "Falabella"
     },
     {
         "nombre": "Caffarena",
@@ -1068,12 +1330,18 @@
             "Caffarena",
             "Lenceria",
             "ropa interior",
-            "trajes de Baños"
+            "trajes de Baños",
+            "pantys",
+            "calcetines"
         ],
         "nodo": "62",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Caffarena.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Caffarena.jpg",
         "piso": "1",
-        "geo": "A-138",
+        "geo": [
+            "A-138"
+        ],
+        "geoTemp": "A-138",
         "area": "Pasillo 4"
     },
     {
@@ -1088,9 +1356,13 @@
             "Accesorios Juveniles"
         ],
         "nodo": "290",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/call-it-spring.gif",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/call-it-spring.gif",
         "piso": "3",
-        "geo": "A-301 + A-305 + A-309 + A-313b",
+        "geo": [
+            "A-301+A-305+A-309+A-313b"
+        ],
+        "geoTemp": "A-301+A-305+A-309+A-313b",
         "area": "Pasillo Ripley"
     },
     {
@@ -1106,8 +1378,12 @@
         ],
         "nodo": "87",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cannon.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cannon.jpg",
         "piso": "1",
-        "geo": "D 125 - D 129",
+        "geo": [
+            "D-125+D-129"
+        ],
+        "geoTemp": "D-125+D-129",
         "area": "Pasillo 3"
     },
     {
@@ -1125,8 +1401,12 @@
         ],
         "nodo": "244",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Capellini.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Capellini.jpg",
         "piso": "2",
-        "geo": "C-222-226a",
+        "geo": [
+            "C-222+C-226a"
+        ],
+        "geoTemp": "C-222+C-226a",
         "area": "Pasillo 5"
     },
     {
@@ -1140,9 +1420,13 @@
         ],
         "nodo": "126",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/carmeister.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/carmeister.jpg",
         "piso": "1",
-        "geo": "AU-100-104",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AU-100+AU-104"
+        ],
+        "geoTemp": "AU-100+AU-104",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Cardinale",
@@ -1155,14 +1439,18 @@
         ],
         "nodo": "10",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cardinale.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cardinale.jpg",
         "piso": "1",
-        "geo": "D 114 - D 118 a",
+        "geo": [
+            "D-114+D-118 a"
+        ],
+        "geoTemp": "D-114+D-118 a",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Casa Amarilla",
         "rubro": [
-            "Musica"
+            "Artículos Musicales"
         ],
         "productos": [
             "Las mejores Marcas",
@@ -1172,8 +1460,12 @@
         ],
         "nodo": "41",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casaamarilla.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casaamarilla.jpg",
         "piso": "1",
-        "geo": "B-138",
+        "geo": [
+            "B-138"
+        ],
+        "geoTemp": "B-138",
         "area": "Pasillo 1"
     },
     {
@@ -1198,8 +1490,12 @@
         ],
         "nodo": "22",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casablanca.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casablanca.jpg",
         "piso": "1",
-        "geo": "C - 186 - 189",
+        "geo": [
+            "C-186+C-189"
+        ],
+        "geoTemp": "C-186+C-189",
         "area": "Pasillo 2"
     },
     {
@@ -1220,9 +1516,55 @@
         ],
         "nodo": "163",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casapichara.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casapichara.jpg",
         "piso": "1",
-        "geo": "BT-146-148-150",
-        "area": "Bulevar Tottus"
+        "geo": [
+            "BT-146+BT-148+BT-150"
+        ],
+        "geoTemp": "BT-146+BT-148+BT-150",
+        "area": "Bulevar Tottus "
+    },
+    {
+        "nombre": "Casa Royal",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "Electronica",
+            "Computacion",
+            "Accesorios"
+        ],
+        "nodo": "D-161",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CasaRoyal.jpg",
+        "piso": "1",
+        "geo": [
+            "D-137+D-157+D-161"
+        ],
+        "geoTemp": "D-137+D-157+D-161",
+        "area": "Pasillo Ripley"
+    },
+    {
+        "nombre": "Casa Royal",
+        "rubro": [
+            "Computación y Electrónica"
+        ],
+        "productos": [
+            "Casa Royal",
+            "Repuestos",
+            "Accesorios",
+            "electronica",
+            "Ferreteria"
+        ],
+        "nodo": "75",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/CasaRoyal.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/CasaRoyal.jpg",
+        "piso": "1",
+        "geo": [
+            "D-149+D-153+D-157+D-161"
+        ],
+        "geoTemp": "D-149+D-153+D-157+D-161",
+        "area": "Pasillo 3"
     },
     {
         "nombre": "Casa de Cambio Euro Cambio",
@@ -1236,8 +1578,12 @@
         ],
         "nodo": "152",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/eurocambio.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/eurocambio.jpg",
         "piso": "1",
-        "geo": "BT-120",
+        "geo": [
+            "BT-120"
+        ],
+        "geoTemp": "BT-120",
         "area": "Bulevar Tottus"
     },
     {
@@ -1253,8 +1599,12 @@
         ],
         "nodo": "24",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/casaideas.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/casaideas.jpg",
         "piso": "1",
-        "geo": "D-149-153-157-161-E101",
+        "geo": [
+            "D-149+D-153+D-157+D-161+E-101"
+        ],
+        "geoTemp": "D-149+D-153+D-157+D-161+E-101",
         "area": "Pasillo 2"
     },
     {
@@ -1277,9 +1627,37 @@
         ],
         "nodo": "119",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Centraldefrenosgoodyear.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Centraldefrenosgoodyear.jpg",
         "piso": "1",
-        "geo": "AP-178-179- 180-181-182-183",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-178+AP-179+AP-180+AP-181+AP-182+AP-183"
+        ],
+        "geoTemp": "AP-178+AP-179+AP-180+AP-181+AP-182+AP-183",
+        "area": "Locales Autoplaza - Exterior"
+    },
+    {
+        "nombre": "Centro Bip",
+        "rubro": [
+            "Encomiendas y Servicios",
+            "Servicios"
+        ],
+        "productos": [
+            "recarga",
+            "bip",
+            "servicios",
+            "Áctivación carga remota",
+            "Consulta de saldo",
+            "venta"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/centrobip.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/centrobip.jpg",
+        "piso": "1",
+        "geo": [
+            "BT-117"
+        ],
+        "geoTemp": "BT-117",
+        "area": "Bulevard Tottus"
     },
     {
         "nombre": "Chantilly",
@@ -1296,8 +1674,12 @@
         ],
         "nodo": "89",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chantilly.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chantilly.jpg",
         "piso": "1",
-        "geo": "D-141-145",
+        "geo": [
+            "D-141+D-145"
+        ],
+        "geoTemp": "D-141+D-145",
         "area": "Pasillo 3"
     },
     {
@@ -1311,9 +1693,13 @@
         ],
         "nodo": "129",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chery.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chery.jpg",
         "piso": "1",
-        "geo": "ST-115-119",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "ST-115+ST-119"
+        ],
+        "geoTemp": "ST-115+ST-119",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Chery (Servicio Técnico)",
@@ -1327,8 +1713,12 @@
         ],
         "nodo": "122",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chery.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chery.jpg",
         "piso": "1",
-        "geo": "null",
+        "geo": [
+            "null"
+        ],
+        "geoTemp": "null",
         "area": "AutoPlaza"
     },
     {
@@ -1345,9 +1735,13 @@
         ],
         "nodo": "105",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chevrolet.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chevrolet.jpg",
         "piso": "1",
-        "geo": "AP-108",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-108"
+        ],
+        "geoTemp": "AP-108",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Chilexpress",
@@ -1365,9 +1759,13 @@
         ],
         "nodo": "160",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chilexpress.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chilexpress.jpg",
         "piso": "1",
-        "geo": "BT-125-127-129b",
-        "area": "Bulevar Tottus"
+        "geo": [
+            "BT-125+BT-127+BT-129b"
+        ],
+        "geoTemp": "BT-125+BT-127+BT-129b",
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "China Wok",
@@ -1382,8 +1780,12 @@
         ],
         "nodo": "329",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Chinawok.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Chinawok.jpg",
         "piso": "3",
-        "geo": "B-310",
+        "geo": [
+            "B-310"
+        ],
+        "geoTemp": "B-310",
         "area": "Food Court"
     },
     {
@@ -1402,16 +1804,18 @@
             "Mazapan"
         ],
         "nodo": "290",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chocolates-roman.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chocolates-roman.jpg",
         "piso": "3",
-        "geo": "MP-322",
+        "geo": [
+            "MP-322"
+        ],
+        "geoTemp": "MP-322",
         "area": "Plaza central"
     },
     {
         "nombre": "Chuck E. Cheese's",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Entretención y Cultura",
             "Restaurantes"
         ],
         "productos": [
@@ -1422,9 +1826,13 @@
         ],
         "nodo": "116",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/chuckcheese ´s.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/chuckcheese ´s.jpg",
         "piso": "1",
-        "geo": "AJ-100",
-        "area": "Costado Autoplaza"
+        "geo": [
+            "AJ-100"
+        ],
+        "geoTemp": "AJ-100",
+        "area": "Costado Autoplaza - Exterior"
     },
     {
         "nombre": "Cinemark",
@@ -1437,9 +1845,39 @@
         ],
         "nodo": "93",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cinemark.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cinemark.jpg",
         "piso": "1",
-        "geo": "D-101",
-        "area": "Pasillo 2"
+        "geo": [
+            "D-101"
+        ],
+        "geoTemp": "D-101",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Clarks",
+        "rubro": [
+            "Accesorios",
+            "Calzado Femenino",
+            "Calzado Infantil",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "calzado",
+            "moda",
+            "tendencias",
+            "mujer",
+            "hombre",
+            "niños"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/clarks.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/clarks.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-136"
+        ],
+        "geoTemp": "BA-136",
+        "area": "Aires"
     },
     {
         "nombre": "Claro",
@@ -1453,8 +1891,12 @@
         ],
         "nodo": "232",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/claro.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/claro.jpg",
         "piso": "2",
-        "geo": "BDK-2017-2021-2029-2033-2037-2041-2045",
+        "geo": [
+            "BDK-2017+BDK-2021+BDK-2029+BDK-2033+BDK-2037+BDK-2041+BDK-2045"
+        ],
+        "geoTemp": "BDK-2017+BDK-2021+BDK-2029+BDK-2033+BDK-2037+BDK-2041+BDK-2045",
         "area": "Bulevar Deck"
     },
     {
@@ -1468,14 +1910,18 @@
         ],
         "nodo": "147",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/clinicadecalzado.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/clinicadecalzado.jpg",
         "piso": "1",
-        "geo": "BT -101",
-        "area": "Bulevar Tottus"
+        "geo": [
+            "BT-101"
+        ],
+        "geoTemp": "BT-101",
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "Colloky",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
             "Calzado Infantil",
             "Vestuario Infantil"
         ],
@@ -1486,8 +1932,12 @@
         ],
         "nodo": "83",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Colloky.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Colloky.jpg",
         "piso": "1",
-        "geo": "A-113-117",
+        "geo": [
+            "A-113+A-117"
+        ],
+        "geoTemp": "A-113+A-117",
         "area": "Pasillo 4"
     },
     {
@@ -1502,15 +1952,18 @@
         ],
         "nodo": "285",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Converse.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Converse.jpg",
         "piso": "3",
-        "geo": "A-341-345-349",
+        "geo": [
+            "A-341+A-345+A-349"
+        ],
+        "geoTemp": "A-341+A-345+A-349",
         "area": "Pasillo 10"
     },
     {
         "nombre": "Coppelia",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Coppelia",
@@ -1521,8 +1974,12 @@
         ],
         "nodo": "90",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/coppelia.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/coppelia.jpg",
         "piso": "1",
-        "geo": "D149 - D153a",
+        "geo": [
+            "D-149+D-153a"
+        ],
+        "geoTemp": "D-149+D-153a",
         "area": "Pasillo 3"
     },
     {
@@ -1541,15 +1998,18 @@
         ],
         "nodo": "153",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Correo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Correo.jpg",
         "piso": "1",
-        "geo": "BT-119",
-        "area": "Bulevar Tottus"
+        "geo": [
+            "BT-119"
+        ],
+        "geoTemp": "BT-119",
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "Cory",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Cory",
@@ -1559,9 +2019,35 @@
         ],
         "nodo": "199",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Cory.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Cory.jpg",
         "piso": "2",
-        "geo": "D-202-206",
+        "geo": [
+            "D-202+D-206"
+        ],
+        "geoTemp": "D-202+D-206",
         "area": "Pasillo 6"
+    },
+    {
+        "nombre": "Costanera Norte",
+        "rubro": [
+            "Módulos",
+            "Servicios"
+        ],
+        "productos": [
+            "Autopista Vespucio Sur",
+            "Punto de Venta y Postventa",
+            "Tags",
+            "costanera norte"
+        ],
+        "nodo": "3",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/costanera.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/costanera.jpg",
+        "piso": "1",
+        "geo": [
+            "BT-133+BT-135"
+        ],
+        "geoTemp": "BT-133+BT-135",
+        "area": "Bulevard Tottus"
     },
     {
         "nombre": "Cotys",
@@ -1581,8 +2067,12 @@
         ],
         "nodo": "82",
         "logo": "http://www.mallplaza.cl/images/stories/cotys_lingerie.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cotys_lingerie.jpg",
         "piso": "1",
-        "geo": "A-125-121",
+        "geo": [
+            "A-125+A-121"
+        ],
+        "geoTemp": "A-125+A-121",
         "area": "Pasillo 4"
     },
     {
@@ -1596,9 +2086,13 @@
         ],
         "nodo": "158",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/cpech.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cpech.jpg",
         "piso": "1",
-        "geo": "BMCD-2049a-2053a-2057a-2061a-2000-2004-2008-2012-2016-2020",
-        "area": "Bulevar de Servicios"
+        "geo": [
+            "BMCD-2049a+BMCD-2053a+BMCD-2057a+BMCD-2061a+BMCD-2000+BMCD-2004+BMCD-2008+BMCD-2012+BMCD-2016+BMCD-2020"
+        ],
+        "geoTemp": "BMCD-2049a+BMCD-2053a+BMCD-2057a+BMCD-2061a+BMCD-2000+BMCD-2004+BMCD-2008+BMCD-2012+BMCD-2016+BMCD-2020",
+        "area": "Bulevar de Servicios - Exterior"
     },
     {
         "nombre": "CrediChile",
@@ -1612,14 +2106,19 @@
         ],
         "nodo": "162",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/credichile.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/credichile.jpg",
         "piso": "1",
-        "geo": " BT-151 + 152 + 153 + 154 + 155 + 156 + 157 + 158 +159 + 160 + 161 + 162",
-        "area": "Boulevar Tottus"
+        "geo": [
+            "BT-151+BT-152+BT-153+BT-154+BT-155+BT-156+BT-157+BT-158+BT-159+BT-160+BT-161+BT-162"
+        ],
+        "geoTemp": "BT-151+BT-152+BT-153+BT-154+BT-155+BT-156+BT-157+BT-158+BT-159+BT-160+BT-161+BT-162",
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "Crocs",
         "rubro": [
-            "Calzado Femenino Y Masculino"
+            "Calzado Femenino",
+            "Calzado Masculino"
         ],
         "productos": [
             "calzado infantil",
@@ -1628,10 +2127,14 @@
             "accesorios calzados"
         ],
         "nodo": "282",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/crocs.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/crocs.jpg",
         "piso": "3",
-        "geo": "A-365 + A-369",
-        "area": "PARIS"
+        "geo": [
+            "A-365+A-369"
+        ],
+        "geoTemp": "A-365+A-369",
+        "area": "Pasillo Paris"
     },
     {
         "nombre": "DBS",
@@ -1651,30 +2154,38 @@
         ],
         "nodo": "50",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DBS.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/DBS.jpg",
         "piso": "1",
-        "geo": "D153b - D157 - D161",
+        "geo": [
+            "D-153b+D-157+D-161"
+        ],
+        "geoTemp": "D-153b+D-157+D-161",
         "area": "Pasillo Aires"
     },
     {
         "nombre": "DOIT",
         "rubro": [
-            "Accesorios Femeninos"
+            "Accesorios"
         ],
         "productos": [
             "Accesorios",
             "Moda",
             "Joyas"
         ],
-        "nodo": "72",
+        "nodo": "45",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doit.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/doit.jpg",
         "piso": "1",
-        "geo": "BA 137",
+        "geo": [
+            "BA-137"
+        ],
+        "geoTemp": "BA-137",
         "area": "Aires"
     },
     {
         "nombre": "Dagorret",
         "rubro": [
-            "Vestuario Femenino Y Masculino"
+            "Vestuario Unisex"
         ],
         "productos": [
             "Ropa",
@@ -1683,9 +2194,13 @@
             "Vestuario Masculino"
         ],
         "nodo": "68",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Dagorret.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Dagorret.jpg",
         "piso": "1",
-        "geo": "BA 133",
+        "geo": [
+            "BA-133"
+        ],
+        "geoTemp": "BA-133",
         "area": "Aires"
     },
     {
@@ -1702,9 +2217,36 @@
         ],
         "nodo": "176",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Daily.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Daily.jpg",
         "piso": "2",
-        "geo": "A-273",
+        "geo": [
+            "A-273"
+        ],
+        "geoTemp": "A-273",
         "area": "Pasillo 7"
+    },
+    {
+        "nombre": "De Todo Mi Gusto",
+        "rubro": [
+            "Accesorios"
+        ],
+        "productos": [
+            "Joyas",
+            "collares",
+            "aros",
+            "pulseras",
+            "cadenas",
+            "accesorios"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/detodomigusto.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/detodomigusto.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-140"
+        ],
+        "geoTemp": "MP-140",
+        "area": "Pasillo Aires"
     },
     {
         "nombre": "De Togni",
@@ -1717,15 +2259,45 @@
         ],
         "nodo": "258",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Detogni.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Detogni.jpg",
         "piso": "2",
-        "geo": "A-230-234a",
+        "geo": [
+            "A-230+A-234a"
+        ],
+        "geoTemp": "A-230+A-234a",
         "area": "Pasillo 7"
+    },
+    {
+        "nombre": "Decoramás",
+        "rubro": [
+            "Hogar y Regalos",
+            "Muebles"
+        ],
+        "productos": [
+            "cortinas roller",
+            "cuadros",
+            "organizadores",
+            "decoración",
+            "hogar",
+            "roller screen",
+            "roller blackout",
+            "roller bambú"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/decoramas.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/decoramas.jpg",
+        "piso": "3",
+        "geo": [
+            "D-329+D-333+D-337"
+        ],
+        "geoTemp": "D-329+D-333+D-337",
+        "area": "Pasillo 9"
     },
     {
         "nombre": "Delicias",
         "rubro": [
-            "Restaurantes",
-            "Las Terrazas"
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
             "Delicias",
@@ -1734,8 +2306,12 @@
         ],
         "nodo": "45",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/delicias.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/delicias.jpg",
         "piso": "1",
-        "geo": "T-109",
+        "geo": [
+            "T-109"
+        ],
+        "geoTemp": "T-109",
         "area": "Terrazas"
     },
     {
@@ -1749,9 +2325,13 @@
         ],
         "nodo": "115",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
         "piso": "1",
-        "geo": "AP-172-176-180",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-172+AP-176+AP-180"
+        ],
+        "geoTemp": "AP-172+AP-176+AP-180",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Derco Renault - Mazda - Samsung",
@@ -1766,9 +2346,13 @@
         ],
         "nodo": "131",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Derco.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Derco.jpg",
         "piso": "1",
-        "geo": "AP-104",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-104"
+        ],
+        "geoTemp": "AP-104",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Derco Suzuky",
@@ -1781,9 +2365,13 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
         "piso": "1",
-        "geo": "AP-105",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-105"
+        ],
+        "geoTemp": "AP-105",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Derco seminuevos",
@@ -1796,14 +2384,18 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dercoseminuevos.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dercoseminuevos.jpg",
         "piso": "1",
-        "geo": "AP-102a",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-102a"
+        ],
+        "geoTemp": "AP-102a",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Disworld",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
             "Juguetería"
         ],
         "productos": [
@@ -1818,26 +2410,13 @@
         ],
         "nodo": "255",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/disworld.jpg",
-        "piso": "2",
-        "geo": "A-214b-218",
-        "area": "Pasillo 7"
-    },
-    {
-        "nombre": "Do It!",
-        "rubro": [
-            "Accesorios Femeninos"
-        ],
-        "productos": [
-            "Do It",
-            "Accesorios",
-            "Joyas",
-            "Bisuteria"
-        ],
-        "nodo": "80",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doit.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/disworld.jpg",
         "piso": "1",
-        "geo": "D-342-346",
-        "area": "Pasillo Paris"
+        "geo": [
+            "D-134+D-138"
+        ],
+        "geoTemp": "D-134+D-138",
+        "area": "Pasillo 3"
     },
     {
         "nombre": "Dockers",
@@ -1857,8 +2436,12 @@
         ],
         "nodo": "14",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Dockers.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Dockers.jpg",
         "piso": "1",
-        "geo": "C-129-133",
+        "geo": [
+            "C-129+C-133"
+        ],
+        "geoTemp": "C-129+C-133",
         "area": "Pasillo 2"
     },
     {
@@ -1873,12 +2456,42 @@
         ],
         "nodo": "333",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Doggis.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Doggis.jpg",
         "piso": "3",
-        "geo": "B-330-326",
+        "geo": [
+            "B-330+B-326"
+        ],
+        "geoTemp": "B-330+B-326",
         "area": "Food Court"
     },
     {
-        "nombre": "Domino",
+        "nombre": "Doite",
+        "rubro": [
+            "Accesorios Deportivos",
+            "Calzado Deportivo",
+            "Deporte",
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "outdoor",
+            "equipamiento",
+            "carpas",
+            "mochilas",
+            "chaquetas",
+            "accesorios"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/doiteh.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/doiteh.jpg",
+        "piso": "2",
+        "geo": [
+            "BA-201+BA-205"
+        ],
+        "geoTemp": "BA-201+BA-205",
+        "area": "null"
+    },
+    {
+        "nombre": "Dominó",
         "rubro": [
             "Food Court"
         ],
@@ -1890,8 +2503,12 @@
         ],
         "nodo": "345",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/domino.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/domino.jpg",
         "piso": "3",
-        "geo": "B-301-305",
+        "geo": [
+            "B-301+B-305"
+        ],
+        "geoTemp": "B-301+B-305",
         "area": "Food Court"
     },
     {
@@ -1906,16 +2523,19 @@
             "Salados"
         ],
         "nodo": "177",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/dulceluna.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/dulceluna.jpg",
         "piso": "2",
-        "geo": "A-269",
+        "geo": [
+            "A-269"
+        ],
+        "geoTemp": "A-269",
         "area": "Pasillo Paris"
     },
     {
         "nombre": "Dunkin Donuts",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Dunkin Donuts",
@@ -1928,8 +2548,12 @@
         ],
         "nodo": "209",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/DunkinDonuts.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/DunkinDonuts.jpg",
         "piso": "2",
-        "geo": "C-256",
+        "geo": [
+            "C-256"
+        ],
+        "geoTemp": "C-256",
         "area": "Pasillo 5"
     },
     {
@@ -1943,32 +2567,16 @@
         ],
         "nodo": "94",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/duoc uc.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/duoc uc.jpg",
         "piso": "1",
-        "geo": "s/n",
-        "area": "Bulevar DuocUC"
+        "geo": [
+            "s/n"
+        ],
+        "geoTemp": "s/n",
+        "area": "Bulevar DuocUC - Exterior"
     },
     {
-        "nombre": "EPK",
-        "rubro": [
-            "Accesorios Infantiles",
-            "Calzado Infantil",
-            "Vestuario Infantil"
-        ],
-        "productos": [
-            "Epk",
-            "Ropa",
-            "Calzado",
-            "Accesorios",
-            "Marroqueria"
-        ],
-        "nodo": "64",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/epk.jpg",
-        "piso": "1",
-        "geo": "A-146-150",
-        "area": "Pasillo 4"
-    },
-    {
-        "nombre": "Econoptica",
+        "nombre": "Econóptica",
         "rubro": [
             "Óptica y Perfumería"
         ],
@@ -1987,9 +2595,56 @@
         ],
         "nodo": "184",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Econopticas.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Econopticas.jpg",
         "piso": "2",
-        "geo": "D-217b-221",
+        "geo": [
+            "D-217b+D-221"
+        ],
+        "geoTemp": "D-217b+D-221",
         "area": "Pasillo 6"
+    },
+    {
+        "nombre": "Emporio La Rosa",
+        "rubro": [
+            "Cafeterías y Heladerías"
+        ],
+        "productos": [
+            "heladería",
+            "helados",
+            "cafè",
+            "pasteles",
+            "guisos"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/emporio.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/emporio.jpg",
+        "piso": "1",
+        "geo": [
+            "T-122"
+        ],
+        "geoTemp": "T-122",
+        "area": "Terrazas"
+    },
+    {
+        "nombre": "Enersocks",
+        "rubro": [
+            "Accesorios Deportivos"
+        ],
+        "productos": [
+            "calcetas deportivas",
+            "deporte",
+            "undersocks",
+            "outdoor"
+        ],
+        "nodo": "MP-144",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/enersocks.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/enersocks.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-144"
+        ],
+        "geoTemp": "MP-144",
+        "area": "Aires"
     },
     {
         "nombre": "Entel (Deck)",
@@ -2009,8 +2664,12 @@
         ],
         "nodo": "222",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/entelpcs.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entelpcs.jpg",
         "piso": "2",
-        "geo": "BDK2057 BDK2061",
+        "geo": [
+            "BDK-2057+BDK-2061"
+        ],
+        "geoTemp": "BDK-2057+BDK-2061",
         "area": "Bulevar Deck"
     },
     {
@@ -2031,29 +2690,34 @@
         ],
         "nodo": "263",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/entelpcs.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entelpcs.jpg",
         "piso": "2",
-        "geo": "A-262",
+        "geo": [
+            "A-262"
+        ],
+        "geoTemp": "A-262",
         "area": "Pasillo 7"
     },
     {
-        "nombre": "Everlast",
+        "nombre": "Equivalenza",
         "rubro": [
-            "Accesorios Deportivos",
-            "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Módulos",
+            "Óptica y Perfumería"
         ],
         "productos": [
-            "Everlast y NGX",
-            "Woman",
-            "Men",
-            "Teen y Girls"
+            "perfumes",
+            "perfumes propios",
+            "española"
         ],
-        "nodo": "294",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/everlast.jpg",
-        "piso": "3",
-        "geo": "D-329-333-337",
-        "area": "Pasillo 9"
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/equivalenza.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/equivalenza.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-112"
+        ],
+        "geoTemp": "MP-112",
+        "area": "Pasillo 4"
     },
     {
         "nombre": "Everlast",
@@ -2067,11 +2731,35 @@
             "Zapatillas",
             "Buzos"
         ],
-        "nodo": "69",
+        "nodo": "68",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Everlastngx.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Everlastngx.jpg",
         "piso": "1",
-        "geo": "BA 172",
+        "geo": [
+            "BA-172"
+        ],
+        "geoTemp": "BA-172",
         "area": "Aires"
+    },
+    {
+        "nombre": "Exception",
+        "rubro": [
+            "Vestuario Infantil"
+        ],
+        "productos": [
+            "Ropa Infantil",
+            "Niños",
+            "Niñas"
+        ],
+        "nodo": "21",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/exception.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/exception.jpg",
+        "piso": "1",
+        "geo": [
+            "C-177"
+        ],
+        "geoTemp": "C-177",
+        "area": "Pasillo Falabella"
     },
     {
         "nombre": "Falabella",
@@ -2091,14 +2779,18 @@
         ],
         "nodo": "23",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Falabella.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Falabella.jpg",
         "piso": "1",
-        "geo": "TA-2",
+        "geo": [
+            "TA-2"
+        ],
+        "geoTemp": "TA-2",
         "area": "Pasillos 2, 5 y 8"
     },
     {
         "nombre": "Fancy",
         "rubro": [
-            "Accesorios Femeninos"
+            "Accesorios"
         ],
         "productos": [
             "Fancy",
@@ -2109,9 +2801,36 @@
         ],
         "nodo": "185",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fancy.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fancy.jpg",
         "piso": "1",
-        "geo": "D-225",
+        "geo": [
+            "D-225"
+        ],
+        "geoTemp": "D-225",
         "area": "Pasillo 6"
+    },
+    {
+        "nombre": "Farmacia Ahumada ",
+        "rubro": [
+            "Farmacias"
+        ],
+        "productos": [
+            "Farmacia Ahumada",
+            "Comercializacion de de medicamentos",
+            "Artículos de belleza",
+            "Higiene y Cuidado personal",
+            "Productos Naturales",
+            "Suplementos Nutricionales"
+        ],
+        "nodo": "264",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/farmaciaahumadaext.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/farmaciaahumadaext.jpg",
+        "piso": "2",
+        "geo": [
+            "A-270+A-274+A-278+A-282+A-286b"
+        ],
+        "geoTemp": "A-270+A-274+A-278+A-282+A-286b",
+        "area": "Pasillo Paris"
     },
     {
         "nombre": "Farmacia Cruz Verde (Tottus)",
@@ -2125,9 +2844,13 @@
         ],
         "nodo": "168",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/farmaciacruzverde.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/farmaciacruzverde.jpg",
         "piso": "1",
-        "geo": "BT-165-166-167-168-169-170-172-174",
-        "area": "Bulevar Tottus"
+        "geo": [
+            "BT-165+BT-166+BT-167+BT-168+BT-169+BT-170+BT-172+BT-174"
+        ],
+        "geoTemp": "BT-165+BT-166+BT-167+BT-168+BT-169+BT-170+BT-172+BT-174",
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "Farmacia SalcoBrand",
@@ -2141,14 +2864,18 @@
         ],
         "nodo": "208",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/salco.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/salco.jpg",
         "piso": "2",
-        "geo": "C-257-261-BDK2042a-2042b-2044a-2044b",
+        "geo": [
+            "C-257+C-261+BDK-2042a+BDK-2042b+BDK-2044a+BDK-2044b"
+        ],
+        "geoTemp": "C-257+C-261+BDK-2042a+BDK-2042b+BDK-2044a+BDK-2044b",
         "area": "Pasillo 5"
     },
     {
         "nombre": "Fashion's Park",
         "rubro": [
-            "Accesorios Generales",
+            "Accesorios",
             "Vestuario Femenino",
             "Vestuario Infantil",
             "Vestuario Juvenil",
@@ -2164,14 +2891,18 @@
         ],
         "nodo": "65",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fashionspark.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Fashionspark.jpg",
         "piso": "1",
-        "geo": "A-154-158-162a-162b-F103",
+        "geo": [
+            "A-154+A-158+A-162a+A-162b+F-103"
+        ],
+        "geoTemp": "A-154+A-158+A-162a+A-162b+F-103",
         "area": "Pasillo 4"
     },
     {
         "nombre": "Ferouch",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Masculino"
         ],
         "productos": [
@@ -2188,15 +2919,18 @@
         ],
         "nodo": "247",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ferouch.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ferouch.jpg",
         "piso": "2",
-        "geo": "C-202-206-210",
+        "geo": [
+            "C-202+C-206+C-210"
+        ],
+        "geoTemp": "C-202+C-206+C-210",
         "area": "Pasillo 5"
     },
     {
         "nombre": "Ferracini",
         "rubro": [
-            "Accesorios Femeninos",
-            "Accesorios Masculinos",
+            "Accesorios",
             "Calzado Femenino",
             "Calzado Masculino"
         ],
@@ -2206,15 +2940,19 @@
         ],
         "nodo": "197",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ferracini.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ferracini.jpg",
         "piso": "2",
-        "geo": "D-226-230",
+        "geo": [
+            "D-226+D-230"
+        ],
+        "geoTemp": "D-226+D-230",
         "area": "Pasillo 6"
     },
     {
         "nombre": "Ferripaldi",
         "rubro": [
-            "Servicio Automotriz",
-            "Accesorios Generales"
+            "Accesorios",
+            "Servicio Automotriz"
         ],
         "productos": [
             "Ferripaldi",
@@ -2225,9 +2963,13 @@
         ],
         "nodo": "121",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ferripaldi.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ferripaldi.jpg",
         "piso": "1",
-        "geo": "AP-176-177",
-        "area": "Locales Autoplaza"
+        "geo": [
+            "AP-176+AP-177"
+        ],
+        "geoTemp": "AP-176+AP-177",
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Festina",
@@ -2240,8 +2982,12 @@
         ],
         "nodo": "311",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/festina.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/festina.jpg",
         "piso": "3",
-        "geo": "C-341",
+        "geo": [
+            "C-341"
+        ],
+        "geoTemp": "C-341",
         "area": "Pasillo 8"
     },
     {
@@ -2259,8 +3005,12 @@
         ],
         "nodo": "133",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fiat.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fiat.jpg",
         "piso": "1",
-        "geo": "AP-103",
+        "geo": [
+            "AP-103"
+        ],
+        "geoTemp": "AP-103",
         "area": "Locales Autoplaza"
     },
     {
@@ -2282,8 +3032,12 @@
         ],
         "nodo": "242",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/FICCUS.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/FICCUS.jpg",
         "piso": "2",
-        "geo": "C-238-242",
+        "geo": [
+            "C-238+C-242"
+        ],
+        "geoTemp": "C-238+C-242",
         "area": "Pasillo 5"
     },
     {
@@ -2299,8 +3053,12 @@
         ],
         "nodo": "8",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Flores.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Flores.jpg",
         "piso": "1",
-        "geo": "D-126-130",
+        "geo": [
+            "D-126+D-130"
+        ],
+        "geoTemp": "D-126+D-130",
         "area": "Pasillo 3"
     },
     {
@@ -2317,8 +3075,12 @@
         ],
         "nodo": "137",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ford.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ford.jpg",
         "piso": "1",
-        "geo": "AP 124 - AP 125",
+        "geo": [
+            "AP-124+AP-125"
+        ],
+        "geoTemp": "AP-124+AP-125",
         "area": "Locales Autoplaza"
     },
     {
@@ -2334,9 +3096,13 @@
             "jeans"
         ],
         "nodo": "73",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/forever-21-logo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/forever-21-logo.jpg",
         "piso": "1",
-        "geo": "BA-148 / 152 / 238 / 242 / 246 / 248 + TM-104",
+        "geo": [
+            "BA-148+BA-152+BA-238+BA-242+BA-246+BA-248+TM-104"
+        ],
+        "geoTemp": "BA-148+BA-152+BA-238+BA-242+BA-246+BA-248+TM-104",
         "area": "Aires"
     },
     {
@@ -2352,9 +3118,13 @@
             "Camionetas"
         ],
         "nodo": "139",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fortaleza.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/fortaleza.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/fortaleza.jpg",
         "piso": "1",
-        "geo": "AP - 129",
+        "geo": [
+            "AP-129"
+        ],
+        "geoTemp": "AP-129",
         "area": "Locales Autoplaza"
     },
     {
@@ -2368,15 +3138,18 @@
         ],
         "nodo": "357",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Forum.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Forum.jpg",
         "piso": "1",
-        "geo": "AP-152",
+        "geo": [
+            "AP-152"
+        ],
+        "geoTemp": "AP-152",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Foster",
         "rubro": [
-            "Accesorios Femeninos",
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Femenino",
             "Vestuario Juvenil",
             "Vestuario Masculino"
@@ -2395,8 +3168,12 @@
         ],
         "nodo": "325",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/foster.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/foster.jpg",
         "piso": "3",
-        "geo": "C-300-306-310-314",
+        "geo": [
+            "C-300+C-306+C-310+C-314"
+        ],
+        "geoTemp": "C-300+C-306+C-310+C-314",
         "area": "Pasillo 8"
     },
     {
@@ -2411,8 +3188,12 @@
         ],
         "nodo": "326",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Fritz.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Fritz.jpg",
         "piso": "3",
-        "geo": "B-302-306",
+        "geo": [
+            "B-302+B-306"
+        ],
+        "geoTemp": "B-302+B-306",
         "area": "Food Court"
     },
     {
@@ -2435,15 +3216,19 @@
         ],
         "nodo": "78",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Funsport.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Funsport.jpg",
         "piso": "1",
-        "geo": "A-153-157",
+        "geo": [
+            "A-153+A-157"
+        ],
+        "geoTemp": "A-153+A-157",
         "area": "Pasillo 4"
     },
     {
         "nombre": "GSM",
         "rubro": [
-            "Telefonía",
-            "Accesorios Generales"
+            "Accesorios",
+            "Telefonía"
         ],
         "productos": [
             "Case Mate",
@@ -2458,14 +3243,18 @@
         ],
         "nodo": "318",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/GSMChile.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/GSMChile.jpg",
         "piso": "3",
-        "geo": "C 378 - C 382",
+        "geo": [
+            "C-378+C-382"
+        ],
+        "geoTemp": "C-378+C-382",
         "area": "Pasillo 9"
     },
     {
         "nombre": "Gacel",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino"
         ],
         "productos": [
@@ -2477,8 +3266,12 @@
         ],
         "nodo": "261",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gacel.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Gacel.jpg",
         "piso": "2",
-        "geo": "A-246-250",
+        "geo": [
+            "A-246+A-250"
+        ],
+        "geoTemp": "A-246+A-250",
         "area": "Pasillo 7"
     },
     {
@@ -2497,10 +3290,14 @@
             "Batas",
             "Enaguas"
         ],
-        "nodo": "203",
+        "nodo": "200",
         "logo": "http://www.mallplaza.cl/images/stories/gema.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gema.jpg",
         "piso": "2",
-        "geo": "C-229",
+        "geo": [
+            "C-229"
+        ],
+        "geoTemp": "C-229",
         "area": "Pasillo Falabella"
     },
     {
@@ -2514,15 +3311,19 @@
         ],
         "nodo": "1",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/gimnasioenergy.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gimnasioenergy.jpg",
         "piso": "2",
-        "geo": "F-105-106-107-108",
-        "area": "null"
+        "geo": [
+            "F-105+F-106+F-107+F-108"
+        ],
+        "geoTemp": "F-105+F-106+F-107+F-108",
+        "area": "Exterior - detrás de Ripley"
     },
     {
         "nombre": "Gizmobies (modulo)",
         "rubro": [
-            "Módulos",
-            "Accesorios Generales"
+            "Accesorios",
+            "Módulos"
         ],
         "productos": [
             "Gizmobies",
@@ -2537,8 +3338,12 @@
         ],
         "nodo": "238",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/gizmobies.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/gizmobies.jpg",
         "piso": "2",
-        "geo": "s/n",
+        "geo": [
+            "MP-202"
+        ],
+        "geoTemp": "MP-202",
         "area": "Pasillo 5"
     },
     {
@@ -2552,9 +3357,13 @@
             "Centro de Belleza"
         ],
         "nodo": "191",
-        "logo": "null",
-        "piso": "3",
-        "geo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/glamco.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/glamco.jpg",
+        "piso": "2",
+        "geo": [
+            "D-269+D-265+D-261"
+        ],
+        "geoTemp": "D-269+D-265+D-261",
         "area": "Pasillo Ripley"
     },
     {
@@ -2568,8 +3377,12 @@
         ],
         "nodo": "19",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Gotta.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Gotta.jpg",
         "piso": "1",
-        "geo": "C-169",
+        "geo": [
+            "C-169"
+        ],
+        "geoTemp": "C-169",
         "area": "Pasillo 2"
     },
     {
@@ -2583,14 +3396,19 @@
         ],
         "nodo": "136",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/greatwall.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/greatwall.jpg",
         "piso": "1",
-        "geo": "AP-109-115",
+        "geo": [
+            "AP-109+AP-115"
+        ],
+        "geoTemp": "AP-109+AP-115",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Green Bull",
         "rubro": [
-            "Entretención y Cultura"
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
             "Green Bull",
@@ -2598,14 +3416,18 @@
         ],
         "nodo": "47",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/greenbull.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/greenbull.jpg",
         "piso": "1",
-        "geo": "T-105",
+        "geo": [
+            "T-105"
+        ],
+        "geoTemp": "T-105",
         "area": "Terrazas"
     },
     {
         "nombre": "Grido",
         "rubro": [
-            "Reparadora de Calzado y Vestuario"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Grido",
@@ -2613,16 +3435,19 @@
             "Helados"
         ],
         "nodo": "155",
-        "logo": "http://www.mallplaza.cl/images/stories/grido.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/grido.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/grido.jpg",
         "piso": "1",
-        "geo": "BT - 126 - 128",
+        "geo": [
+            "BT-126+BT128"
+        ],
+        "geoTemp": "BT-126+BT128",
         "area": "Bulevar Tottus"
     },
     {
         "nombre": "Grido 2",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Grido",
@@ -2630,15 +3455,19 @@
             "Helados"
         ],
         "nodo": "295",
-        "logo": "http://www.mallplaza.cl/images/stories/grido.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/grido.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/grido.jpg",
         "piso": "3",
-        "geo": "D-341",
+        "geo": [
+            "D-341"
+        ],
+        "geoTemp": "D-341",
         "area": "Pasillo 9"
     },
     {
         "nombre": "Guante",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Calzado Masculino"
         ],
         "productos": [
@@ -2651,30 +3480,13 @@
         ],
         "nodo": "262",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/guante.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/guante.jpg",
         "piso": "2",
-        "geo": "A-254-258",
+        "geo": [
+            "A-254+A-258"
+        ],
+        "geoTemp": "A-254+A-258",
         "area": "Pasillo 7"
-    },
-    {
-        "nombre": "HP",
-        "rubro": [
-            "Computación y Electrónica"
-        ],
-        "productos": [
-            "Hewlett Packard",
-            "Compaq",
-            "Notebooks",
-            "Netbooks",
-            "Computadores de sobremesa",
-            "impresoras",
-            "Plotters",
-            "accesorios"
-        ],
-        "nodo": "297",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/hpstore.jpg",
-        "piso": "3",
-        "geo": "D-349 - D-353",
-        "area": "Pasillo 9"
     },
     {
         "nombre": "Happyland",
@@ -2687,8 +3499,12 @@
         ],
         "nodo": "334",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Happyland.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Happyland.jpg",
         "piso": "3",
-        "geo": "B-340",
+        "geo": [
+            "B-340"
+        ],
+        "geoTemp": "B-340",
         "area": "Food Court"
     },
     {
@@ -2704,31 +3520,13 @@
         ],
         "nodo": "259",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/head.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/head.jpg",
         "piso": "2",
-        "geo": "A238 234 B",
+        "geo": [
+            "A-238+A-234b"
+        ],
+        "geoTemp": "A-238+A-234b",
         "area": "Pasillo 7"
-    },
-    {
-        "nombre": "Home & Cook",
-        "rubro": [
-            "Hogar y Regalos"
-        ],
-        "productos": [
-            "Rowenta",
-            "Moulinex",
-            "T-fal",
-            "Krups",
-            "Lagostina",
-            "Cafeteras",
-            "Electrodomesticos",
-            "Cuidado Personal",
-            "Menaje"
-        ],
-        "nodo": "7",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/homecook.jpg",
-        "piso": "1",
-        "geo": "D134-D138",
-        "area": "Pasillo 3"
     },
     {
         "nombre": "Home Center Sodimac",
@@ -2743,9 +3541,13 @@
         ],
         "nodo": "142",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/homecente.JPG",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homecente.JPG",
         "piso": "1",
-        "geo": "s/n",
-        "area": "null"
+        "geo": [
+            "HC-200+PC-200"
+        ],
+        "geoTemp": "HC-200+PC-200",
+        "area": "Exterior - Bulevard Tottus"
     },
     {
         "nombre": "Home Factory",
@@ -2758,8 +3560,12 @@
         ],
         "nodo": "299",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/homefactory.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homefactory.jpg",
         "piso": "3",
-        "geo": "D 361",
+        "geo": [
+            "D-361"
+        ],
+        "geoTemp": "D-361",
         "area": "Pasillo 9"
     },
     {
@@ -2778,8 +3584,12 @@
         ],
         "nodo": "92",
         "logo": "http://www.mallplaza.cl/images/stories/homy.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/homy.jpg",
         "piso": "1",
-        "geo": "D-109-113-117-241-245 HM-104-204",
+        "geo": [
+            "D-109+D-113+D-117+D-241+D-245+HM-104+HM-204"
+        ],
+        "geoTemp": "D-109+D-113+D-117+D-241+D-245+HM-104+HM-204",
         "area": "Pasillo Ripley"
     },
     {
@@ -2793,9 +3603,13 @@
             "Honda"
         ],
         "nodo": "139",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/hondalogo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/hondalogo.jpg",
         "piso": "1",
-        "geo": "AP-129-131",
+        "geo": [
+            "AP-129+AP-131"
+        ],
+        "geoTemp": "AP-129+AP-131",
         "area": "AutoPlaza"
     },
     {
@@ -2810,8 +3624,12 @@
         ],
         "nodo": "54",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HushPuppies.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/HushPuppies.jpg",
         "piso": "1",
-        "geo": "B-109-113-117",
+        "geo": [
+            "B-109+B-113+B-117"
+        ],
+        "geoTemp": "B-109+B-113+B-117",
         "area": "Pasillo 1"
     },
     {
@@ -2826,32 +3644,40 @@
         ],
         "nodo": "60",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/HusPuppiesKids.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/HusPuppiesKids.jpg",
         "piso": "1",
-        "geo": "A-122-126",
+        "geo": [
+            "A-122+A-126"
+        ],
+        "geoTemp": "A-122+A-126",
         "area": "Pasillo 4"
     },
     {
-        "nombre": "Ideus",
+        "nombre": "I Am Smart",
         "rubro": [
-            "Módulos"
+            "Accesorios",
+            "Módulos",
+            "Telefonía"
         ],
         "productos": [
-            "accesorios de celulares",
-            "carcasas",
-            "cables",
-            "accesorios conección auto",
-            "micas"
+            "accesorios",
+            "gadgets",
+            "carcazas"
         ],
-        "nodo": "65",
-        "logo": "null",
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/iamsmart.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/iamsmart.jpg",
         "piso": "1",
-        "geo": "MP206",
-        "area": "Pasillo 4"
+        "geo": [
+            "MP-117"
+        ],
+        "geoTemp": "MP-117",
+        "area": "Pasillo 1"
     },
     {
         "nombre": "Imagen",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Vestuario Femenino"
         ],
         "productos": [
@@ -2859,9 +3685,13 @@
             "Vestuario y accesorios femeninos"
         ],
         "nodo": "245",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Imagen.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/imagen1.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/imagen1.jpg",
         "piso": "2",
-        "geo": "C-218",
+        "geo": [
+            "C-218"
+        ],
+        "geoTemp": "C-218",
         "area": "Pasillo 5"
     },
     {
@@ -2882,8 +3712,12 @@
         ],
         "nodo": "351",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/inside.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/inside.jpg",
         "piso": "3",
-        "geo": "A-346 - 350 - 354",
+        "geo": [
+            "A-346+A-350+A-354"
+        ],
+        "geoTemp": "A-346+A-350+A-354",
         "area": "Pasillo 10"
     },
     {
@@ -2897,9 +3731,13 @@
         ],
         "nodo": "73",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/integramedica.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/integramedica.jpg",
         "piso": "1",
-        "geo": "s/n",
-        "area": "null"
+        "geo": [
+            "EM-100+EM-200"
+        ],
+        "geoTemp": "EM-100+EM-200",
+        "area": "Aires"
     },
     {
         "nombre": "Intersalon",
@@ -2920,8 +3758,12 @@
         ],
         "nodo": "5",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Intersalon.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Intersalon.jpg",
         "piso": "1",
-        "geo": "D-150-154-146b",
+        "geo": [
+            "D-150+D-154+D-146b"
+        ],
+        "geoTemp": "D-150+D-154+D-146b",
         "area": "Pasillo 3"
     },
     {
@@ -2936,14 +3778,18 @@
         ],
         "nodo": "189",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Intime.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Intime.jpg",
         "piso": "2",
-        "geo": "D249 - D253",
+        "geo": [
+            "D-249+D-253"
+        ],
+        "geoTemp": "D-249+D-253",
         "area": "Pasillo 6"
     },
     {
         "nombre": "Irol",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Vestuario Femenino"
         ],
         "productos": [
@@ -2956,8 +3802,12 @@
         ],
         "nodo": "291",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Irol.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Irol.jpg",
         "piso": "3",
-        "geo": "D-301-305",
+        "geo": [
+            "D-301+D-305"
+        ],
+        "geoTemp": "D-301+D-305",
         "area": "Pasillo 9"
     },
     {
@@ -2971,15 +3821,18 @@
         ],
         "nodo": "359",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/jac.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/jac.jpg",
         "piso": "1",
-        "geo": "AP 123",
+        "geo": [
+            "AP-123"
+        ],
+        "geoTemp": "AP-123",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "JJO",
         "rubro": [
-            "Accesorios Femeninos",
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Femenino",
             "Vestuario Juvenil",
             "Vestuario Masculino"
@@ -2995,23 +3848,34 @@
         ],
         "nodo": "322",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/JJO.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/JJO.jpg",
         "piso": "3",
-        "geo": "C-326-330",
+        "geo": [
+            "C-326+C-330"
+        ],
+        "geoTemp": "C-326+C-330",
         "area": "Pasillo 8"
     },
     {
-        "nombre": "Joyas Baron",
+        "nombre": "Joyas Barón",
         "rubro": [
             "Joyerías y Relojerías"
         ],
         "productos": [
             "Joyerias Baron",
-            "Joyas"
+            "Joyas",
+            "cadenas",
+            "anillos",
+            "aros"
         ],
         "nodo": "240",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/joyasbaron.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/joyasbaron.jpg",
         "piso": "2",
-        "geo": "D-229",
+        "geo": [
+            "D-229"
+        ],
+        "geoTemp": "D-229",
         "area": "Pasillo 6"
     },
     {
@@ -3027,8 +3891,12 @@
         ],
         "nodo": "339",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/juanmaestro.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/juanmaestro.jpg",
         "piso": "3",
-        "geo": "B-337",
+        "geo": [
+            "B-337"
+        ],
+        "geoTemp": "B-337",
         "area": "Food Court"
     },
     {
@@ -3044,8 +3912,12 @@
         ],
         "nodo": "341",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KentuchyFriedChicken.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KentuchyFriedChicken.jpg",
         "piso": "3",
-        "geo": "B-325-329",
+        "geo": [
+            "B-325+B-329"
+        ],
+        "geoTemp": "B-325+B-329",
         "area": "Food Court"
     },
     {
@@ -3059,8 +3931,12 @@
         ],
         "nodo": "106",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KiaMotors.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KiaMotors.jpg",
         "piso": "1",
-        "geo": "AP-107",
+        "geo": [
+            "AP-107"
+        ],
+        "geoTemp": "AP-107",
         "area": "Locales Autoplaza"
     },
     {
@@ -3074,9 +3950,13 @@
             "Accesorios Computadores"
         ],
         "nodo": "303",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kses.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kses.jpg",
         "piso": "3",
-        "geo": "Modulo",
+        "geo": [
+            "MP-338"
+        ],
+        "geoTemp": "MP-338",
         "area": "Pasillo Ripley"
     },
     {
@@ -3098,14 +3978,18 @@
         ],
         "nodo": "241",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/KAyser.JPG",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/KAyser.JPG",
         "piso": "2",
-        "geo": "C-246-250",
+        "geo": [
+            "C-246+C-250"
+        ],
+        "geoTemp": "C-246+C-250",
         "area": "Pasillo 5"
     },
     {
         "nombre": "Kevingston",
         "rubro": [
-            "Vestuario Femenino Y Masculino"
+            "Vestuario Unisex"
         ],
         "productos": [
             "Ropa",
@@ -3114,9 +3998,13 @@
             "Rugby"
         ],
         "nodo": "67",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Kevingstonwoman.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Kevingstonwoman.jpg",
         "piso": "1",
-        "geo": "BA 160",
+        "geo": [
+            "BA-160"
+        ],
+        "geoTemp": "BA-160",
         "area": "Aires"
     },
     {
@@ -3130,24 +4018,37 @@
         ],
         "nodo": "104",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/serviciotecnicokia.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/serviciotecnicokia.jpg",
         "piso": "1",
-        "geo": "AP-187-191-195-199",
+        "geo": [
+            "AP-187+AP-191+AP-195+AP-199"
+        ],
+        "geoTemp": "AP-187+AP-191+AP-195+AP-199",
         "area": "Locales Autoplaza"
     },
     {
-        "nombre": "Kicks",
+        "nombre": "Kitchen Republic",
         "rubro": [
-            "Calzado Juvenil"
+            "Accesorios",
+            "Hogar y Decoración",
+            "Hogar y Regalos"
         ],
         "productos": [
-            "Multimarcas",
-            "Zapatillas Juveniles"
+            "cocina",
+            "accesorios",
+            "home",
+            "hogar",
+            "decoración"
         ],
-        "nodo": "284",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kicks.jpg",
-        "piso": "3",
-        "geo": "A-353-357",
-        "area": "Pasillo 10"
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kr.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kr.jpg",
+        "piso": "2",
+        "geo": [
+            "C-221+C-225"
+        ],
+        "geoTemp": "C-221+C-225",
+        "area": "Pasillo 5"
     },
     {
         "nombre": "Konica Minolta",
@@ -3167,8 +4068,12 @@
         ],
         "nodo": "51",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/konicaminolta.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/konicaminolta.jpg",
         "piso": "1",
-        "geo": "B-137a",
+        "geo": [
+            "B-137a"
+        ],
+        "geoTemp": "B-137a",
         "area": "Pasillo 1"
     },
     {
@@ -3182,14 +4087,19 @@
         ],
         "nodo": "131",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kovacs.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kovacs.jpg",
         "piso": "1",
-        "geo": "AU-108-112",
+        "geo": [
+            "AU-108+AU-112"
+        ],
+        "geoTemp": "AU-108+AU-112",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "La Piccola Italia",
         "rubro": [
-            "Las Terrazas"
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
             "La Picccola Italia",
@@ -3199,8 +4109,12 @@
         ],
         "nodo": "46",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/lapiccolaitalia.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lapiccolaitalia.jpg",
         "piso": "1",
-        "geo": "T-104-103",
+        "geo": [
+            "T-104+T-103"
+        ],
+        "geoTemp": "T-104+T-103",
         "area": "Terrazas"
     },
     {
@@ -3216,14 +4130,18 @@
         ],
         "nodo": "148",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/generico_tiendas_listado.jpg",
         "piso": "1",
-        "geo": "BT-107-105-103",
+        "geo": [
+            "BT-107+BT-105+BT-103"
+        ],
+        "geoTemp": "BT-107+BT-105+BT-103",
         "area": "Bulevar Tottus"
     },
     {
         "nombre": "La Tabaqueria",
         "rubro": [
-            "Alimentos y Bebidas",
+            "Bebidas",
             "Tabaquería"
         ],
         "productos": [
@@ -3239,8 +4157,12 @@
         ],
         "nodo": "359",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/latabaqueria.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/latabaqueria.jpg",
         "piso": "1",
-        "geo": "AP-122",
+        "geo": [
+            "AP-122"
+        ],
+        "geoTemp": "AP-122",
         "area": "Locales Autoplaza"
     },
     {
@@ -3256,8 +4178,12 @@
         ],
         "nodo": "37",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LAN.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/LAN.jpg",
         "piso": "1",
-        "geo": "B-110",
+        "geo": [
+            "B-110"
+        ],
+        "geoTemp": "B-110",
         "area": "Pasillo 1"
     },
     {
@@ -3271,8 +4197,12 @@
         ],
         "nodo": "145",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lavaseco5asec.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Lavaseco5asec.jpg",
         "piso": "1",
-        "geo": "BT-102",
+        "geo": [
+            "BT-102"
+        ],
+        "geoTemp": "BT-102",
         "area": "Bulevar Tottus"
     },
     {
@@ -3283,12 +4213,22 @@
         ],
         "productos": [
             "Multimarcas",
-            "Lentes de Sol"
+            "perfumes",
+            "dulces",
+            "cítricos",
+            "maderosos",
+            "floral",
+            "frutal",
+            "fragancias"
         ],
         "nodo": "269",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ladiotone.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/le-diatone.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/le-diatone.jpg",
         "piso": "2",
-        "geo": "s/n",
+        "geo": [
+            "MP-211"
+        ],
+        "geoTemp": "MP-211",
         "area": "Plaza Central"
     },
     {
@@ -3309,8 +4249,12 @@
         ],
         "nodo": "34",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/levis.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/levis.jpg",
         "piso": "1",
-        "geo": "C-102a-106-110",
+        "geo": [
+            "C-102a+C-106+C-110"
+        ],
+        "geoTemp": "C-102a+C-106+C-110",
         "area": "Pasillo 2"
     },
     {
@@ -3326,8 +4270,12 @@
         ],
         "nodo": "18",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/LibreriaNacional.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/LibreriaNacional.jpg",
         "piso": "1",
-        "geo": "C-165-161",
+        "geo": [
+            "C-165+C-161"
+        ],
+        "geoTemp": "C-165+C-161",
         "area": "Pasillo 2"
     },
     {
@@ -3345,8 +4293,12 @@
         ],
         "nodo": "234",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/antartica.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/antartica.jpg",
         "piso": "2",
-        "geo": "C-285-289-BDK-2052",
+        "geo": [
+            "C-285+C-289+BDK-2052"
+        ],
+        "geoTemp": "C-285+C-289+BDK-2052",
         "area": "Pasillo 5"
     },
     {
@@ -3363,29 +4315,72 @@
         ],
         "nodo": "243",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Lapizlopez.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Lapizlopez.jpg",
         "piso": "2",
-        "geo": "C-230",
+        "geo": [
+            "C-230"
+        ],
+        "geoTemp": "C-230",
         "area": "Pasillo 5"
     },
     {
-        "nombre": "Limonada",
+        "nombre": "Lima Manicure",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
+            "Cuidado Personal",
+            "Peluquería y Belleza",
+            "Servicios"
+        ],
+        "productos": [
+            "manicure",
+            "uñas",
+            "manos",
+            "manicure tradicional",
+            "manicure francesa",
+            "manicure design",
+            "manicure express",
+            "manicure niñas",
+            "esmaltados permanetes",
+            "uñas acrilicas",
+            "parafinoterapia",
+            "exfoliación",
+            "stamping"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/lima.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lima.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-133"
+        ],
+        "geoTemp": "MP-133",
+        "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Limonada - Black and Blue",
+        "rubro": [
+            "Accesorios",
             "Calzado Infantil",
             "Vestuario Infantil"
         ],
         "productos": [
+            "Black and Blue",
+            "Vestuario Niños",
+            "Calzado Niños",
+            "Accesorios Infantil",
             "Limonada",
-            "Maite",
-            "Vestuario Niñas",
-            "Calzado Niñas",
-            "Accesorios Infantil"
+            "maite",
+            "niñas"
         ],
-        "nodo": "256",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Limonada.jpg",
-        "piso": "2",
-        "geo": "A-222",
-        "area": "Pasillo 7"
+        "nodo": "201",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Blackandblue.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Blackandblue.jpg",
+        "piso": "1",
+        "geo": [
+            "A-114+A118"
+        ],
+        "geoTemp": "A-114+A118",
+        "area": "Pasillo 4"
     },
     {
         "nombre": "Llantas del Pacífico",
@@ -3400,29 +4395,38 @@
         ],
         "nodo": "118",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/llantasdelpacifico.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/llantasdelpacifico.jpg",
         "piso": "1",
-        "geo": "ST 159 - 163 - 167 - 171 - 175",
+        "geo": [
+            "ST-159+ST-163+ST-167+ST-171+ST-175"
+        ],
+        "geoTemp": "ST-159+ST-163+ST-167+ST-171+ST-175",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Lounge",
         "rubro": [
-            "Accesorios Femeninos"
+            "Accesorios"
         ],
         "productos": [
             "LOUNGE",
             "Accesorios"
         ],
         "nodo": "49",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/lounge_lo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/lounge_lo.jpg",
         "piso": "1",
-        "geo": "BA 120",
+        "geo": [
+            "BA-120"
+        ],
+        "geoTemp": "BA-120",
         "area": "Aires"
     },
     {
         "nombre": "MOW",
         "rubro": [
-            "null"
+            "Accesorios",
+            "Telefonía"
         ],
         "productos": [
             "Accesorios Celulares",
@@ -3433,8 +4437,12 @@
         ],
         "nodo": "41",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/generico_tiendas_listado.jpg",
         "piso": "1",
-        "geo": "B126A - 126B",
+        "geo": [
+            "B-126a+B-126b"
+        ],
+        "geoTemp": "B-126a+B-126b",
         "area": "Pasillo Principal"
     },
     {
@@ -3445,13 +4453,22 @@
         "productos": [
             "Perfumes",
             "Cosmeticos",
-            "Accesorios femeninos"
+            "Accesorios femeninos",
+            "rostro",
+            "manos",
+            "maquillaje",
+            "esmaltes de uñas",
+            "accesorios"
         ],
         "nodo": "38",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Makeupexpress.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Makeupexpress.jpg",
         "piso": "1",
-        "geo": "B-130",
-        "area": "Pasillo Falabella"
+        "geo": [
+            "B-130"
+        ],
+        "geoTemp": "B-130",
+        "area": "Pasillo 1"
     },
     {
         "nombre": "Maksa - DFM",
@@ -3464,8 +4481,12 @@
         ],
         "nodo": "134",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/makzadfm.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/makzadfm.jpg",
         "piso": "1",
-        "geo": "AP-116",
+        "geo": [
+            "AP-116"
+        ],
+        "geoTemp": "AP-116",
         "area": "Autoplaza"
     },
     {
@@ -3483,15 +4504,18 @@
             "tecnologia"
         ],
         "nodo": "303",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mallconection.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mallconection.jpg",
         "piso": "3",
-        "geo": "D- 342 D- 346",
+        "geo": [
+            "D-342+D-346"
+        ],
+        "geoTemp": "D-342+D-346",
         "area": "Pasillo 8"
     },
     {
         "nombre": "Mamut",
         "rubro": [
-            "Cafeterías y Heladerías",
             "Restaurantes"
         ],
         "productos": [
@@ -3500,14 +4524,18 @@
         ],
         "nodo": "50",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mamut.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mamut.jpg",
         "piso": "1",
-        "geo": "B-137b-141",
+        "geo": [
+            "B-137b+B-141"
+        ],
+        "geoTemp": "B-137b+B-141",
         "area": "Pasillo 1"
     },
     {
         "nombre": "Mario Haddad",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Masculino"
         ],
         "productos": [
@@ -3516,8 +4544,12 @@
         ],
         "nodo": "206",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mariohaddad.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Mariohaddad.jpg",
         "piso": "2",
-        "geo": "C-241",
+        "geo": [
+            "C-241"
+        ],
+        "geoTemp": "C-241",
         "area": "Pasillo 5"
     },
     {
@@ -3538,25 +4570,13 @@
         ],
         "nodo": "212",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/massageespressspa.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/massageespressspa.jpg",
         "piso": "2",
-        "geo": "BD-2046a - BDK-2048",
+        "geo": [
+            "BDK-2046a+BDK-2048"
+        ],
+        "geoTemp": "BDK-2046a+BDK-2048",
         "area": "Bulevar Deck"
-    },
-    {
-        "nombre": "Mathew",
-        "rubro": [
-            "Accesorios Femeninos",
-            "Vestuario Femenino"
-        ],
-        "productos": [
-            "Mathew",
-            "Vestuario y accesorios femeninos"
-        ],
-        "nodo": "79",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Matthew.jpg",
-        "piso": "1",
-        "geo": "A-145-149",
-        "area": "Pasillo 4"
     },
     {
         "nombre": "Maui and Sons",
@@ -3579,40 +4599,13 @@
         ],
         "nodo": "12",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/maui.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/maui.jpg",
         "piso": "1",
-        "geo": "C-113-117",
+        "geo": [
+            "C-113+C-117"
+        ],
+        "geoTemp": "C-113+C-117",
         "area": "Pasillo 2"
-    },
-    {
-        "nombre": "Mayfra",
-        "rubro": [
-            "Vestuario Juvenil"
-        ],
-        "productos": [
-            "Vestuario Juvenil",
-            "Vestuario Femenino",
-            "Accesorios Femeninos"
-        ],
-        "nodo": "190",
-        "logo": "null",
-        "piso": "2",
-        "geo": "D-257",
-        "area": "Pasillo Ripley"
-    },
-    {
-        "nombre": "Mc Donald´s",
-        "rubro": [
-            "Alimentos y Bebidas"
-        ],
-        "productos": [
-            "Cafeteria",
-            "Mc Donalds"
-        ],
-        "nodo": "158",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mcdonalds.jpg",
-        "piso": "2",
-        "geo": "null",
-        "area": "Exterior Tottus"
     },
     {
         "nombre": "Mc Donald´s",
@@ -3627,25 +4620,54 @@
         ],
         "nodo": "338",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/macdonalds.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/macdonalds.jpg",
         "piso": "3",
-        "geo": "B-229",
+        "geo": [
+            "B-229"
+        ],
+        "geoTemp": "B-229",
         "area": "Food Court"
     },
     {
-        "nombre": "Mia",
+        "nombre": "Mc Donald´s",
         "rubro": [
-            "Accesorios Femeninos",
-            "Vestuario Femenino"
+            "Bebidas"
         ],
         "productos": [
-            "Mia",
-            "Vestuario y accesorios femeninos"
+            "Cafeteria",
+            "Mc Donalds"
         ],
-        "nodo": "63",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mia.jpg",
+        "nodo": "158",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mcdonalds.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mcdonalds.jpg",
+        "piso": "2",
+        "geo": [
+            "B-229"
+        ],
+        "geoTemp": "B-229",
+        "area": "Exterior Tottus"
+    },
+    {
+        "nombre": "Merrell",
+        "rubro": [
+            "Vestuario Deportivo"
+        ],
+        "productos": [
+            "Zapatos",
+            "Ropa Deportiva",
+            "Accesorios",
+            "Outdoor",
+            "Trekking"
+        ],
+        "nodo": "BA-128",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Merrel.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Merrel.jpg",
         "piso": "1",
-        "geo": "A-142",
-        "area": "Pasillo4"
+        "geo": [
+            "BA-132"
+        ],
+        "geoTemp": "BA-132",
+        "area": "Aires"
     },
     {
         "nombre": "Microplay",
@@ -3661,8 +4683,12 @@
         ],
         "nodo": "175",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Microplay.JPG",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Microplay.JPG",
         "piso": "2",
-        "geo": "A-277",
+        "geo": [
+            "A-277"
+        ],
+        "geoTemp": "A-277",
         "area": "Pasillo 7"
     },
     {
@@ -3675,9 +4701,13 @@
             "sandalias"
         ],
         "nodo": "175",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mininas_lo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mininas_lo.jpg",
         "piso": "2",
-        "geo": "A-261 + A-265",
+        "geo": [
+            "A-261+A-265"
+        ],
+        "geoTemp": "A-261+A-265",
         "area": "Pasillo 4"
     },
     {
@@ -3691,15 +4721,19 @@
         ],
         "nodo": "138",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Mitsubishi.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Mitsubishi.jpg",
         "piso": "1",
-        "geo": "AP-126-127-128",
+        "geo": [
+            "AP-126+AP-127+AP-128"
+        ],
+        "geoTemp": "AP-126+AP-127+AP-128",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Moletto",
         "rubro": [
-            "Accesorios Femeninos",
-            "Lencería y Ropa Interior"
+            "Accesorios",
+            "Lencería"
         ],
         "productos": [
             "Moletto",
@@ -3711,8 +4745,12 @@
         ],
         "nodo": "257",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Moletto.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Moletto.jpg",
         "piso": "2",
-        "geo": "A-226",
+        "geo": [
+            "A-226"
+        ],
+        "geoTemp": "A-226",
         "area": "Pasillo 7"
     },
     {
@@ -3736,25 +4774,13 @@
         ],
         "nodo": "32",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Monarch.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Monarch.jpg",
         "piso": "1",
-        "geo": "C-122",
+        "geo": [
+            "C-122"
+        ],
+        "geoTemp": "C-122",
         "area": "Pasillo 2"
-    },
-    {
-        "nombre": "Monix",
-        "rubro": [
-            "Óptica y Perfumería"
-        ],
-        "productos": [
-            "Monix",
-            "Fragancias",
-            "cremas faciales y corporales"
-        ],
-        "nodo": "298",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Monix.jpg",
-        "piso": "3",
-        "geo": "D-357",
-        "area": "Pasillo 9"
     },
     {
         "nombre": "Moon by Foster",
@@ -3766,9 +4792,13 @@
             "Accesorios juveniles"
         ],
         "nodo": "323",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/moon.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/moon.jpg",
         "piso": "3",
-        "geo": "C-326 + C-330",
+        "geo": [
+            "C-326+C-330"
+        ],
+        "geoTemp": "C-326+C-330",
         "area": "Pasillo Falabella"
     },
     {
@@ -3788,8 +4818,12 @@
         ],
         "nodo": "322",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/mossimo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/mossimo.jpg",
         "piso": "3",
-        "geo": "C-342-346-350",
+        "geo": [
+            "C-342+C-346+C-350"
+        ],
+        "geoTemp": "C-342+C-346+C-350",
         "area": "Pasillo 8"
     },
     {
@@ -3804,8 +4838,12 @@
         ],
         "nodo": "217",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/movistar.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/movistar.jpg",
         "piso": "2",
-        "geo": "E-207-208-209-210-211",
+        "geo": [
+            "E-207+E-208+E-209+E-210+E-211"
+        ],
+        "geoTemp": "E-207+E-208+E-209+E-210+E-211",
         "area": "Bulevar Deck"
     },
     {
@@ -3821,14 +4859,18 @@
         ],
         "nodo": "150",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/multiservice.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/multiservice.jpg",
         "piso": "1",
-        "geo": "BT-118",
+        "geo": [
+            "BT-118"
+        ],
+        "geoTemp": "BT-118",
         "area": "Bulevar Tottus"
     },
     {
         "nombre": "Music World",
         "rubro": [
-            "Accesorios Generales"
+            "Artículos Musicales"
         ],
         "productos": [
             "Audio",
@@ -3838,8 +4880,12 @@
         ],
         "nodo": "287",
         "logo": "http://www.mallplaza.cl/images/stories/musicworld.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/musicworld.jpg",
         "piso": "3",
-        "geo": "A-333",
+        "geo": [
+            "A-333"
+        ],
+        "geoTemp": "A-333",
         "area": "Pasillo Paris"
     },
     {
@@ -3853,8 +4899,12 @@
         ],
         "nodo": "55",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nrg.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nrg.jpg",
         "piso": "1",
-        "geo": "B-105",
+        "geo": [
+            "B-105"
+        ],
+        "geoTemp": "B-105",
         "area": "Pasillo 1"
     },
     {
@@ -3871,8 +4921,12 @@
         ],
         "nodo": "27",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Naturalizer.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Naturalizer.jpg",
         "piso": "1",
-        "geo": "C-148",
+        "geo": [
+            "C-148"
+        ],
+        "geoTemp": "C-148",
         "area": "Pasillo 2"
     },
     {
@@ -3894,14 +4948,41 @@
         ],
         "nodo": "123",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Neumaton.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Neumaton.jpg",
         "piso": "1",
-        "geo": "ST 109 - ST 113",
+        "geo": [
+            "ST-109+ST-113"
+        ],
+        "geoTemp": "ST-109+ST-113",
         "area": "Autoplaza"
+    },
+    {
+        "nombre": "New Balance",
+        "rubro": [
+            "Accesorios Deportivos"
+        ],
+        "productos": [
+            "deporte",
+            "vestuario",
+            "calzado",
+            "masculino",
+            "femenino",
+            "accesorios"
+        ],
+        "nodo": "205",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/NewBalance.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/NewBalance.jpg",
+        "piso": "2",
+        "geo": [
+            "B-205+B-209"
+        ],
+        "geoTemp": "B-205+B-209",
+        "area": "ex- pasillo Johnsons"
     },
     {
         "nombre": "New Man",
         "rubro": [
-            "Accesorios Masculinos",
+            "Accesorios",
             "Vestuario Masculino"
         ],
         "productos": [
@@ -3913,11 +4994,15 @@
             "Casacas",
             "Accesorios"
         ],
-        "nodo": "59",
+        "nodo": "BA-105",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/newman.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/newman.jpg",
         "piso": "1",
-        "geo": "A-114-118",
-        "area": "Pasillo 4"
+        "geo": [
+            "BA-106"
+        ],
+        "geoTemp": "BA-106",
+        "area": "Pasillo Aires"
     },
     {
         "nombre": "Nextel",
@@ -3931,8 +5016,12 @@
         ],
         "nodo": "149",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nextel.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nextel.jpg",
         "piso": "1",
-        "geo": "BT 109-110-111-112-113-114-115-116",
+        "geo": [
+            "BT-109+BT-110+BT-111+BT-112+BT-113+BT-114+BT-115+BT-116"
+        ],
+        "geoTemp": "BT-109+BT-110+BT-111+BT-112+BT-113+BT-114+BT-115+BT-116",
         "area": "Bulevar Tottus"
     },
     {
@@ -3948,9 +5037,13 @@
         ],
         "nodo": "349",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nike.jpg",
-        "piso": "3",
-        "geo": "D-317-321-325",
-        "area": "Pasillo 9"
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nike.jpg",
+        "piso": "2",
+        "geo": [
+            "D-317+D-321+D-325"
+        ],
+        "geoTemp": "D-317+D-321+D-325",
+        "area": "Pasillo 10"
     },
     {
         "nombre": "Nissan",
@@ -3963,8 +5056,12 @@
         ],
         "nodo": "135",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Nissan.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Nissan.jpg",
         "piso": "1",
-        "geo": "AP-120-21",
+        "geo": [
+            "AP-120+AP-121+A-123"
+        ],
+        "geoTemp": "AP-120+AP-121+A-123",
         "area": "Locales Autoplaza"
     },
     {
@@ -3977,8 +5074,12 @@
         ],
         "nodo": "225",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/okmarket.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/okmarket.jpg",
         "piso": "2",
-        "geo": "BD2065",
+        "geo": [
+            "BD-2065"
+        ],
+        "geoTemp": "BD-2065",
         "area": "Bulevar Deck"
     },
     {
@@ -3991,9 +5092,13 @@
             "Tallas grandes"
         ],
         "nodo": "356",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/october.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/october.jpg",
         "piso": "1",
-        "geo": "125",
+        "geo": [
+            "BA-125"
+        ],
+        "geoTemp": "BA-125",
         "area": "Pasillo Aires"
     },
     {
@@ -4009,15 +5114,40 @@
             "PC"
         ],
         "nodo": "312",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/olidata_lo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/olidata_lo.jpg",
         "piso": "3",
-        "geo": "C-345 + C-349",
+        "geo": [
+            "C-345+C-349"
+        ],
+        "geoTemp": "C-345+C-349",
+        "area": "Pasillo Falabella"
+    },
+    {
+        "nombre": "Olive",
+        "rubro": [
+            "Vestuario Femenino"
+        ],
+        "productos": [
+            "Vestuario femenino",
+            "chaquetas de temporada",
+            "vestidos",
+            "chalecos"
+        ],
+        "nodo": "260",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/olive.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/olive.jpg",
+        "piso": "2",
+        "geo": [
+            "C-229"
+        ],
+        "geoTemp": "C-229",
         "area": "Pasillo Falabella"
     },
     {
         "nombre": "Opaline",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
             "Calzado Infantil",
             "Vestuario Infantil"
         ],
@@ -4028,8 +5158,12 @@
         ],
         "nodo": "309",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Opaline.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Opaline.jpg",
         "piso": "3",
-        "geo": "C-321-337",
+        "geo": [
+            "C-321+C-337"
+        ],
+        "geoTemp": "C-321+C-337",
         "area": "Pasillo 8"
     },
     {
@@ -4051,8 +5185,12 @@
         ],
         "nodo": "15",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasgmo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasgmo.jpg",
         "piso": "1",
-        "geo": "C-137-141",
+        "geo": [
+            "C-137+C-141"
+        ],
+        "geoTemp": "C-137+C-141",
         "area": "Pasillo 2"
     },
     {
@@ -4074,8 +5212,12 @@
         ],
         "nodo": "35",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasplacevendome.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasplacevendome.jpg",
         "piso": "1",
-        "geo": "B-102c",
+        "geo": [
+            "B-102c"
+        ],
+        "geoTemp": "B-102c",
         "area": "Pasillo 1"
     },
     {
@@ -4093,8 +5235,12 @@
         ],
         "nodo": "88",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/opticasrotterkrauss.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/opticasrotterkrauss.jpg",
         "piso": "1",
-        "geo": "D-133-137",
+        "geo": [
+            "D-133+D-137"
+        ],
+        "geoTemp": "D-133+D-137",
         "area": "Pasillo 3"
     },
     {
@@ -4112,24 +5258,13 @@
         ],
         "nodo": "205",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/schilling.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/schilling.jpg",
         "piso": "2",
-        "geo": "C-237",
+        "geo": [
+            "C-237"
+        ],
+        "geoTemp": "C-237",
         "area": "Pasillo 5"
-    },
-    {
-        "nombre": "Osito",
-        "rubro": [
-            "Calzado Infantil"
-        ],
-        "productos": [
-            "Osito",
-            "Calzado  Infantil"
-        ],
-        "nodo": "260",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/osito.jpg",
-        "piso": "2",
-        "geo": "A-242",
-        "area": "Pasillo 7"
     },
     {
         "nombre": "PC Factory",
@@ -4144,9 +5279,13 @@
         ],
         "nodo": "304",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/PcFactory.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/PcFactory.jpg",
         "piso": "3",
-        "geo": "BS-110",
-        "area": "Pasillo 8"
+        "geo": [
+            "D-330+D-334+D-338"
+        ],
+        "geoTemp": "D-330+D-334+D-338",
+        "area": "Pasillo 9"
     },
     {
         "nombre": "Palumbo",
@@ -4159,14 +5298,18 @@
         ],
         "nodo": "6",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/palumbo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/palumbo.jpg",
         "piso": "1",
-        "geo": "D-114",
+        "geo": [
+            "D-114"
+        ],
+        "geoTemp": "D-114",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Panadería San Camilo",
         "rubro": [
-            "Alimentos y Bebidas",
+            "Bebidas",
             "Servicios"
         ],
         "productos": [
@@ -4178,32 +5321,13 @@
         ],
         "nodo": "169",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/panaderiasancamilo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/panaderiasancamilo.jpg",
         "piso": "1",
-        "geo": "BSD-1040",
+        "geo": [
+            "BSD-1040"
+        ],
+        "geoTemp": "BSD-1040",
         "area": "Bulevar DuocUC"
-    },
-    {
-        "nombre": "Panama Jack/ Pollini",
-        "rubro": [
-            "Calzado Femenino",
-            "Calzado Masculino"
-        ],
-        "productos": [
-            "Pollini",
-            "Panama Jack",
-            "16hrs",
-            "Pluma",
-            "Gino",
-            "Zapatos",
-            "Sandalias",
-            "Botas",
-            "Botines"
-        ],
-        "nodo": "254",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollini.jpg",
-        "piso": "2",
-        "geo": "A-210-206-214a",
-        "area": "Pasillo 7"
     },
     {
         "nombre": "Paris",
@@ -4223,15 +5347,19 @@
         ],
         "nodo": "74",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Paris.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Paris.jpg",
         "piso": "1",
-        "geo": "TA-1",
+        "geo": [
+            "TA-1"
+        ],
+        "geoTemp": "TA-1",
         "area": "Pasillos 4, 7 y 10"
     },
     {
         "nombre": "Patuelli",
         "rubro": [
-            "Calzado Deportivo",
-            "Accesorios Deportivos"
+            "Accesorios Deportivos",
+            "Calzado Deportivo"
         ],
         "productos": [
             "Miles de Marcas",
@@ -4240,8 +5368,12 @@
         ],
         "nodo": "195",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Patuelli.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Patuelli.jpg",
         "piso": "2",
-        "geo": "D-234-238",
+        "geo": [
+            "D-234+D-238"
+        ],
+        "geoTemp": "D-234+D-238",
         "area": "Pasillo 6"
     },
     {
@@ -4258,8 +5390,12 @@
         ],
         "nodo": "340",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/PedroJuandiego.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/PedroJuandiego.jpg",
         "piso": "3",
-        "geo": "B-333",
+        "geo": [
+            "B-333"
+        ],
+        "geoTemp": "B-333",
         "area": "Food Court"
     },
     {
@@ -4273,8 +5409,12 @@
         ],
         "nodo": "203",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/peppermint.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/peppermint.jpg",
         "piso": "2",
-        "geo": "s/n",
+        "geo": [
+            "s/n"
+        ],
+        "geoTemp": "s/n",
         "area": "Pasillo 5"
     },
     {
@@ -4288,8 +5428,12 @@
         ],
         "nodo": "182",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/perfumame.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/perfumame.jpg",
         "piso": "2",
-        "geo": "A-229",
+        "geo": [
+            "A-229"
+        ],
+        "geoTemp": "A-229",
         "area": "Pasillo 7"
     },
     {
@@ -4303,14 +5447,18 @@
         ],
         "nodo": "111",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Peugeot.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Peugeot.jpg",
         "piso": "1",
-        "geo": "AP-103",
+        "geo": [
+            "AP-103"
+        ],
+        "geoTemp": "AP-103",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Pillín",
         "rubro": [
-            "Accesorios Infantiles",
+            "Accesorios",
             "Calzado Infantil",
             "Vestuario Infantil"
         ],
@@ -4322,8 +5470,12 @@
         ],
         "nodo": "210",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pillin.JPG",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pillin.JPG",
         "piso": "2",
-        "geo": "C-269-273",
+        "geo": [
+            "C-269+C-273"
+        ],
+        "geoTemp": "C-269+C-273",
         "area": "Pasillo 5"
     },
     {
@@ -4344,8 +5496,12 @@
         ],
         "nodo": "306",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pimps.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pimps.jpg",
         "piso": "3",
-        "geo": "D-314",
+        "geo": [
+            "D-314"
+        ],
+        "geoTemp": "D-314",
         "area": "Pasillo 9"
     },
     {
@@ -4361,8 +5517,12 @@
         ],
         "nodo": "342",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pizzahut.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pizzahut.jpg",
         "piso": "3",
-        "geo": "B-317-321",
+        "geo": [
+            "B-317+B-321"
+        ],
+        "geoTemp": "B-317+B-321",
         "area": "Food Court"
     },
     {
@@ -4376,8 +5536,12 @@
         ],
         "nodo": "28",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Poeme.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Poeme.jpg",
         "piso": "1",
-        "geo": "C-142",
+        "geo": [
+            "C-142"
+        ],
+        "geoTemp": "C-142",
         "area": "Pasillo 2"
     },
     {
@@ -4400,14 +5564,18 @@
         ],
         "nodo": "352",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Polemic.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Polemic.jpg",
         "piso": "3",
-        "geo": "A-362",
+        "geo": [
+            "A-362"
+        ],
+        "geoTemp": "A-362",
         "area": "Pasillo 10"
     },
     {
         "nombre": "Pollini",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino"
         ],
         "productos": [
@@ -4416,14 +5584,18 @@
         ],
         "nodo": "254",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollini.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pollini.jpg",
         "piso": "2",
-        "geo": "null",
+        "geo": [
+            "A-206+A-210+A-214a"
+        ],
+        "geoTemp": "A-206+A-210+A-214a",
         "area": "Pasillo 7"
     },
     {
         "nombre": "Pollo Stop",
         "rubro": [
-            "Alimentos y Bebidas"
+            "Bebidas"
         ],
         "productos": [
             "Pollos asados",
@@ -4434,9 +5606,13 @@
             "bebidas"
         ],
         "nodo": "330",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/pollo_stop.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/pollo_stop.jpg",
         "piso": "3",
-        "geo": "B-314 + B-320",
+        "geo": [
+            "B-314+B-320"
+        ],
+        "geoTemp": "B-314+B-320",
         "area": "Food Court"
     },
     {
@@ -4450,8 +5626,12 @@
         ],
         "nodo": "106",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Pompeyocarrasco.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Pompeyocarrasco.jpg",
         "piso": "1",
-        "geo": "AP-109b-109c-111b-113-114",
+        "geo": [
+            "AP-109b+AP-109c+AP-111b+AP-113+AP-114"
+        ],
+        "geoTemp": "AP-109b+AP-109c+AP-111b+AP-113+AP-114",
         "area": "Locales Autoplaza"
     },
     {
@@ -4470,9 +5650,38 @@
         ],
         "nodo": "26",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Potros.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Potros.jpg",
         "piso": "1",
-        "geo": "C-150-154a",
+        "geo": [
+            "C-150+C-154a"
+        ],
+        "geoTemp": "C-150+C-154a",
         "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Prague",
+        "rubro": [
+            "Accesorios",
+            "Cuidado Personal",
+            "Joyerías y Relojerías",
+            "Módulos",
+            "Peluquería y Belleza"
+        ],
+        "productos": [
+            "joyería",
+            "maquillaje",
+            "cosmetica mineral",
+            "joyas"
+        ],
+        "nodo": "MP-160",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/praguejoyas.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/praguejoyas.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-160"
+        ],
+        "geoTemp": "MP-160",
+        "area": "Aires"
     },
     {
         "nombre": "Pre Unic",
@@ -4496,25 +5705,33 @@
         ],
         "nodo": "4",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/preunic.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/preunic.jpg",
         "piso": "1",
-        "geo": "D-158-162-166",
+        "geo": [
+            "D-158+D-162+D-166"
+        ],
+        "geoTemp": "D-158+D-162+D-166",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Privilege",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Vestuario Femenino"
         ],
         "productos": [
             "Privilege",
             "Vestuarios y Accesorios"
         ],
-        "nodo": "305",
+        "nodo": "356",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Privilege.jpg",
-        "piso": "3",
-        "geo": "D-318-322-326",
-        "area": "Pasillo 9"
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Privilege.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-108+BA-112+BA-116"
+        ],
+        "geoTemp": "BA-108+BA-112+BA-116",
+        "area": "Aires"
     },
     {
         "nombre": "Puma",
@@ -4531,8 +5748,12 @@
         ],
         "nodo": "198",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/puma.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/puma.jpg",
         "piso": "2",
-        "geo": "D-210-14-18-22",
+        "geo": [
+            "D-210+D-214+D-218+D-222"
+        ],
+        "geoTemp": "D-210+D-214+D-218+D-222",
         "area": "Pasillo 6"
     },
     {
@@ -4546,16 +5767,39 @@
         ],
         "nodo": "159",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/puntosalud.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/puntosalud.jpg",
         "piso": "1",
-        "geo": "BT-138-140",
+        "geo": [
+            "BT-138+BT-140"
+        ],
+        "geoTemp": "BT-138+BT-140",
         "area": "Bulevar Tottus"
+    },
+    {
+        "nombre": "Real Kicks",
+        "rubro": [
+            "Calzado Juvenil"
+        ],
+        "productos": [
+            "Multimarcas",
+            "Zapatillas Juveniles"
+        ],
+        "nodo": "284",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/kicks.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/kicks.jpg",
+        "piso": "3",
+        "geo": [
+            "A-353+A-357"
+        ],
+        "geoTemp": "A-353+A-357",
+        "area": "Pasillo 10"
     },
     {
         "nombre": "Reebok",
         "rubro": [
+            "Accesorios Deportivos",
             "Calzado Deportivo",
-            "Vestuario Deportivo",
-            "Accesorios Deportivos"
+            "Vestuario Deportivo"
         ],
         "productos": [
             "Reebok",
@@ -4563,11 +5807,15 @@
             "Vestuario",
             "Accesorios"
         ],
-        "nodo": "194",
+        "nodo": "251",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Reebok.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Reebok.jpg",
         "piso": "2",
-        "geo": "D-250-254-258",
-        "area": "Pasillo 6"
+        "geo": [
+            "B-222"
+        ],
+        "geoTemp": "B-222",
+        "area": "ex pasillo Johnsons"
     },
     {
         "nombre": "Reifschneider Store",
@@ -4588,17 +5836,21 @@
         ],
         "nodo": "11",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ReifschbeiderStore.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ReifschbeiderStore.jpg",
         "piso": "1",
-        "geo": "D 106 - D110",
+        "geo": [
+            "D-106+D-110"
+        ],
+        "geoTemp": "D-106+D-110",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Rip Curl",
         "rubro": [
+            "Accesorios",
             "Vestuario Femenino",
             "Vestuario Juvenil",
-            "Vestuario Masculino",
-            "Accesorios Generales"
+            "Vestuario Masculino"
         ],
         "productos": [
             "Rip Curl",
@@ -4615,8 +5867,12 @@
         ],
         "nodo": "346",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripcurl.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ripcurl.jpg",
         "piso": "3",
-        "geo": "A-300-302-306-310-314",
+        "geo": [
+            "A-300+A-302+A-306+A-310+A-314"
+        ],
+        "geoTemp": "A-300+A-302+A-306+A-310+A-314",
         "area": "Pasillo 10"
     },
     {
@@ -4637,15 +5893,18 @@
         ],
         "nodo": "2",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Ripley.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Ripley.jpg",
         "piso": "1",
-        "geo": "TA-3",
+        "geo": [
+            "TA-3"
+        ],
+        "geoTemp": "TA-3",
         "area": "Pasillos 3, 6 y 9"
     },
     {
         "nombre": "Rockford",
         "rubro": [
-            "Accesorios Femeninos",
-            "Accesorios Masculinos",
+            "Accesorios",
             "Calzado Femenino",
             "Calzado Masculino",
             "Vestuario Femenino",
@@ -4658,9 +5917,35 @@
         ],
         "nodo": "85",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Rockford.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Rockford.jpg",
         "piso": "1",
-        "geo": "D-101-105",
+        "geo": [
+            "D-101+D-105"
+        ],
+        "geoTemp": "D-101+D-105",
         "area": "Pasillo 3"
+    },
+    {
+        "nombre": "Romano",
+        "rubro": [
+            "Accesorios"
+        ],
+        "productos": [
+            "Calzado",
+            "Femenino",
+            "Botas",
+            "Zapatos",
+            "Calzado Femenino"
+        ],
+        "nodo": "69",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/romano.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/romano.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-168"
+        ],
+        "geoTemp": "BA-168",
+        "area": "Aires"
     },
     {
         "nombre": "Samsung",
@@ -4674,15 +5959,18 @@
         ],
         "nodo": "40",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Samsung.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Samsung.jpg",
         "piso": "1",
-        "geo": "B 134",
-        "area": "Pasillo Falabella"
+        "geo": [
+            "B-134"
+        ],
+        "geoTemp": "B-134",
+        "area": "Pasillo 1"
     },
     {
         "nombre": "Savory",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Savory",
@@ -4690,8 +5978,12 @@
         ],
         "nodo": "313",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Savory.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Savory.jpg",
         "piso": "3",
-        "geo": "C 353",
+        "geo": [
+            "C-353"
+        ],
+        "geoTemp": "C-353",
         "area": "Pasillo 8"
     },
     {
@@ -4709,8 +6001,12 @@
         ],
         "nodo": "350",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/savorystop.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/savorystop.jpg",
         "piso": "3",
-        "geo": "C-353",
+        "geo": [
+            "C-353"
+        ],
+        "geoTemp": "C-353",
         "area": "Pasillo 8"
     },
     {
@@ -4727,8 +6023,12 @@
         ],
         "nodo": "53",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/saxoline.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/saxoline.jpg",
         "piso": "1",
-        "geo": "B-121-125",
+        "geo": [
+            "B-121+B-125"
+        ],
+        "geoTemp": "B-121+B-125",
         "area": "Pasillo 1"
     },
     {
@@ -4745,8 +6045,12 @@
         ],
         "nodo": "292",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/scarladeporte.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/scarladeporte.jpg",
         "piso": "3",
-        "geo": "D-309-313",
+        "geo": [
+            "D-309+D-313"
+        ],
+        "geoTemp": "D-309+D-313",
         "area": "Pasillo 9"
     },
     {
@@ -4762,23 +6066,31 @@
         ],
         "nodo": "43",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/shopdog.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/shopdog.jpg",
         "piso": "1",
-        "geo": "LT-110",
+        "geo": [
+            "LT-110"
+        ],
+        "geoTemp": "LT-110",
         "area": "Terrazas"
     },
     {
         "nombre": "Secret",
         "rubro": [
-            "Accesorios Femeninos"
+            "Accesorios"
         ],
         "productos": [
             "Accesorios",
             "Femeninos"
         ],
         "nodo": "46",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/secret.png",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/secret.png",
         "piso": "1",
-        "geo": "BA 141",
+        "geo": [
+            "BA-141"
+        ],
+        "geoTemp": "BA-141",
         "area": "Aires"
     },
     {
@@ -4792,25 +6104,13 @@
         ],
         "nodo": "125",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/serviciotecnicoderco.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/serviciotecnicoderco.jpg",
         "piso": "1",
-        "geo": "AP-101",
+        "geo": [
+            "AP-101"
+        ],
+        "geoTemp": "AP-101",
         "area": "Locales Autoplaza"
-    },
-    {
-        "nombre": "Servipag",
-        "rubro": [
-            "Servicios"
-        ],
-        "productos": [
-            "Servipag",
-            "Pago de Cuentas",
-            "Tarjeta Bip"
-        ],
-        "nodo": "101",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Servipag.jpg",
-        "piso": "1",
-        "geo": "null",
-        "area": "Bulevar Duoc"
     },
     {
         "nombre": "Servipag Bip",
@@ -4825,8 +6125,12 @@
         ],
         "nodo": "164",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Servipag.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Servipag.jpg",
         "piso": "1",
-        "geo": "BT-139-137",
+        "geo": [
+            "BT-139+BT-137"
+        ],
+        "geoTemp": "BT-139+BT-137",
         "area": "Bulevar Tottus"
     },
     {
@@ -4840,14 +6144,18 @@
         ],
         "nodo": "358",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/shell.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/shell.jpg",
         "piso": "1",
-        "geo": "AP-00",
+        "geo": [
+            "AP-00"
+        ],
+        "geoTemp": "AP-00",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Shoes & Piel",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino",
             "Calzado Infantil",
             "Calzado Masculino"
@@ -4861,18 +6169,22 @@
         ],
         "nodo": "52",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Shoesandpiel.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Shoesandpiel.jpg",
         "piso": "1",
-        "geo": "B-129-133",
+        "geo": [
+            "B-129+B-133"
+        ],
+        "geoTemp": "B-129+B-133",
         "area": "Pasillo 1"
     },
     {
         "nombre": "Skechers",
         "rubro": [
+            "Accesorios",
             "Calzado Femenino",
             "Calzado Infantil",
             "Calzado Juvenil",
-            "Calzado Masculino",
-            "Accesorios Generales"
+            "Calzado Masculino"
         ],
         "productos": [
             "Skechers",
@@ -4884,14 +6196,18 @@
         ],
         "nodo": "307",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sckechers.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sckechers.jpg",
         "piso": "3",
-        "geo": "D-302-306-310",
+        "geo": [
+            "D-302+D-306+D-310"
+        ],
+        "geoTemp": "D-302+D-306+D-310",
         "area": "Pasillo 9"
     },
     {
         "nombre": "Smart Gold",
         "rubro": [
-            "null"
+            "Accesorios"
         ],
         "productos": [
             "Venta de Joyas",
@@ -4901,9 +6217,41 @@
             "Aros con piedras"
         ],
         "nodo": "189",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/smart.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/smart.jpg",
         "piso": "2",
-        "geo": "D-229 ",
+        "geo": [
+            "D-229 "
+        ],
+        "geoTemp": "D-229 ",
+        "area": "Pasillo Ripley"
+    },
+    {
+        "nombre": "Sony",
+        "rubro": [
+            "Accesorios",
+            "Computación y Electrónica",
+            "Módulos",
+            "Música",
+            " Fotografía y Películas",
+            "Telefonía"
+        ],
+        "productos": [
+            "celulares",
+            "cámaras",
+            "tablets",
+            "cargadores",
+            "audífonos",
+            "carcazas"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sony.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sony.jpg",
+        "piso": "1",
+        "geo": [
+            "MP-137"
+        ],
+        "geoTemp": "MP-137",
         "area": "Pasillo Ripley"
     },
     {
@@ -4920,8 +6268,12 @@
         ],
         "nodo": "302",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/spartadeportes.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/spartadeportes.jpg",
         "piso": "3",
-        "geo": "D342b - D346b - D350 - D354 - D360",
+        "geo": [
+            "D-342b+D-346b+D-350+D-354+D-360"
+        ],
+        "geoTemp": "D-342b+D-346b+D-350+D-354+D-360",
         "area": "Pasillo 9"
     },
     {
@@ -4934,27 +6286,40 @@
             "Moda",
             "Jeans"
         ],
-        "nodo": "72",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/generico_tiendas_listado.jpg",
+        "nodo": "BA-117",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/studiof.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/studiof.jpg",
         "piso": "1",
-        "geo": "BA 113",
+        "geo": [
+            "BA-113"
+        ],
+        "geoTemp": "BA-113",
         "area": "Aires"
     },
     {
-        "nombre": "TEDDY MOUNTAIN",
+        "nombre": "Sushi House",
         "rubro": [
-            "Juguetería"
+            "Bebidas",
+            "Las Terrazas",
+            "Restaurantes"
         ],
         "productos": [
-            "Peluches",
-            "Jugueteria",
-            "Infantil"
+            "sushi",
+            "rolls",
+            "appetizers",
+            "california rolls",
+            "platos calientes",
+            "platos fríos"
         ],
-        "nodo": "266",
-        "logo": "http://www.mallplaza.cl/images/stories/logo-120x100.jpg",
-        "piso": "2",
-        "geo": "null",
-        "area": "Ripley"
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/sushi_house_ch.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/sushi_house_ch.jpg",
+        "piso": "1",
+        "geo": [
+            "T-118+T-122+T-124"
+        ],
+        "geoTemp": "T-118+T-122+T-124",
+        "area": "Terrazas"
     },
     {
         "nombre": "THE REPUBLIC OF  BEAUTY",
@@ -4965,9 +6330,13 @@
             "null"
         ],
         "nodo": "57",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/the_republic_of_beauty.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/the_republic_of_beauty.jpg",
         "piso": "1",
-        "geo": " A-100a + A-100b + A-104a + A-104b",
+        "geo": [
+            " A-100a+A-100b+A-104a+A-104b"
+        ],
+        "geoTemp": " A-100a+A-100b+A-104a+A-104b",
         "area": "PASILLO 1"
     },
     {
@@ -4984,9 +6353,109 @@
         ],
         "nodo": "29",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Top.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Top.jpg",
         "piso": "1",
-        "geo": "C-138",
+        "geo": [
+            "C-138"
+        ],
+        "geoTemp": "C-138",
         "area": "Pasillo 2"
+    },
+    {
+        "nombre": "Tabaquería Wolff",
+        "rubro": [
+            "Libros y Revistas",
+            "Tabaquería"
+        ],
+        "productos": [
+            "tabaquería",
+            "tabaco",
+            "cigarros",
+            "puros",
+            "enrroladoras",
+            "boquillas",
+            "filtros",
+            "encendedores",
+            "helados",
+            "loto",
+            "kino"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/wolff.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/wolff.jpg",
+        "piso": "2",
+        "geo": [
+            "D-234"
+        ],
+        "geoTemp": "D-234",
+        "area": "Pasillo 6"
+    },
+    {
+        "nombre": "Tanta",
+        "rubro": [
+            "Las Terrazas",
+            "Restaurantes"
+        ],
+        "productos": [
+            "restaurant",
+            "comida peruana",
+            "sabores",
+            "terrazas",
+            "aires"
+        ],
+        "nodo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/tanta.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/tanta.jpg",
+        "piso": "1",
+        "geo": [
+            "T-136+T-140+T-144+T-148+MP-166+MP-170"
+        ],
+        "geoTemp": "T-136+T-140+T-144+T-148+MP-166+MP-170",
+        "area": "Aires"
+    },
+    {
+        "nombre": "Tarragona",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Tarragona",
+            "Pollo Crispy",
+            "Papas Fritas",
+            "Naturistas"
+        ],
+        "nodo": "335",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tarragona.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tarragona.jpg",
+        "piso": "3",
+        "geo": [
+            "B-342"
+        ],
+        "geoTemp": "B-342",
+        "area": "Food Court"
+    },
+    {
+        "nombre": "Telepizza",
+        "rubro": [
+            "Food Court"
+        ],
+        "productos": [
+            "Coca Cola",
+            "Bresler",
+            "Pizzas",
+            "Palos de Ajo",
+            "Mini Calzonne",
+            "Bebidas y Helados"
+        ],
+        "nodo": "336",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Telepizza.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Telepizza.jpg",
+        "piso": "3",
+        "geo": [
+            "B-346"
+        ],
+        "geoTemp": "B-346",
+        "area": "Food Court"
     },
     {
         "nombre": "Teletrak",
@@ -4999,32 +6468,18 @@
         ],
         "nodo": "229",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Teletrak.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Teletrak.jpg",
         "piso": "2",
-        "geo": "BDK-2085-2089-2093-2097",
+        "geo": [
+            "BDK-2085+BDK-2089+BDK-2093+BDK-2097"
+        ],
+        "geoTemp": "BDK-2085+BDK-2089+BDK-2093+BDK-2097",
         "area": "Bulevar Deck"
-    },
-    {
-        "nombre": "Timberland",
-        "rubro": [
-            "Accesorios Masculinos",
-            "Calzado Masculino",
-            "Vestuario Masculino"
-        ],
-        "productos": [
-            "Timberland",
-            "Calzado",
-            "Vestuario"
-        ],
-        "nodo": "13",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Timberland.jpg",
-        "piso": "1",
-        "geo": "C - 121 - 125",
-        "area": "Pasillo 2"
     },
     {
         "nombre": "Todo Moda",
         "rubro": [
-            "Accesorios Femeninos"
+            "Accesorios"
         ],
         "productos": [
             "Todo Moda",
@@ -5035,14 +6490,18 @@
         ],
         "nodo": "86",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todomoda.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Todomoda.jpg",
         "piso": "1",
-        "geo": "D-121",
+        "geo": [
+            "D-121"
+        ],
+        "geoTemp": "D-121",
         "area": "Pasillo 3"
     },
     {
         "nombre": "Todo Piel",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino",
             "Vestuario Femenino"
         ],
@@ -5052,9 +6511,34 @@
         ],
         "nodo": "187",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Todopiel.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Todopiel.jpg",
         "piso": "2",
-        "geo": "D-233-237",
+        "geo": [
+            "D-233+D-237"
+        ],
+        "geoTemp": "D-233+D-237",
         "area": "Pasillo 6"
+    },
+    {
+        "nombre": "Tommy Hilfiger",
+        "rubro": [
+            "Vestuario Masculino"
+        ],
+        "productos": [
+            "Vestuario Masculino",
+            "Pantalones",
+            "Poleras",
+            "Camisas"
+        ],
+        "nodo": "50",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/TommyHilfiger.JPG",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/TommyHilfiger.JPG",
+        "piso": "1",
+        "geo": [
+            "BA-109"
+        ],
+        "geoTemp": "BA-109",
+        "area": "Aires"
     },
     {
         "nombre": "Tottus",
@@ -5067,8 +6551,12 @@
         ],
         "nodo": "144",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tottus.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tottus.jpg",
         "piso": "1",
-        "geo": "s/n",
+        "geo": [
+            "H-200"
+        ],
+        "geoTemp": "H-200",
         "area": "null"
     },
     {
@@ -5091,24 +6579,33 @@
         ],
         "nodo": "320",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/toyplanet.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/toyplanet.jpg",
         "piso": "3",
-        "geo": "C 362 366",
+        "geo": [
+            "C-362+C-366"
+        ],
+        "geoTemp": "C-362+C-366",
         "area": "Pasillo 8"
     },
     {
         "nombre": "Toyota",
         "rubro": [
-            "Servicio Automotriz",
-            "Accesorios Generales"
+            "Accesorios",
+            "Servicio Automotriz"
         ],
         "productos": [
-            "Toyora y Daihatsu",
-            "Automoviles y accesorios"
+            "Automoviles y accesorios",
+            "Toyota",
+            "Daihatsu"
         ],
         "nodo": "134",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Toyota.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Toyota.jpg",
         "piso": "1",
-        "geo": "AP-118",
+        "geo": [
+            "AP-118"
+        ],
+        "geoTemp": "AP-118",
         "area": "Locales Autoplaza"
     },
     {
@@ -5127,8 +6624,12 @@
         ],
         "nodo": "81",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Trial.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Trial.jpg",
         "piso": "1",
-        "geo": "C-329-333-337",
+        "geo": [
+            "C-329+C-333+C-337"
+        ],
+        "geoTemp": "C-329+C-333+C-337",
         "area": "Pasillo 4"
     },
     {
@@ -5142,8 +6643,12 @@
         ],
         "nodo": "151",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Tronwell.jpg",
-        "piso": "1",
-        "geo": "BMCD 1401",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Tronwell.jpg",
+        "piso": "2",
+        "geo": [
+            "BMCD-1401"
+        ],
+        "geoTemp": "BMCD-1401",
         "area": "Bulevar de Servicios"
     },
     {
@@ -5159,34 +6664,39 @@
             "accesorios masculinos"
         ],
         "nodo": "310",
-        "logo": "null",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/ufo.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/ufo.jpg",
         "piso": "3",
-        "geo": "C -329 + C -333 + C -337",
+        "geo": [
+            "C-329+C-333+C-337"
+        ],
+        "geoTemp": "C-329+C-333+C-337",
         "area": "Pasillo Falabella"
     },
     {
-        "nombre": "Umbro",
+        "nombre": "Uranium",
         "rubro": [
-            "Calzado Deportivo",
-            "Deporte",
-            "Vestuario Deportivo"
+            "Vestuario Juvenil"
         ],
         "productos": [
-            "Umbro",
-            "Zapatillas",
-            "Vestuario",
-            "Accesorios"
+            "Vestuario Juvenil",
+            "Vestuario Femenino",
+            "Accesorios Femeninos"
         ],
-        "nodo": "324",
-        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/umbro.jpg",
-        "piso": "3",
-        "geo": "C-318 - C-322",
-        "area": "Pasillo 8"
+        "nodo": "190",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/uranium.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/uranium.jpg",
+        "piso": "2",
+        "geo": [
+            "D-257"
+        ],
+        "geoTemp": "D-257",
+        "area": "Pasillo Ripley"
     },
     {
         "nombre": "Varsovienne",
         "rubro": [
-            "Alimentos y Bebidas"
+            "Bebidas"
         ],
         "productos": [
             "Chocolates",
@@ -5195,25 +6705,33 @@
         ],
         "nodo": "43",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Varsovienne.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Varsovienne.jpg",
         "piso": "1",
-        "geo": "BA 131",
+        "geo": [
+            "BA-131"
+        ],
+        "geoTemp": "BA-131",
         "area": "Aires"
     },
     {
-        "nombre": "Via uno",
+        "nombre": "Via Uno",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino"
         ],
         "productos": [
             "Via Uno",
             "Calzado y Accesorios"
         ],
-        "nodo": "246",
+        "nodo": "BA-103",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/viauno.jpg",
-        "piso": "2",
-        "geo": "C-214",
-        "area": "Pasillo 5"
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/viauno.jpg",
+        "piso": "1",
+        "geo": [
+            "BA-103"
+        ],
+        "geoTemp": "BA-103",
+        "area": "Aires"
     },
     {
         "nombre": "Vitamina",
@@ -5226,8 +6744,12 @@
         ],
         "nodo": "162",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/vitamina.jpg",
-        "piso": "1",
-        "geo": "BMCD-1020-1024-1028-1032-1049-1053",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/vitamina.jpg",
+        "piso": "2",
+        "geo": [
+            "BMCD-1020+BMCD-1024+BMCD-1028+BMCD-1032+BMCD-1049+BMCD-1053"
+        ],
+        "geoTemp": "BMCD-1020+BMCD-1024+BMCD-1028+BMCD-1032+BMCD-1049+BMCD-1053",
         "area": "Bulevar McDonald's"
     },
     {
@@ -5241,15 +6763,19 @@
         ],
         "nodo": "108",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/volkswagen.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/volkswagen.jpg",
         "piso": "1",
-        "geo": "AP-124-125",
+        "geo": [
+            "AP-124+AP-125"
+        ],
+        "geoTemp": "AP-124+AP-125",
         "area": "Locales Autoplaza"
     },
     {
         "nombre": "Vox",
         "rubro": [
-            "Hogar y Regalos",
-            "Accesorios Generales"
+            "Accesorios",
+            "Hogar y Regalos"
         ],
         "productos": [
             "Vox",
@@ -5259,14 +6785,18 @@
         ],
         "nodo": "281",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/VOX.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/VOX.jpg",
         "piso": "3",
-        "geo": "A-373",
+        "geo": [
+            "A-373"
+        ],
+        "geoTemp": "A-373",
         "area": "Pasillo 10"
     },
     {
         "nombre": "Wado´s",
         "rubro": [
-            "Accesorios Femeninos",
+            "Accesorios",
             "Calzado Femenino",
             "Vestuario Femenino"
         ],
@@ -5280,8 +6810,12 @@
         ],
         "nodo": "84",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Wados.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Wados.jpg",
         "piso": "1",
-        "geo": "A-101-105-109",
+        "geo": [
+            "A-101+A-105+A-109"
+        ],
+        "geoTemp": "A-101+A-105+A-109",
         "area": "Pasillo 4"
     },
     {
@@ -5298,8 +6832,12 @@
         ],
         "nodo": "61",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/weloveshoes.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/weloveshoes.jpg",
         "piso": "1",
-        "geo": "A-130-134",
+        "geo": [
+            "A-130+A-134"
+        ],
+        "geoTemp": "A-130+A-134",
         "area": "Pasillo 4"
     },
     {
@@ -5320,8 +6858,12 @@
         ],
         "nodo": "315",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/weplay.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/weplay.jpg",
         "piso": "3",
-        "geo": "C-353",
+        "geo": [
+            "C-353"
+        ],
+        "geoTemp": "C-353",
         "area": "Pasillo 8"
     },
     {
@@ -5337,15 +6879,18 @@
         ],
         "nodo": "289",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/xtremesaxoline.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/xtremesaxoline.jpg",
         "piso": "3",
-        "geo": "A 313 - 317",
+        "geo": [
+            "A-313+A-317"
+        ],
+        "geoTemp": "A-313+A-317",
         "area": "Pasillo 10"
     },
     {
         "nombre": "Xurros Café",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "Xurros Café",
@@ -5358,15 +6903,18 @@
         ],
         "nodo": "20",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Xurroscafe.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Xurroscafe.jpg",
         "piso": "1",
-        "geo": "C-173",
+        "geo": [
+            "C-173"
+        ],
+        "geoTemp": "C-173",
         "area": "Pasillo 2"
     },
     {
         "nombre": "Yogen Fruz",
         "rubro": [
-            "Cafeterías y Heladerías",
-            "Restaurantes"
+            "Cafeterías y Heladerías"
         ],
         "productos": [
             "yogenfruz",
@@ -5374,8 +6922,12 @@
         ],
         "nodo": "350",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Yogen.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Yogen.jpg",
         "piso": "3",
-        "geo": "A-342",
+        "geo": [
+            "A-342"
+        ],
+        "geoTemp": "A-342",
         "area": "Pasillo 10"
     },
     {
@@ -5388,16 +6940,18 @@
         ],
         "nodo": "316",
         "logo": "http://www.mallplaza.cl/images/stories/youserv2.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/youserv2.jpg",
         "piso": "3",
-        "geo": "C-377 + C-381 + C-385",
+        "geo": [
+            "C-377+C-381+C-385"
+        ],
+        "geoTemp": "C-377+C-381+C-385",
         "area": "Pasillo Falabella"
     },
     {
         "nombre": "Zara",
         "rubro": [
-            "Accesorios Femeninos",
-            "Accesorios Infantiles",
-            "Accesorios Masculinos",
+            "Accesorios",
             "Calzado Femenino",
             "Calzado Infantil",
             "Calzado Masculino",
@@ -5412,8 +6966,34 @@
         ],
         "nodo": "183",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/Zara.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/Zara.jpg",
         "piso": "2",
-        "geo": "A-225",
+        "geo": [
+            "A-225"
+        ],
+        "geoTemp": "A-225",
         "area": "Plaza Central"
+    },
+    {
+        "nombre": "Zoo York",
+        "rubro": [
+            "Calzado Femenino",
+            "Calzado Masculino"
+        ],
+        "productos": [
+            "patinetas",
+            "ropa",
+            "accesorios",
+            "zapatillas"
+        ],
+        "nodo": "251",
+        "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/zoo-york.jpg",
+        "logoLocal": "/home/ddmallplaza/mall/backpack/oeste/img/zoo-york.jpg",
+        "piso": "2",
+        "geo": [
+            "B-206"
+        ],
+        "geoTemp": "B-206",
+        "area": "ex pasillo Johnsons"
     }
 ]

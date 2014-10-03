@@ -1,6 +1,24 @@
-request.get('http://mallplaza.cl/xml/tiendas.php?siteid=mallplaza-'+process.argv[2], function (error, response, body) {
-    if (!error && response.statusCode == 200) {
-    var tiendasXml = body;
+var fs = require('fs');
+var request = require('request');
+var libxmljs = require("libxmljs");
+
+function getData(array, valor) {
+  var input = array.find(valor);
+  if (!input[0].child(0)) { input = "null" }
+  else { input = input[0].child(0).text(); }
+  return input;
+}
+
+function sortJSON(data, key) {
+    return data.sort(function (a, b) {
+        var x = a[key];
+        var y = b[key];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+}
+
+fs.readFile(process.argv[2]+'.xml', 'utf8', function (error, data) {
+    var tiendasXml = data;
     tiendasXml = libxmljs.parseXmlString(tiendasXml);
 	tiendasXml = tiendasXml.find('//tienda');
 	var tiendasJson = [];
@@ -11,7 +29,8 @@ for (i=0;i<tiendasXml.length;i++) {
 	if (typeof rubro === "string") { rubro = rubro.split(',');}
 	var productos = getData(tiendasXml[i], 'tags');	
 	if (typeof productos === "string") { productos = productos.split(',');}
-	var geo = getData(tiendasXml[i], 'local');
+	var geoTemp = getData(tiendasXml[i], 'local');
+	var geo = geoTemp.split("+");
 	var nodo = getData(tiendasXml[i], 'referencia_plano');
 	var logo = getData(tiendasXml[i], 'logo');
 	var piso = getData(tiendasXml[i], 'piso');
@@ -24,15 +43,15 @@ for (i=0;i<tiendasXml.length;i++) {
 		logo: logo,
 		piso: piso,
 		geo: geo,
+		geoTemp: geoTemp,
 		area: area
 	});
 }
 
 tiendasJson = sortJSON(tiendasJson, 'nombre');	
 tiendasJson = JSON.stringify(tiendasJson, null, 4);
-fs.writeFile(process.argv[2]+'/tiendas.json', tiendasJson, function (err) {
+fs.writeFile(process.argv[2]+'.json', tiendasJson, function (err) {
   if (err) throw err;
   console.log('tiendas.json saved');
 });
-}
 });

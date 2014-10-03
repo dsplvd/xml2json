@@ -1,37 +1,44 @@
 [
     {
-        "titulo": "¡Súmate a la Causa de Mall Plaza!",
-        "descripcion": "<div>Cambia tu <strong>bolsa de compra</strong> por una <strong>reutilizable</strong>, úsala una y otra vez, y así ayudarás al <strong>medio ambiente</strong>.   </div>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/causaegana/causa_egana_stgo_detalle.jpg"
+        "titulo": "¡No te pierdas Expo Emprendimientos 2014!",
+        "descripcion": "<div style=\"text-align: justify;\">Ven a descubrir emprendimientos que se convirtieron en fuentes de trabajo en Mall Plaza Oeste   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/2queestapasando/cerrillos_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cerrillos_detalle.jpg"
     },
     {
-        "titulo": "¡Ya somos 1 millón de fans en Facebook!",
-        "descripcion": "<p>Queremos festejar en grande que nuestra comunidad sigue creciendo, mantente alerta en el<strong> Fans Page</strong> y participa por increíbles premios.  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanas/millon_fans__detalle.jpg"
+        "titulo": "¡Iníciate en el Running con Reebok!",
+        "descripcion": "<div style=\"text-align: justify;\">Aprovecha las increíbles clínicas que la tienda tendrá para ti en Mall Plaza Egaña y Oeste   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/2queestapasando/rundetalle.png",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/rundetalle.png"
     },
     {
-        "titulo": "La Roja sale a la Cancha para cumplir lo que pides",
-        "descripcion": "<p>No te pierdas el <strong>PUMA Tour 2014: A La Roja le Pido</strong> y conoce la<strong> camiseta</strong> que usará la <strong>Selección Chilena</strong>.  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/puma2_tour_detalle.jpg"
+        "titulo": "Revisa el Making Of de #SoyCeroPlastico",
+        "descripcion": "<div style=\"text-align: justify;\">Conoce todo lo que pasó tras de cámaras durante el spot de Charly Alberti y María José Bello   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/2queestapasando/makingof_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/makingof_detalle.jpg"
     },
     {
-        "titulo": "Sofía Gómez está dispuesta hacer ¡Todo por amor!",
-        "descripcion": "<p>Ella fue la ganadora de este concurso, al gritar por las redes sociales <strong>#TeQuieroTantoQue</strong>  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/01_enamorados_ganadora_detalle.jpg"
+        "titulo": "¡Ya hemos cambiado 4 mil bolsas #Soyceroplastico!",
+        "descripcion": "<p>Aún puedes cambiar tu bolsa de compra por una reutilizable, te esperamos hasta las 21:30 horas   </p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/cobertura/bolsas_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/bolsas_detalle.jpg"
     },
     {
-        "titulo": "¡Ven a Las Terrazas de Mall Plaza Oeste y descubre en 100 Montaditos  el sabor de la cocina española!",
-        "descripcion": "<p>Porque hay vida cuando disfrutamos de la <strong>mejor gastronomía</strong>, te invitamos a visitar <strong>100 Montaditos.  </strong></p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/02_100_montaditos_detalle.jpg"
+        "titulo": "¡Esta pasando de todo con #Soyceroplastico!",
+        "descripcion": "<p><span style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px;\">Todos se contagian con esta causa, porque el espírito verde se siente en cada actividad que hoy hemos vivido.   </span></p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/cobertura/actividades_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/actividades_detalle.jpg"
     },
     {
-        "titulo": "¡No te preocupes si no alcanzas a ir a la Municipalidad de Cerrillos! ",
-        "descripcion": "<p>Porque en <strong>Mall Plaza Oeste</strong> también puedes realizar tus <strong>trámites</strong> de <strong>permiso de circulación</strong>.  </p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/02_pago_permiso_circulacionmpo_detalle.jpg"
+        "titulo": "Si ya tienes tu bolsa #Soyceroplastico ¡Comparte tu foto con la bolsa en tus redes sociales!",
+        "descripcion": "<div>Tenemos muchas actividades preparadas para todos los que nos preocupamos por el medio ambiente.   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/cobertura/expicion_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/expicion_detalle.jpg"
     },
     {
-        "titulo": "¡Ven y refréscate de nuevos aires!  Conoce y sorpréndete con Aires de Mall Plaza Oeste",
-        "descripcion": "<p>Descubre lo <strong>último en moda y tendencias</strong> en este innovador espacio que <strong>cautivará tus sentidos.   </strong></p>",
-        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/aires_mpoeste_detalle.jpg"
+        "titulo": "¡Ya comenzamos a entregar las bolsas #soyceroplastico!",
+        "descripcion": "<div>Mucha gente se está sumando a la causa, ven a tu Mall Plaza más cercano y cambia tu bolsa de plástico por una reutilizable   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/cobertura/entrega_detalle.jpg",
+        "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entrega_detalle.jpg"
     }
 ]
