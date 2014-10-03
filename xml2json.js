@@ -42,7 +42,7 @@ for (i=0;i<tiendasXml.length;i++) {
 	var productos = getData(tiendasXml[i], 'tags');	
 	if (typeof productos === "string") { productos = productos.split(',');}
 	var geoTemp = getData(tiendasXml[i], 'local');
-	var geo = geoTemp.split();
+	var geo = geoTemp.split("+");
 	var nodo = getData(tiendasXml[i], 'referencia_plano');
 	var logo = getData(tiendasXml[i], 'logo');
 	var piso = getData(tiendasXml[i], 'piso');

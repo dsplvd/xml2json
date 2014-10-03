@@ -44,7 +44,9 @@
         "logoLocal": "/backpack/100Futbol.jpg",
         "piso": "3",
         "geo": [
-            "A-321+A-325+A-329"
+            "A-321",
+            "A-325",
+            "A-329"
         ],
         "geoTemp": "A-321+A-325+A-329",
         "area": "Pasillo 10"
@@ -92,7 +94,11 @@
         "logoLocal": "/backpack/Adidas.jpg",
         "piso": "1",
         "geo": [
-            "A-161+A-165+A-169+A-173+A-177"
+            "A-161",
+            "A-165",
+            "A-169",
+            "A-173",
+            "A-177"
         ],
         "geoTemp": "A-161+A-165+A-169+A-173+A-177",
         "area": "Pasillo 4"
@@ -113,7 +119,8 @@
         "logoLocal": "/backpack/adidas_original.jpg",
         "piso": "2",
         "geo": [
-            "B-214+B-216"
+            "B-214",
+            "B-216"
         ],
         "geoTemp": "B-214+B-216",
         "area": "ex pasillo Johnsons"
@@ -142,7 +149,7 @@
             "BDK-2040a"
         ],
         "geoTemp": "BDK-2040a",
-        "area": "Bulevar Deck"
+        "area": "Bulevar Deck - Exterior"
     },
     {
         "nombre": "Albin Trotter",
@@ -162,7 +169,9 @@
         "logoLocal": "/backpack/albin-trotter.png",
         "piso": "3",
         "geo": [
-            "D-318+D-322+D-326"
+            "D-318",
+            "D-322",
+            "D-326"
         ],
         "geoTemp": "D-318+D-322+D-326",
         "area": "Pasillo Ripley"
@@ -183,7 +192,8 @@
         "logoLocal": "/backpack/dib.png",
         "piso": "3",
         "geo": [
-            "D-364+D-368"
+            "D-364",
+            "D-368"
         ],
         "geoTemp": "D-364+D-368",
         "area": "Pasillo Ripley"
@@ -232,7 +242,9 @@
         "logoLocal": "/backpack/Alpinowagen.jpg",
         "piso": "1",
         "geo": [
-            "AP-153+AP-154+AP-155"
+            "AP-153",
+            "AP-154",
+            "AP-155"
         ],
         "geoTemp": "AP-153+AP-154+AP-155",
         "area": "Locales Autoplaza"
@@ -256,7 +268,11 @@
         "logoLocal": "/backpack/Americanino.jpg",
         "piso": "3",
         "geo": [
-            "C-301+C-305+C-309+C-310+C-317"
+            "C-301",
+            "C-305",
+            "C-309",
+            "C-310",
+            "C-317"
         ],
         "geoTemp": "C-301+C-305+C-309+C-310+C-317",
         "area": "Pasillo 8"
@@ -277,7 +293,8 @@
         "logoLocal": "/backpack/Americanino.jpg",
         "piso": "1",
         "geo": [
-            "BA-144+BA-140"
+            "BA-144",
+            "BA-140"
         ],
         "geoTemp": "BA-144+BA-140",
         "area": "Aires"
@@ -298,7 +315,8 @@
         "logoLocal": "/backpack/Amphora.jpg",
         "piso": "2",
         "geo": [
-            "A-237+A241a"
+            "A-237",
+            "A241a"
         ],
         "geoTemp": "A-237+A241a",
         "area": "Pasillo 7"
@@ -342,7 +360,8 @@
         "logoLocal": "/backpack/Antena3.jpg",
         "piso": "2",
         "geo": [
-            " A-289+A-293"
+            " A-289",
+            "A-293"
         ],
         "geoTemp": " A-289+A-293",
         "area": "Pasillo Paris"
@@ -364,7 +383,8 @@
         "logoLocal": "/backpack/Arrow.jpg",
         "piso": "1",
         "geo": [
-            "C-145+C-149"
+            "C-145",
+            "C-149"
         ],
         "geoTemp": "C-145+C-149",
         "area": "Pasillo 2"
@@ -412,7 +432,10 @@
         "logoLocal": "/backpack/audiomusica.jpg",
         "piso": "3",
         "geo": [
-            "A-378+A-374+A-370+BS-301"
+            "A-378",
+            "A-374",
+            "A-370",
+            "BS-301"
         ],
         "geoTemp": "A-378+A-374+A-370+BS-301",
         "area": "Pasillo 9"
@@ -435,7 +458,8 @@
         "logoLocal": "/backpack/automotoraruz.jpg",
         "piso": "1",
         "geo": [
-            "AU-101+A-105"
+            "AU-101",
+            "A-105"
         ],
         "geoTemp": "AU-101+A-105",
         "area": "Locales Autoplaza"
@@ -455,7 +479,8 @@
         "logoLocal": "/backpack/Azaleia.jpg",
         "piso": "1",
         "geo": [
-            "A-106c+A-110"
+            "A-106c",
+            "A-110"
         ],
         "geoTemp": "A-106c+A-110",
         "area": "Pasillo 4"
@@ -499,7 +524,9 @@
         "logoLocal": "/backpack/babycenter.jpg",
         "piso": "2",
         "geo": [
-            "D-250+D-254+D-258"
+            "D-250",
+            "D-254",
+            "D-258"
         ],
         "geoTemp": "D-250+D-254+D-258",
         "area": "Pasillo 6"
@@ -530,7 +557,8 @@
         "logoLocal": "/backpack/babyinfanti.jpg",
         "piso": "1",
         "geo": [
-            "C158+C162"
+            "C158",
+            "C162"
         ],
         "geoTemp": "C158+C162",
         "area": "Pasillo 2"
@@ -598,9 +626,14 @@
         "nodo": "156",
         "logo": "http://www.mallplaza.cl/images/stories/compartido/tiendas/bbva.jpg",
         "logoLocal": "/backpack/bbva.jpg",
-        "piso": "2",
+        "piso": "1",
         "geo": [
-            "BMCD-1001+BMCD-1005+BMCD-1009+BMCD-1013+BMCD-1017+BMCD-1021"
+            "BMCD-1001",
+            "BMCD-1005",
+            "BMCD-1009",
+            "BMCD-1013",
+            "BMCD-1017",
+            "BMCD-1021"
         ],
         "geoTemp": "BMCD-1001+BMCD-1005+BMCD-1009+BMCD-1013+BMCD-1017+BMCD-1021",
         "area": "Bulevar McDonald´s - Exterior"
@@ -622,7 +655,10 @@
         "logoLocal": "/backpack/bancobci.jpg",
         "piso": "1",
         "geo": [
-            "C-278+C-282+C-286+E205"
+            "C-278",
+            "C-282",
+            "C-286",
+            "E205"
         ],
         "geoTemp": "C-278+C-282+C-286+E205",
         "area": "Bulevar Financiero - Exterior"
@@ -644,7 +680,8 @@
         "logoLocal": "/backpack/bancoestado.jpg",
         "piso": "1",
         "geo": [
-            "BS-104+BS-106"
+            "BS-104",
+            "BS-106"
         ],
         "geoTemp": "BS-104+BS-106",
         "area": "Bulevar Financiero - Exterior"
@@ -688,7 +725,8 @@
         "logoLocal": "/backpack/bancoitau.jpg",
         "piso": "1",
         "geo": [
-            "BS-110+BS-112"
+            "BS-110",
+            "BS-112"
         ],
         "geoTemp": "BS-110+BS-112",
         "area": "Bulevar Financiero - Exterior"
@@ -710,7 +748,9 @@
         "logoLocal": "/backpack/bancoripley.jpg",
         "piso": "2",
         "geo": [
-            "D-270+D-274+E-204"
+            "D-270",
+            "D-274",
+            "E-204"
         ],
         "geoTemp": "D-270+D-274+E-204",
         "area": "Pasillo 6"
@@ -732,7 +772,8 @@
         "logoLocal": "/backpack/bancosantander.jpg",
         "piso": "1",
         "geo": [
-            "BS-114+BS-116"
+            "BS-114",
+            "BS-116"
         ],
         "geoTemp": "BS-114+BS-116",
         "area": "Bulevar Financiero - Exterior"
@@ -829,7 +870,9 @@
         "logoLocal": "/backpack/Bata.jpg",
         "piso": "1",
         "geo": [
-            "B-114a+B-118a+B-122a"
+            "B-114a",
+            "B-118a",
+            "B-122a"
         ],
         "geoTemp": "B-114a+B-118a+B-122a",
         "area": "Pasillo 1"
@@ -862,7 +905,8 @@
         "logoLocal": "/backpack/batafamiliar.jpg",
         "piso": "1",
         "geo": [
-            "C-130+C-134"
+            "C-130",
+            "C-134"
         ],
         "geoTemp": "C-130+C-134",
         "area": "Pasillo 2"
@@ -904,7 +948,8 @@
         "logoLocal": "/backpack/Belsport.jpg",
         "piso": "1",
         "geo": [
-            "C-114+C-116"
+            "C-114",
+            "C-116"
         ],
         "geoTemp": "C-114+C-116",
         "area": "Pasillo 2"
@@ -924,7 +969,11 @@
         "logoLocal": "/backpack/Belsport.jpg",
         "piso": "2",
         "geo": [
-            "C-245a+C-245b+C-249a+C-249b+C-253"
+            "C-245a",
+            "C-245b",
+            "C-249a",
+            "C-249b",
+            "C-253"
         ],
         "geoTemp": "C-245a+C-245b+C-249a+C-249b+C-253",
         "area": "Pasillo 5"
@@ -968,7 +1017,9 @@
         "logoLocal": "/backpack/bip.jpg",
         "piso": "3",
         "geo": [
-            "A-370+A-374+A-978 "
+            "A-370",
+            "A-374",
+            "A-978 "
         ],
         "geoTemp": "A-370+A-374+A-978 ",
         "area": "Pasillo Ripley"
@@ -987,7 +1038,9 @@
         "logoLocal": "/backpack/Block.jpg",
         "piso": "2",
         "geo": [
-            "A-241b+A-245+A-249"
+            "A-241b",
+            "A-245",
+            "A-249"
         ],
         "geoTemp": "A-241b+A-245+A-249",
         "area": "Pasillo Paris"
@@ -1059,7 +1112,7 @@
         "area": "Pasillo 3"
     },
     {
-        "nombre": "Bravissmo Oeste",
+        "nombre": "Bravissimo Oeste",
         "rubro": [
             "Cafeterías y Heladerías"
         ],
@@ -1074,7 +1127,8 @@
         "logoLocal": "/backpack/bravissimo.jpg",
         "piso": "1",
         "geo": [
-            "B-138b+B-142"
+            "B-138b",
+            "B-142"
         ],
         "geoTemp": "B-138b+B-142",
         "area": "Pasillo 1"
@@ -1167,7 +1221,8 @@
         "logoLocal": "/backpack/BubbleGummers.jpg",
         "piso": "1",
         "geo": [
-            "C-153+C-157"
+            "C-153",
+            "C-157"
         ],
         "geoTemp": "C-153+C-157",
         "area": "Pasillo 2"
@@ -1211,7 +1266,8 @@
         "logoLocal": "/backpack/Buffetexpress.jpg",
         "piso": "3",
         "geo": [
-            "B-322+B-318"
+            "B-322",
+            "B-318"
         ],
         "geoTemp": "B-322+B-318",
         "area": "Food Court"
@@ -1253,7 +1309,8 @@
         "logoLocal": "/backpack/CAT.jpg",
         "piso": "1",
         "geo": [
-            "BA-124+BA-128"
+            "BA-124",
+            "BA-128"
         ],
         "geoTemp": "BA-124+BA-128",
         "area": "Pasillo Aires"
@@ -1277,7 +1334,9 @@
         "logoLocal": "/backpack/cic.jpg",
         "piso": "3",
         "geo": [
-            "D-317+D-321+D-325"
+            "D-317",
+            "D-321",
+            "D-325"
         ],
         "geoTemp": "D-317+D-321+D-325",
         "area": "Pasillo 9"
@@ -1359,7 +1418,10 @@
         "logoLocal": "/backpack/call-it-spring.gif",
         "piso": "3",
         "geo": [
-            "A-301+A-305+A-309+A-313b"
+            "A-301",
+            "A-305",
+            "A-309",
+            "A-313b"
         ],
         "geoTemp": "A-301+A-305+A-309+A-313b",
         "area": "Pasillo Ripley"
@@ -1380,7 +1442,8 @@
         "logoLocal": "/backpack/cannon.jpg",
         "piso": "1",
         "geo": [
-            "D-125+D-129"
+            "D-125",
+            "D-129"
         ],
         "geoTemp": "D-125+D-129",
         "area": "Pasillo 3"
@@ -1403,7 +1466,8 @@
         "logoLocal": "/backpack/Capellini.jpg",
         "piso": "2",
         "geo": [
-            "C-222+C-226a"
+            "C-222",
+            "C-226a"
         ],
         "geoTemp": "C-222+C-226a",
         "area": "Pasillo 5"
@@ -1422,7 +1486,8 @@
         "logoLocal": "/backpack/carmeister.jpg",
         "piso": "1",
         "geo": [
-            "AU-100+AU-104"
+            "AU-100",
+            "AU-104"
         ],
         "geoTemp": "AU-100+AU-104",
         "area": "Locales Autoplaza - Exterior"
@@ -1441,7 +1506,8 @@
         "logoLocal": "/backpack/cardinale.jpg",
         "piso": "1",
         "geo": [
-            "D-114+D-118 a"
+            "D-114",
+            "D-118 a"
         ],
         "geoTemp": "D-114+D-118 a",
         "area": "Pasillo 3"
@@ -1492,7 +1558,8 @@
         "logoLocal": "/backpack/casablanca.jpg",
         "piso": "1",
         "geo": [
-            "C-186+C-189"
+            "C-186",
+            "C-189"
         ],
         "geoTemp": "C-186+C-189",
         "area": "Pasillo 2"
@@ -1518,7 +1585,9 @@
         "logoLocal": "/backpack/casapichara.jpg",
         "piso": "1",
         "geo": [
-            "BT-146+BT-148+BT-150"
+            "BT-146",
+            "BT-148",
+            "BT-150"
         ],
         "geoTemp": "BT-146+BT-148+BT-150",
         "area": "Bulevar Tottus "
@@ -1538,7 +1607,9 @@
         "logoLocal": "/backpack/CasaRoyal.jpg",
         "piso": "1",
         "geo": [
-            "D-137+D-157+D-161"
+            "D-137",
+            "D-157",
+            "D-161"
         ],
         "geoTemp": "D-137+D-157+D-161",
         "area": "Pasillo Ripley"
@@ -1560,7 +1631,10 @@
         "logoLocal": "/backpack/CasaRoyal.jpg",
         "piso": "1",
         "geo": [
-            "D-149+D-153+D-157+D-161"
+            "D-149",
+            "D-153",
+            "D-157",
+            "D-161"
         ],
         "geoTemp": "D-149+D-153+D-157+D-161",
         "area": "Pasillo 3"
@@ -1601,7 +1675,11 @@
         "logoLocal": "/backpack/casaideas.jpg",
         "piso": "1",
         "geo": [
-            "D-149+D-153+D-157+D-161+E-101"
+            "D-149",
+            "D-153",
+            "D-157",
+            "D-161",
+            "E-101"
         ],
         "geoTemp": "D-149+D-153+D-157+D-161+E-101",
         "area": "Pasillo 2"
@@ -1629,7 +1707,12 @@
         "logoLocal": "/backpack/Centraldefrenosgoodyear.jpg",
         "piso": "1",
         "geo": [
-            "AP-178+AP-179+AP-180+AP-181+AP-182+AP-183"
+            "AP-178",
+            "AP-179",
+            "AP-180",
+            "AP-181",
+            "AP-182",
+            "AP-183"
         ],
         "geoTemp": "AP-178+AP-179+AP-180+AP-181+AP-182+AP-183",
         "area": "Locales Autoplaza - Exterior"
@@ -1676,7 +1759,8 @@
         "logoLocal": "/backpack/Chantilly.jpg",
         "piso": "1",
         "geo": [
-            "D-141+D-145"
+            "D-141",
+            "D-145"
         ],
         "geoTemp": "D-141+D-145",
         "area": "Pasillo 3"
@@ -1695,7 +1779,8 @@
         "logoLocal": "/backpack/chery.jpg",
         "piso": "1",
         "geo": [
-            "ST-115+ST-119"
+            "ST-115",
+            "ST-119"
         ],
         "geoTemp": "ST-115+ST-119",
         "area": "Locales Autoplaza - Exterior"
@@ -1761,7 +1846,9 @@
         "logoLocal": "/backpack/Chilexpress.jpg",
         "piso": "1",
         "geo": [
-            "BT-125+BT-127+BT-129b"
+            "BT-125",
+            "BT-127",
+            "BT-129b"
         ],
         "geoTemp": "BT-125+BT-127+BT-129b",
         "area": "Bulevar Tottus - Exterior"
@@ -1893,7 +1980,13 @@
         "logoLocal": "/backpack/claro.jpg",
         "piso": "2",
         "geo": [
-            "BDK-2017+BDK-2021+BDK-2029+BDK-2033+BDK-2037+BDK-2041+BDK-2045"
+            "BDK-2017",
+            "BDK-2021",
+            "BDK-2029",
+            "BDK-2033",
+            "BDK-2037",
+            "BDK-2041",
+            "BDK-2045"
         ],
         "geoTemp": "BDK-2017+BDK-2021+BDK-2029+BDK-2033+BDK-2037+BDK-2041+BDK-2045",
         "area": "Bulevar Deck"
@@ -1934,7 +2027,8 @@
         "logoLocal": "/backpack/Colloky.jpg",
         "piso": "1",
         "geo": [
-            "A-113+A-117"
+            "A-113",
+            "A-117"
         ],
         "geoTemp": "A-113+A-117",
         "area": "Pasillo 4"
@@ -1954,7 +2048,9 @@
         "logoLocal": "/backpack/Converse.jpg",
         "piso": "3",
         "geo": [
-            "A-341+A-345+A-349"
+            "A-341",
+            "A-345",
+            "A-349"
         ],
         "geoTemp": "A-341+A-345+A-349",
         "area": "Pasillo 10"
@@ -1976,7 +2072,8 @@
         "logoLocal": "/backpack/coppelia.jpg",
         "piso": "1",
         "geo": [
-            "D-149+D-153a"
+            "D-149",
+            "D-153a"
         ],
         "geoTemp": "D-149+D-153a",
         "area": "Pasillo 3"
@@ -2021,7 +2118,8 @@
         "logoLocal": "/backpack/Cory.jpg",
         "piso": "2",
         "geo": [
-            "D-202+D-206"
+            "D-202",
+            "D-206"
         ],
         "geoTemp": "D-202+D-206",
         "area": "Pasillo 6"
@@ -2043,7 +2141,8 @@
         "logoLocal": "/backpack/costanera.jpg",
         "piso": "1",
         "geo": [
-            "BT-133+BT-135"
+            "BT-133",
+            "BT-135"
         ],
         "geoTemp": "BT-133+BT-135",
         "area": "Bulevard Tottus"
@@ -2069,7 +2168,8 @@
         "logoLocal": "/backpack/Cotys.jpg",
         "piso": "1",
         "geo": [
-            "A-125+A-121"
+            "A-125",
+            "A-121"
         ],
         "geoTemp": "A-125+A-121",
         "area": "Pasillo 4"
@@ -2088,7 +2188,16 @@
         "logoLocal": "/backpack/cpech.jpg",
         "piso": "1",
         "geo": [
-            "BMCD-2049a+BMCD-2053a+BMCD-2057a+BMCD-2061a+BMCD-2000+BMCD-2004+BMCD-2008+BMCD-2012+BMCD-2016+BMCD-2020"
+            "BMCD-2049a",
+            "BMCD-2053a",
+            "BMCD-2057a",
+            "BMCD-2061a",
+            "BMCD-2000",
+            "BMCD-2004",
+            "BMCD-2008",
+            "BMCD-2012",
+            "BMCD-2016",
+            "BMCD-2020"
         ],
         "geoTemp": "BMCD-2049a+BMCD-2053a+BMCD-2057a+BMCD-2061a+BMCD-2000+BMCD-2004+BMCD-2008+BMCD-2012+BMCD-2016+BMCD-2020",
         "area": "Bulevar de Servicios - Exterior"
@@ -2108,7 +2217,18 @@
         "logoLocal": "/backpack/credichile.jpg",
         "piso": "1",
         "geo": [
-            "BT-151+BT-152+BT-153+BT-154+BT-155+BT-156+BT-157+BT-158+BT-159+BT-160+BT-161+BT-162"
+            "BT-151",
+            "BT-152",
+            "BT-153",
+            "BT-154",
+            "BT-155",
+            "BT-156",
+            "BT-157",
+            "BT-158",
+            "BT-159",
+            "BT-160",
+            "BT-161",
+            "BT-162"
         ],
         "geoTemp": "BT-151+BT-152+BT-153+BT-154+BT-155+BT-156+BT-157+BT-158+BT-159+BT-160+BT-161+BT-162",
         "area": "Bulevar Tottus - Exterior"
@@ -2130,7 +2250,8 @@
         "logoLocal": "/backpack/crocs.jpg",
         "piso": "3",
         "geo": [
-            "A-365+A-369"
+            "A-365",
+            "A-369"
         ],
         "geoTemp": "A-365+A-369",
         "area": "Pasillo Paris"
@@ -2156,7 +2277,9 @@
         "logoLocal": "/backpack/DBS.jpg",
         "piso": "1",
         "geo": [
-            "D-153b+D-157+D-161"
+            "D-153b",
+            "D-157",
+            "D-161"
         ],
         "geoTemp": "D-153b+D-157+D-161",
         "area": "Pasillo Aires"
@@ -2261,7 +2384,8 @@
         "logoLocal": "/backpack/Detogni.jpg",
         "piso": "2",
         "geo": [
-            "A-230+A-234a"
+            "A-230",
+            "A-234a"
         ],
         "geoTemp": "A-230+A-234a",
         "area": "Pasillo 7"
@@ -2287,7 +2411,9 @@
         "logoLocal": "/backpack/decoramas.jpg",
         "piso": "3",
         "geo": [
-            "D-329+D-333+D-337"
+            "D-329",
+            "D-333",
+            "D-337"
         ],
         "geoTemp": "D-329+D-333+D-337",
         "area": "Pasillo 9"
@@ -2327,7 +2453,9 @@
         "logoLocal": "/backpack/dercoseminuevos.jpg",
         "piso": "1",
         "geo": [
-            "AP-172+AP-176+AP-180"
+            "AP-172",
+            "AP-176",
+            "AP-180"
         ],
         "geoTemp": "AP-172+AP-176+AP-180",
         "area": "Locales Autoplaza - Exterior"
@@ -2412,7 +2540,8 @@
         "logoLocal": "/backpack/disworld.jpg",
         "piso": "1",
         "geo": [
-            "D-134+D-138"
+            "D-134",
+            "D-138"
         ],
         "geoTemp": "D-134+D-138",
         "area": "Pasillo 3"
@@ -2438,7 +2567,8 @@
         "logoLocal": "/backpack/Dockers.jpg",
         "piso": "1",
         "geo": [
-            "C-129+C-133"
+            "C-129",
+            "C-133"
         ],
         "geoTemp": "C-129+C-133",
         "area": "Pasillo 2"
@@ -2458,7 +2588,8 @@
         "logoLocal": "/backpack/Doggis.jpg",
         "piso": "3",
         "geo": [
-            "B-330+B-326"
+            "B-330",
+            "B-326"
         ],
         "geoTemp": "B-330+B-326",
         "area": "Food Court"
@@ -2483,7 +2614,8 @@
         "logoLocal": "/backpack/doiteh.jpg",
         "piso": "2",
         "geo": [
-            "BA-201+BA-205"
+            "BA-201",
+            "BA-205"
         ],
         "geoTemp": "BA-201+BA-205",
         "area": "null"
@@ -2504,7 +2636,8 @@
         "logoLocal": "/backpack/domino.jpg",
         "piso": "3",
         "geo": [
-            "B-301+B-305"
+            "B-301",
+            "B-305"
         ],
         "geoTemp": "B-301+B-305",
         "area": "Food Court"
@@ -2576,7 +2709,7 @@
     {
         "nombre": "Econóptica",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Ray-Ban",
@@ -2596,7 +2729,8 @@
         "logoLocal": "/backpack/Econopticas.jpg",
         "piso": "2",
         "geo": [
-            "D-217b+D-221"
+            "D-217b",
+            "D-221"
         ],
         "geoTemp": "D-217b+D-221",
         "area": "Pasillo 6"
@@ -2665,7 +2799,8 @@
         "logoLocal": "/backpack/entelpcs.jpg",
         "piso": "2",
         "geo": [
-            "BDK-2057+BDK-2061"
+            "BDK-2057",
+            "BDK-2061"
         ],
         "geoTemp": "BDK-2057+BDK-2061",
         "area": "Bulevar Deck"
@@ -2699,8 +2834,7 @@
     {
         "nombre": "Equivalenza",
         "rubro": [
-            "Módulos",
-            "Óptica y Perfumería"
+            "Perfumería y Belleza"
         ],
         "productos": [
             "perfumes",
@@ -2825,7 +2959,11 @@
         "logoLocal": "/backpack/farmaciaahumadaext.jpg",
         "piso": "2",
         "geo": [
-            "A-270+A-274+A-278+A-282+A-286b"
+            "A-270",
+            "A-274",
+            "A-278",
+            "A-282",
+            "A-286b"
         ],
         "geoTemp": "A-270+A-274+A-278+A-282+A-286b",
         "area": "Pasillo Paris"
@@ -2845,7 +2983,14 @@
         "logoLocal": "/backpack/farmaciacruzverde.jpg",
         "piso": "1",
         "geo": [
-            "BT-165+BT-166+BT-167+BT-168+BT-169+BT-170+BT-172+BT-174"
+            "BT-165",
+            "BT-166",
+            "BT-167",
+            "BT-168",
+            "BT-169",
+            "BT-170",
+            "BT-172",
+            "BT-174"
         ],
         "geoTemp": "BT-165+BT-166+BT-167+BT-168+BT-169+BT-170+BT-172+BT-174",
         "area": "Bulevar Tottus - Exterior"
@@ -2865,7 +3010,12 @@
         "logoLocal": "/backpack/salco.jpg",
         "piso": "2",
         "geo": [
-            "C-257+C-261+BDK-2042a+BDK-2042b+BDK-2044a+BDK-2044b"
+            "C-257",
+            "C-261",
+            "BDK-2042a",
+            "BDK-2042b",
+            "BDK-2044a",
+            "BDK-2044b"
         ],
         "geoTemp": "C-257+C-261+BDK-2042a+BDK-2042b+BDK-2044a+BDK-2044b",
         "area": "Pasillo 5"
@@ -2892,7 +3042,11 @@
         "logoLocal": "/backpack/Fashionspark.jpg",
         "piso": "1",
         "geo": [
-            "A-154+A-158+A-162a+A-162b+F-103"
+            "A-154",
+            "A-158",
+            "A-162a",
+            "A-162b",
+            "F-103"
         ],
         "geoTemp": "A-154+A-158+A-162a+A-162b+F-103",
         "area": "Pasillo 4"
@@ -2920,7 +3074,9 @@
         "logoLocal": "/backpack/Ferouch.jpg",
         "piso": "2",
         "geo": [
-            "C-202+C-206+C-210"
+            "C-202",
+            "C-206",
+            "C-210"
         ],
         "geoTemp": "C-202+C-206+C-210",
         "area": "Pasillo 5"
@@ -2941,7 +3097,8 @@
         "logoLocal": "/backpack/ferracini.jpg",
         "piso": "2",
         "geo": [
-            "D-226+D-230"
+            "D-226",
+            "D-230"
         ],
         "geoTemp": "D-226+D-230",
         "area": "Pasillo 6"
@@ -2964,7 +3121,8 @@
         "logoLocal": "/backpack/Ferripaldi.jpg",
         "piso": "1",
         "geo": [
-            "AP-176+AP-177"
+            "AP-176",
+            "AP-177"
         ],
         "geoTemp": "AP-176+AP-177",
         "area": "Locales Autoplaza - Exterior"
@@ -3009,7 +3167,7 @@
             "AP-103"
         ],
         "geoTemp": "AP-103",
-        "area": "Locales Autoplaza"
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Ficcus",
@@ -3033,7 +3191,8 @@
         "logoLocal": "/backpack/FICCUS.jpg",
         "piso": "2",
         "geo": [
-            "C-238+C-242"
+            "C-238",
+            "C-242"
         ],
         "geoTemp": "C-238+C-242",
         "area": "Pasillo 5"
@@ -3053,7 +3212,8 @@
         "logoLocal": "/backpack/Flores.jpg",
         "piso": "1",
         "geo": [
-            "D-126+D-130"
+            "D-126",
+            "D-130"
         ],
         "geoTemp": "D-126+D-130",
         "area": "Pasillo 3"
@@ -3075,10 +3235,11 @@
         "logoLocal": "/backpack/Ford.jpg",
         "piso": "1",
         "geo": [
-            "AP-124+AP-125"
+            "AP-124",
+            "AP-125"
         ],
         "geoTemp": "AP-124+AP-125",
-        "area": "Locales Autoplaza"
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Forever 21",
@@ -3097,7 +3258,13 @@
         "logoLocal": "/backpack/forever-21-logo.jpg",
         "piso": "1",
         "geo": [
-            "BA-148+BA-152+BA-238+BA-242+BA-246+BA-248+TM-104"
+            "BA-148",
+            "BA-152",
+            "BA-238",
+            "BA-242",
+            "BA-246",
+            "BA-248",
+            "TM-104"
         ],
         "geoTemp": "BA-148+BA-152+BA-238+BA-242+BA-246+BA-248+TM-104",
         "area": "Aires"
@@ -3122,7 +3289,7 @@
             "AP-129"
         ],
         "geoTemp": "AP-129",
-        "area": "Locales Autoplaza"
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Forum Serv. Financieros",
@@ -3141,7 +3308,7 @@
             "AP-152"
         ],
         "geoTemp": "AP-152",
-        "area": "Locales Autoplaza"
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Foster",
@@ -3168,7 +3335,10 @@
         "logoLocal": "/backpack/foster.jpg",
         "piso": "3",
         "geo": [
-            "C-300+C-306+C-310+C-314"
+            "C-300",
+            "C-306",
+            "C-310",
+            "C-314"
         ],
         "geoTemp": "C-300+C-306+C-310+C-314",
         "area": "Pasillo 8"
@@ -3188,7 +3358,8 @@
         "logoLocal": "/backpack/Fritz.jpg",
         "piso": "3",
         "geo": [
-            "B-302+B-306"
+            "B-302",
+            "B-306"
         ],
         "geoTemp": "B-302+B-306",
         "area": "Food Court"
@@ -3216,7 +3387,8 @@
         "logoLocal": "/backpack/Funsport.jpg",
         "piso": "1",
         "geo": [
-            "A-153+A-157"
+            "A-153",
+            "A-157"
         ],
         "geoTemp": "A-153+A-157",
         "area": "Pasillo 4"
@@ -3243,7 +3415,8 @@
         "logoLocal": "/backpack/GSMChile.jpg",
         "piso": "3",
         "geo": [
-            "C-378+C-382"
+            "C-378",
+            "C-382"
         ],
         "geoTemp": "C-378+C-382",
         "area": "Pasillo 9"
@@ -3266,7 +3439,8 @@
         "logoLocal": "/backpack/Gacel.jpg",
         "piso": "2",
         "geo": [
-            "A-246+A-250"
+            "A-246",
+            "A-250"
         ],
         "geoTemp": "A-246+A-250",
         "area": "Pasillo 7"
@@ -3311,7 +3485,10 @@
         "logoLocal": "/backpack/gimnasioenergy.jpg",
         "piso": "2",
         "geo": [
-            "F-105+F-106+F-107+F-108"
+            "F-105",
+            "F-106",
+            "F-107",
+            "F-108"
         ],
         "geoTemp": "F-105+F-106+F-107+F-108",
         "area": "Exterior - detrás de Ripley"
@@ -3358,7 +3535,9 @@
         "logoLocal": "/backpack/glamco.jpg",
         "piso": "2",
         "geo": [
-            "D-269+D-265+D-261"
+            "D-269",
+            "D-265",
+            "D-261"
         ],
         "geoTemp": "D-269+D-265+D-261",
         "area": "Pasillo Ripley"
@@ -3396,10 +3575,11 @@
         "logoLocal": "/backpack/greatwall.jpg",
         "piso": "1",
         "geo": [
-            "AP-109+AP-115"
+            "AP-109",
+            "AP-115"
         ],
         "geoTemp": "AP-109+AP-115",
-        "area": "Locales Autoplaza"
+        "area": "Locales Autoplaza - Exterior"
     },
     {
         "nombre": "Green Bull",
@@ -3419,7 +3599,7 @@
             "T-105"
         ],
         "geoTemp": "T-105",
-        "area": "Terrazas"
+        "area": "Terrazas "
     },
     {
         "nombre": "Grido",
@@ -3436,10 +3616,11 @@
         "logoLocal": "/backpack/grido.jpg",
         "piso": "1",
         "geo": [
-            "BT-126+BT128"
+            "BT-126",
+            "BT128"
         ],
         "geoTemp": "BT-126+BT128",
-        "area": "Bulevar Tottus"
+        "area": "Bulevar Tottus - Exterior"
     },
     {
         "nombre": "Grido 2",
@@ -3480,7 +3661,8 @@
         "logoLocal": "/backpack/guante.jpg",
         "piso": "2",
         "geo": [
-            "A-254+A-258"
+            "A-254",
+            "A-258"
         ],
         "geoTemp": "A-254+A-258",
         "area": "Pasillo 7"
@@ -3520,7 +3702,8 @@
         "logoLocal": "/backpack/head.jpg",
         "piso": "2",
         "geo": [
-            "A-238+A-234b"
+            "A-238",
+            "A-234b"
         ],
         "geoTemp": "A-238+A-234b",
         "area": "Pasillo 7"
@@ -3541,7 +3724,8 @@
         "logoLocal": "/backpack/homecente.JPG",
         "piso": "1",
         "geo": [
-            "HC-200+PC-200"
+            "HC-200",
+            "PC-200"
         ],
         "geoTemp": "HC-200+PC-200",
         "area": "Exterior - Bulevard Tottus"
@@ -3584,7 +3768,13 @@
         "logoLocal": "/backpack/homy.jpg",
         "piso": "1",
         "geo": [
-            "D-109+D-113+D-117+D-241+D-245+HM-104+HM-204"
+            "D-109",
+            "D-113",
+            "D-117",
+            "D-241",
+            "D-245",
+            "HM-104",
+            "HM-204"
         ],
         "geoTemp": "D-109+D-113+D-117+D-241+D-245+HM-104+HM-204",
         "area": "Pasillo Ripley"
@@ -3604,7 +3794,8 @@
         "logoLocal": "/backpack/hondalogo.jpg",
         "piso": "1",
         "geo": [
-            "AP-129+AP-131"
+            "AP-129",
+            "AP-131"
         ],
         "geoTemp": "AP-129+AP-131",
         "area": "AutoPlaza"
@@ -3624,7 +3815,9 @@
         "logoLocal": "/backpack/HushPuppies.jpg",
         "piso": "1",
         "geo": [
-            "B-109+B-113+B-117"
+            "B-109",
+            "B-113",
+            "B-117"
         ],
         "geoTemp": "B-109+B-113+B-117",
         "area": "Pasillo 1"
@@ -3644,7 +3837,8 @@
         "logoLocal": "/backpack/HusPuppiesKids.jpg",
         "piso": "1",
         "geo": [
-            "A-122+A-126"
+            "A-122",
+            "A-126"
         ],
         "geoTemp": "A-122+A-126",
         "area": "Pasillo 4"
@@ -3712,7 +3906,9 @@
         "logoLocal": "/backpack/inside.jpg",
         "piso": "3",
         "geo": [
-            "A-346+A-350+A-354"
+            "A-346",
+            "A-350",
+            "A-354"
         ],
         "geoTemp": "A-346+A-350+A-354",
         "area": "Pasillo 10"
@@ -3731,7 +3927,8 @@
         "logoLocal": "/backpack/integramedica.jpg",
         "piso": "1",
         "geo": [
-            "EM-100+EM-200"
+            "EM-100",
+            "EM-200"
         ],
         "geoTemp": "EM-100+EM-200",
         "area": "Aires"
@@ -3758,7 +3955,9 @@
         "logoLocal": "/backpack/Intersalon.jpg",
         "piso": "1",
         "geo": [
-            "D-150+D-154+D-146b"
+            "D-150",
+            "D-154",
+            "D-146b"
         ],
         "geoTemp": "D-150+D-154+D-146b",
         "area": "Pasillo 3"
@@ -3778,7 +3977,8 @@
         "logoLocal": "/backpack/Intime.jpg",
         "piso": "2",
         "geo": [
-            "D-249+D-253"
+            "D-249",
+            "D-253"
         ],
         "geoTemp": "D-249+D-253",
         "area": "Pasillo 6"
@@ -3802,7 +4002,8 @@
         "logoLocal": "/backpack/Irol.jpg",
         "piso": "3",
         "geo": [
-            "D-301+D-305"
+            "D-301",
+            "D-305"
         ],
         "geoTemp": "D-301+D-305",
         "area": "Pasillo 9"
@@ -3848,7 +4049,8 @@
         "logoLocal": "/backpack/JJO.jpg",
         "piso": "3",
         "geo": [
-            "C-326+C-330"
+            "C-326",
+            "C-330"
         ],
         "geoTemp": "C-326+C-330",
         "area": "Pasillo 8"
@@ -3912,7 +4114,8 @@
         "logoLocal": "/backpack/KentuchyFriedChicken.jpg",
         "piso": "3",
         "geo": [
-            "B-325+B-329"
+            "B-325",
+            "B-329"
         ],
         "geoTemp": "B-325+B-329",
         "area": "Food Court"
@@ -3978,7 +4181,8 @@
         "logoLocal": "/backpack/KAyser.JPG",
         "piso": "2",
         "geo": [
-            "C-246+C-250"
+            "C-246",
+            "C-250"
         ],
         "geoTemp": "C-246+C-250",
         "area": "Pasillo 5"
@@ -4018,7 +4222,10 @@
         "logoLocal": "/backpack/serviciotecnicokia.jpg",
         "piso": "1",
         "geo": [
-            "AP-187+AP-191+AP-195+AP-199"
+            "AP-187",
+            "AP-191",
+            "AP-195",
+            "AP-199"
         ],
         "geoTemp": "AP-187+AP-191+AP-195+AP-199",
         "area": "Locales Autoplaza"
@@ -4041,7 +4248,8 @@
         "logoLocal": "/backpack/kr.jpg",
         "piso": "2",
         "geo": [
-            "C-221+C-225"
+            "C-221",
+            "C-225"
         ],
         "geoTemp": "C-221+C-225",
         "area": "Pasillo 5"
@@ -4086,7 +4294,8 @@
         "logoLocal": "/backpack/kovacs.jpg",
         "piso": "1",
         "geo": [
-            "AU-108+AU-112"
+            "AU-108",
+            "AU-112"
         ],
         "geoTemp": "AU-108+AU-112",
         "area": "Locales Autoplaza"
@@ -4108,7 +4317,8 @@
         "logoLocal": "/backpack/lapiccolaitalia.jpg",
         "piso": "1",
         "geo": [
-            "T-104+T-103"
+            "T-104",
+            "T-103"
         ],
         "geoTemp": "T-104+T-103",
         "area": "Terrazas"
@@ -4129,7 +4339,9 @@
         "logoLocal": "/backpack/generico_tiendas_listado.jpg",
         "piso": "1",
         "geo": [
-            "BT-107+BT-105+BT-103"
+            "BT-107",
+            "BT-105",
+            "BT-103"
         ],
         "geoTemp": "BT-107+BT-105+BT-103",
         "area": "Bulevar Tottus"
@@ -4204,8 +4416,7 @@
     {
         "nombre": "Le Diatone",
         "rubro": [
-            "Módulos",
-            "Óptica y Perfumería"
+            "Perfumería y Belleza"
         ],
         "productos": [
             "Multimarcas",
@@ -4248,7 +4459,9 @@
         "logoLocal": "/backpack/levis.jpg",
         "piso": "1",
         "geo": [
-            "C-102a+C-106+C-110"
+            "C-102a",
+            "C-106",
+            "C-110"
         ],
         "geoTemp": "C-102a+C-106+C-110",
         "area": "Pasillo 2"
@@ -4269,7 +4482,8 @@
         "logoLocal": "/backpack/LibreriaNacional.jpg",
         "piso": "1",
         "geo": [
-            "C-165+C-161"
+            "C-165",
+            "C-161"
         ],
         "geoTemp": "C-165+C-161",
         "area": "Pasillo 2"
@@ -4292,7 +4506,9 @@
         "logoLocal": "/backpack/antartica.jpg",
         "piso": "2",
         "geo": [
-            "C-285+C-289+BDK-2052"
+            "C-285",
+            "C-289",
+            "BDK-2052"
         ],
         "geoTemp": "C-285+C-289+BDK-2052",
         "area": "Pasillo 5"
@@ -4373,7 +4589,8 @@
         "logoLocal": "/backpack/Blackandblue.jpg",
         "piso": "1",
         "geo": [
-            "A-114+A118"
+            "A-114",
+            "A118"
         ],
         "geoTemp": "A-114+A118",
         "area": "Pasillo 4"
@@ -4394,7 +4611,11 @@
         "logoLocal": "/backpack/llantasdelpacifico.jpg",
         "piso": "1",
         "geo": [
-            "ST-159+ST-163+ST-167+ST-171+ST-175"
+            "ST-159",
+            "ST-163",
+            "ST-167",
+            "ST-171",
+            "ST-175"
         ],
         "geoTemp": "ST-159+ST-163+ST-167+ST-171+ST-175",
         "area": "Locales Autoplaza"
@@ -4436,7 +4657,8 @@
         "logoLocal": "/backpack/generico_tiendas_listado.jpg",
         "piso": "1",
         "geo": [
-            "B-126a+B-126b"
+            "B-126a",
+            "B-126b"
         ],
         "geoTemp": "B-126a+B-126b",
         "area": "Pasillo Principal"
@@ -4504,7 +4726,8 @@
         "logoLocal": "/backpack/mallconection.jpg",
         "piso": "3",
         "geo": [
-            "D-342+D-346"
+            "D-342",
+            "D-346"
         ],
         "geoTemp": "D-342+D-346",
         "area": "Pasillo 8"
@@ -4523,7 +4746,8 @@
         "logoLocal": "/backpack/mamut.jpg",
         "piso": "1",
         "geo": [
-            "B-137b+B-141"
+            "B-137b",
+            "B-141"
         ],
         "geoTemp": "B-137b+B-141",
         "area": "Pasillo 1"
@@ -4569,7 +4793,8 @@
         "logoLocal": "/backpack/massageespressspa.jpg",
         "piso": "2",
         "geo": [
-            "BDK-2046a+BDK-2048"
+            "BDK-2046a",
+            "BDK-2048"
         ],
         "geoTemp": "BDK-2046a+BDK-2048",
         "area": "Bulevar Deck"
@@ -4598,7 +4823,8 @@
         "logoLocal": "/backpack/maui.jpg",
         "piso": "1",
         "geo": [
-            "C-113+C-117"
+            "C-113",
+            "C-117"
         ],
         "geoTemp": "C-113+C-117",
         "area": "Pasillo 2"
@@ -4701,7 +4927,8 @@
         "logoLocal": "/backpack/mininas_lo.jpg",
         "piso": "2",
         "geo": [
-            "A-261+A-265"
+            "A-261",
+            "A-265"
         ],
         "geoTemp": "A-261+A-265",
         "area": "Pasillo 4"
@@ -4720,7 +4947,9 @@
         "logoLocal": "/backpack/Mitsubishi.jpg",
         "piso": "1",
         "geo": [
-            "AP-126+AP-127+AP-128"
+            "AP-126",
+            "AP-127",
+            "AP-128"
         ],
         "geoTemp": "AP-126+AP-127+AP-128",
         "area": "Locales Autoplaza"
@@ -4792,7 +5021,8 @@
         "logoLocal": "/backpack/moon.jpg",
         "piso": "3",
         "geo": [
-            "C-326+C-330"
+            "C-326",
+            "C-330"
         ],
         "geoTemp": "C-326+C-330",
         "area": "Pasillo Falabella"
@@ -4817,7 +5047,9 @@
         "logoLocal": "/backpack/mossimo.jpg",
         "piso": "3",
         "geo": [
-            "C-342+C-346+C-350"
+            "C-342",
+            "C-346",
+            "C-350"
         ],
         "geoTemp": "C-342+C-346+C-350",
         "area": "Pasillo 8"
@@ -4837,7 +5069,11 @@
         "logoLocal": "/backpack/movistar.jpg",
         "piso": "2",
         "geo": [
-            "E-207+E-208+E-209+E-210+E-211"
+            "E-207",
+            "E-208",
+            "E-209",
+            "E-210",
+            "E-211"
         ],
         "geoTemp": "E-207+E-208+E-209+E-210+E-211",
         "area": "Bulevar Deck"
@@ -4947,7 +5183,8 @@
         "logoLocal": "/backpack/Neumaton.jpg",
         "piso": "1",
         "geo": [
-            "ST-109+ST-113"
+            "ST-109",
+            "ST-113"
         ],
         "geoTemp": "ST-109+ST-113",
         "area": "Autoplaza"
@@ -4970,7 +5207,8 @@
         "logoLocal": "/backpack/NewBalance.jpg",
         "piso": "2",
         "geo": [
-            "B-205+B-209"
+            "B-205",
+            "B-209"
         ],
         "geoTemp": "B-205+B-209",
         "area": "ex- pasillo Johnsons"
@@ -5015,7 +5253,14 @@
         "logoLocal": "/backpack/Nextel.jpg",
         "piso": "1",
         "geo": [
-            "BT-109+BT-110+BT-111+BT-112+BT-113+BT-114+BT-115+BT-116"
+            "BT-109",
+            "BT-110",
+            "BT-111",
+            "BT-112",
+            "BT-113",
+            "BT-114",
+            "BT-115",
+            "BT-116"
         ],
         "geoTemp": "BT-109+BT-110+BT-111+BT-112+BT-113+BT-114+BT-115+BT-116",
         "area": "Bulevar Tottus"
@@ -5036,7 +5281,9 @@
         "logoLocal": "/backpack/Nike.jpg",
         "piso": "2",
         "geo": [
-            "D-317+D-321+D-325"
+            "D-317",
+            "D-321",
+            "D-325"
         ],
         "geoTemp": "D-317+D-321+D-325",
         "area": "Pasillo 10"
@@ -5055,7 +5302,9 @@
         "logoLocal": "/backpack/Nissan.jpg",
         "piso": "1",
         "geo": [
-            "AP-120+AP-121+A-123"
+            "AP-120",
+            "AP-121",
+            "A-123"
         ],
         "geoTemp": "AP-120+AP-121+A-123",
         "area": "Locales Autoplaza"
@@ -5114,7 +5363,8 @@
         "logoLocal": "/backpack/olidata_lo.jpg",
         "piso": "3",
         "geo": [
-            "C-345+C-349"
+            "C-345",
+            "C-349"
         ],
         "geoTemp": "C-345+C-349",
         "area": "Pasillo Falabella"
@@ -5157,7 +5407,8 @@
         "logoLocal": "/backpack/Opaline.jpg",
         "piso": "3",
         "geo": [
-            "C-321+C-337"
+            "C-321",
+            "C-337"
         ],
         "geoTemp": "C-321+C-337",
         "area": "Pasillo 8"
@@ -5165,7 +5416,7 @@
     {
         "nombre": "Opticas GMO",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Ray-Ban",
@@ -5184,7 +5435,8 @@
         "logoLocal": "/backpack/opticasgmo.jpg",
         "piso": "1",
         "geo": [
-            "C-137+C-141"
+            "C-137",
+            "C-141"
         ],
         "geoTemp": "C-137+C-141",
         "area": "Pasillo 2"
@@ -5192,7 +5444,7 @@
     {
         "nombre": "Opticas Place Vendome",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Jack",
@@ -5219,7 +5471,7 @@
     {
         "nombre": "Opticas Rotter & Krauss",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Rotter & Krauss",
@@ -5234,7 +5486,8 @@
         "logoLocal": "/backpack/opticasrotterkrauss.jpg",
         "piso": "1",
         "geo": [
-            "D-133+D-137"
+            "D-133",
+            "D-137"
         ],
         "geoTemp": "D-133+D-137",
         "area": "Pasillo 3"
@@ -5242,7 +5495,7 @@
     {
         "nombre": "Opticas Schilling",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Schilling",
@@ -5278,7 +5531,9 @@
         "logoLocal": "/backpack/PcFactory.jpg",
         "piso": "3",
         "geo": [
-            "D-330+D-334+D-338"
+            "D-330",
+            "D-334",
+            "D-338"
         ],
         "geoTemp": "D-330+D-334+D-338",
         "area": "Pasillo 9"
@@ -5323,7 +5578,7 @@
             "BSD-1040"
         ],
         "geoTemp": "BSD-1040",
-        "area": "Bulevar DuocUC"
+        "area": "Bulevar DuocUC - Exterior"
     },
     {
         "nombre": "Paris",
@@ -5367,7 +5622,8 @@
         "logoLocal": "/backpack/Patuelli.jpg",
         "piso": "2",
         "geo": [
-            "D-234+D-238"
+            "D-234",
+            "D-238"
         ],
         "geoTemp": "D-234+D-238",
         "area": "Pasillo 6"
@@ -5416,7 +5672,7 @@
     {
         "nombre": "Perfúmame",
         "rubro": [
-            "Óptica y Perfumería"
+            "Óptica"
         ],
         "productos": [
             "Miles de Marcas",
@@ -5469,7 +5725,8 @@
         "logoLocal": "/backpack/pillin.JPG",
         "piso": "2",
         "geo": [
-            "C-269+C-273"
+            "C-269",
+            "C-273"
         ],
         "geoTemp": "C-269+C-273",
         "area": "Pasillo 5"
@@ -5516,7 +5773,8 @@
         "logoLocal": "/backpack/pizzahut.jpg",
         "piso": "3",
         "geo": [
-            "B-317+B-321"
+            "B-317",
+            "B-321"
         ],
         "geoTemp": "B-317+B-321",
         "area": "Food Court"
@@ -5583,7 +5841,9 @@
         "logoLocal": "/backpack/pollini.jpg",
         "piso": "2",
         "geo": [
-            "A-206+A-210+A-214a"
+            "A-206",
+            "A-210",
+            "A-214a"
         ],
         "geoTemp": "A-206+A-210+A-214a",
         "area": "Pasillo 7"
@@ -5606,7 +5866,8 @@
         "logoLocal": "/backpack/pollo_stop.jpg",
         "piso": "3",
         "geo": [
-            "B-314+B-320"
+            "B-314",
+            "B-320"
         ],
         "geoTemp": "B-314+B-320",
         "area": "Food Court"
@@ -5625,7 +5886,11 @@
         "logoLocal": "/backpack/Pompeyocarrasco.jpg",
         "piso": "1",
         "geo": [
-            "AP-109b+AP-109c+AP-111b+AP-113+AP-114"
+            "AP-109b",
+            "AP-109c",
+            "AP-111b",
+            "AP-113",
+            "AP-114"
         ],
         "geoTemp": "AP-109b+AP-109c+AP-111b+AP-113+AP-114",
         "area": "Locales Autoplaza"
@@ -5649,7 +5914,8 @@
         "logoLocal": "/backpack/Potros.jpg",
         "piso": "1",
         "geo": [
-            "C-150+C-154a"
+            "C-150",
+            "C-154a"
         ],
         "geoTemp": "C-150+C-154a",
         "area": "Pasillo 2"
@@ -5704,7 +5970,9 @@
         "logoLocal": "/backpack/preunic.jpg",
         "piso": "1",
         "geo": [
-            "D-158+D-162+D-166"
+            "D-158",
+            "D-162",
+            "D-166"
         ],
         "geoTemp": "D-158+D-162+D-166",
         "area": "Pasillo 3"
@@ -5724,7 +5992,9 @@
         "logoLocal": "/backpack/Privilege.jpg",
         "piso": "1",
         "geo": [
-            "BA-108+BA-112+BA-116"
+            "BA-108",
+            "BA-112",
+            "BA-116"
         ],
         "geoTemp": "BA-108+BA-112+BA-116",
         "area": "Aires"
@@ -5747,7 +6017,10 @@
         "logoLocal": "/backpack/puma.jpg",
         "piso": "2",
         "geo": [
-            "D-210+D-214+D-218+D-222"
+            "D-210",
+            "D-214",
+            "D-218",
+            "D-222"
         ],
         "geoTemp": "D-210+D-214+D-218+D-222",
         "area": "Pasillo 6"
@@ -5766,7 +6039,8 @@
         "logoLocal": "/backpack/puntosalud.jpg",
         "piso": "1",
         "geo": [
-            "BT-138+BT-140"
+            "BT-138",
+            "BT-140"
         ],
         "geoTemp": "BT-138+BT-140",
         "area": "Bulevar Tottus"
@@ -5785,7 +6059,8 @@
         "logoLocal": "/backpack/kicks.jpg",
         "piso": "3",
         "geo": [
-            "A-353+A-357"
+            "A-353",
+            "A-357"
         ],
         "geoTemp": "A-353+A-357",
         "area": "Pasillo 10"
@@ -5835,7 +6110,8 @@
         "logoLocal": "/backpack/ReifschbeiderStore.jpg",
         "piso": "1",
         "geo": [
-            "D-106+D-110"
+            "D-106",
+            "D-110"
         ],
         "geoTemp": "D-106+D-110",
         "area": "Pasillo 3"
@@ -5866,7 +6142,11 @@
         "logoLocal": "/backpack/Ripcurl.jpg",
         "piso": "3",
         "geo": [
-            "A-300+A-302+A-306+A-310+A-314"
+            "A-300",
+            "A-302",
+            "A-306",
+            "A-310",
+            "A-314"
         ],
         "geoTemp": "A-300+A-302+A-306+A-310+A-314",
         "area": "Pasillo 10"
@@ -5916,7 +6196,8 @@
         "logoLocal": "/backpack/Rockford.jpg",
         "piso": "1",
         "geo": [
-            "D-101+D-105"
+            "D-101",
+            "D-105"
         ],
         "geoTemp": "D-101+D-105",
         "area": "Pasillo 3"
@@ -6022,7 +6303,8 @@
         "logoLocal": "/backpack/saxoline.jpg",
         "piso": "1",
         "geo": [
-            "B-121+B-125"
+            "B-121",
+            "B-125"
         ],
         "geoTemp": "B-121+B-125",
         "area": "Pasillo 1"
@@ -6044,7 +6326,8 @@
         "logoLocal": "/backpack/scarladeporte.jpg",
         "piso": "3",
         "geo": [
-            "D-309+D-313"
+            "D-309",
+            "D-313"
         ],
         "geoTemp": "D-309+D-313",
         "area": "Pasillo 9"
@@ -6124,7 +6407,8 @@
         "logoLocal": "/backpack/Servipag.jpg",
         "piso": "1",
         "geo": [
-            "BT-139+BT-137"
+            "BT-139",
+            "BT-137"
         ],
         "geoTemp": "BT-139+BT-137",
         "area": "Bulevar Tottus"
@@ -6168,7 +6452,8 @@
         "logoLocal": "/backpack/Shoesandpiel.jpg",
         "piso": "1",
         "geo": [
-            "B-129+B-133"
+            "B-129",
+            "B-133"
         ],
         "geoTemp": "B-129+B-133",
         "area": "Pasillo 1"
@@ -6195,7 +6480,9 @@
         "logoLocal": "/backpack/sckechers.jpg",
         "piso": "3",
         "geo": [
-            "D-302+D-306+D-310"
+            "D-302",
+            "D-306",
+            "D-310"
         ],
         "geoTemp": "D-302+D-306+D-310",
         "area": "Pasillo 9"
@@ -6267,7 +6554,11 @@
         "logoLocal": "/backpack/spartadeportes.jpg",
         "piso": "3",
         "geo": [
-            "D-342b+D-346b+D-350+D-354+D-360"
+            "D-342b",
+            "D-346b",
+            "D-350",
+            "D-354",
+            "D-360"
         ],
         "geoTemp": "D-342b+D-346b+D-350+D-354+D-360",
         "area": "Pasillo 9"
@@ -6312,7 +6603,9 @@
         "logoLocal": "/backpack/sushi_house_ch.jpg",
         "piso": "1",
         "geo": [
-            "T-118+T-122+T-124"
+            "T-118",
+            "T-122",
+            "T-124"
         ],
         "geoTemp": "T-118+T-122+T-124",
         "area": "Terrazas"
@@ -6330,7 +6623,10 @@
         "logoLocal": "/backpack/the_republic_of_beauty.jpg",
         "piso": "1",
         "geo": [
-            " A-100a+A-100b+A-104a+A-104b"
+            " A-100a",
+            "A-100b",
+            "A-104a",
+            "A-104b"
         ],
         "geoTemp": " A-100a+A-100b+A-104a+A-104b",
         "area": "PASILLO 1"
@@ -6402,7 +6698,12 @@
         "logoLocal": "/backpack/tanta.jpg",
         "piso": "1",
         "geo": [
-            "T-136+T-140+T-144+T-148+MP-166+MP-170"
+            "T-136",
+            "T-140",
+            "T-144",
+            "T-148",
+            "MP-166",
+            "MP-170"
         ],
         "geoTemp": "T-136+T-140+T-144+T-148+MP-166+MP-170",
         "area": "Aires"
@@ -6465,7 +6766,10 @@
         "logoLocal": "/backpack/Teletrak.jpg",
         "piso": "2",
         "geo": [
-            "BDK-2085+BDK-2089+BDK-2093+BDK-2097"
+            "BDK-2085",
+            "BDK-2089",
+            "BDK-2093",
+            "BDK-2097"
         ],
         "geoTemp": "BDK-2085+BDK-2089+BDK-2093+BDK-2097",
         "area": "Bulevar Deck"
@@ -6508,7 +6812,8 @@
         "logoLocal": "/backpack/Todopiel.jpg",
         "piso": "2",
         "geo": [
-            "D-233+D-237"
+            "D-233",
+            "D-237"
         ],
         "geoTemp": "D-233+D-237",
         "area": "Pasillo 6"
@@ -6551,7 +6856,7 @@
             "H-200"
         ],
         "geoTemp": "H-200",
-        "area": "null"
+        "area": "Exterior"
     },
     {
         "nombre": "Toy Planet",
@@ -6576,7 +6881,8 @@
         "logoLocal": "/backpack/toyplanet.jpg",
         "piso": "3",
         "geo": [
-            "C-362+C-366"
+            "C-362",
+            "C-366"
         ],
         "geoTemp": "C-362+C-366",
         "area": "Pasillo 8"
@@ -6621,7 +6927,9 @@
         "logoLocal": "/backpack/Trial.jpg",
         "piso": "1",
         "geo": [
-            "C-329+C-333+C-337"
+            "C-329",
+            "C-333",
+            "C-337"
         ],
         "geoTemp": "C-329+C-333+C-337",
         "area": "Pasillo 4"
@@ -6662,7 +6970,9 @@
         "logoLocal": "/backpack/ufo.jpg",
         "piso": "3",
         "geo": [
-            "C-329+C-333+C-337"
+            "C-329",
+            "C-333",
+            "C-337"
         ],
         "geoTemp": "C-329+C-333+C-337",
         "area": "Pasillo Falabella"
@@ -6741,10 +7051,15 @@
         "logoLocal": "/backpack/vitamina.jpg",
         "piso": "2",
         "geo": [
-            "BMCD-1020+BMCD-1024+BMCD-1028+BMCD-1032+BMCD-1049+BMCD-1053"
+            "BMCD-1020",
+            "BMCD-1024",
+            "BMCD-1028",
+            "BMCD-1032",
+            "BMCD-1049",
+            "BMCD-1053"
         ],
         "geoTemp": "BMCD-1020+BMCD-1024+BMCD-1028+BMCD-1032+BMCD-1049+BMCD-1053",
-        "area": "Bulevar McDonald's"
+        "area": "Bulevar McDonald's- Exterior"
     },
     {
         "nombre": "Volkswagen",
@@ -6760,7 +7075,8 @@
         "logoLocal": "/backpack/volkswagen.jpg",
         "piso": "1",
         "geo": [
-            "AP-124+AP-125"
+            "AP-124",
+            "AP-125"
         ],
         "geoTemp": "AP-124+AP-125",
         "area": "Locales Autoplaza"
@@ -6807,7 +7123,9 @@
         "logoLocal": "/backpack/Wados.jpg",
         "piso": "1",
         "geo": [
-            "A-101+A-105+A-109"
+            "A-101",
+            "A-105",
+            "A-109"
         ],
         "geoTemp": "A-101+A-105+A-109",
         "area": "Pasillo 4"
@@ -6829,7 +7147,8 @@
         "logoLocal": "/backpack/weloveshoes.jpg",
         "piso": "1",
         "geo": [
-            "A-130+A-134"
+            "A-130",
+            "A-134"
         ],
         "geoTemp": "A-130+A-134",
         "area": "Pasillo 4"
@@ -6876,7 +7195,8 @@
         "logoLocal": "/backpack/xtremesaxoline.jpg",
         "piso": "3",
         "geo": [
-            "A-313+A-317"
+            "A-313",
+            "A-317"
         ],
         "geoTemp": "A-313+A-317",
         "area": "Pasillo 10"
@@ -6937,7 +7257,9 @@
         "logoLocal": "/backpack/youserv2.jpg",
         "piso": "3",
         "geo": [
-            "C-377+C-381+C-385"
+            "C-377",
+            "C-381",
+            "C-385"
         ],
         "geoTemp": "C-377+C-381+C-385",
         "area": "Pasillo Falabella"
