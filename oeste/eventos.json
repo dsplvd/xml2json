@@ -1,9 +1,30 @@
 [
     {
+<<<<<<< HEAD
         "titulo": "¡No te pierdas Expo Emprendimientos 2014!",
         "descripcion": "<div style=\"text-align: justify;\">Ven a descubrir emprendimientos que se convirtieron en fuentes de trabajo en Mall Plaza Oeste   </div>",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/2queestapasando/cerrillos_detalle.jpg",
         "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/cerrillos_detalle.jpg"
+=======
+        "titulo": "¡Lo mejor del Jazz y la cultura está en Mall Plaza!",
+        "descripcion": "<p>Porque <strong>la cultura nos mueve</strong>, te invitamos a disfrutar de un atractivo y único <strong>ciclo de jazz en Mall Plaza Egaña. </strong></p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanacultura/jazz_cultura_detalle.jpg"
+    },
+    {
+        "titulo": "¡Nos sumamos a la Hora del Planeta!",
+        "descripcion": "<p style=\"text-align: justify;\">Desde las <strong>20:30 horas apagaremos</strong> las luces no escenciales de nuestros malls para contribuir a esta causa.</p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/campanas/cultura_detalle.jpg"
+    },
+    {
+        "titulo": "¡Ven a conocer la nueva tienda de Everlast en Aires!",
+        "descripcion": "<p>Disfruta de sus nuevas colecciones para esta temporada en <strong>Mall Plaza Oeste</strong>.</p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/everlast_mpoeste_detalle.jpg"
+    },
+    {
+        "titulo": "¡Súmate a la Causa de Mall Plaza!",
+        "descripcion": "<div>Cambia tu <strong>bolsa de compra</strong> por una <strong>reutilizable</strong>, úsala una y otra vez, y así ayudarás al <strong>medio ambiente</strong>.   </div>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/causaegana/causa_egana_stgo_detalle.jpg"
+>>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
     },
     {
         "titulo": "¡Iníciate en el Running con Reebok!",
@@ -12,6 +33,7 @@
         "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/rundetalle.png"
     },
     {
+<<<<<<< HEAD
         "titulo": "Revisa el Making Of de #SoyCeroPlastico",
         "descripcion": "<div style=\"text-align: justify;\">Conoce todo lo que pasó tras de cámaras durante el spot de Charly Alberti y María José Bello   </div>",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/2queestapasando/makingof_detalle.jpg",
@@ -40,5 +62,10 @@
         "descripcion": "<div>Mucha gente se está sumando a la causa, ven a tu Mall Plaza más cercano y cambia tu bolsa de plástico por una reutilizable   </div>",
         "imagen": "http://www.mallplaza.cl/images/stories/compartido/cobertura/entrega_detalle.jpg",
         "imagenLocal": "/home/ddmallplaza/mall/backpack/oeste/img/entrega_detalle.jpg"
+=======
+        "titulo": "La Roja sale a la Cancha para cumplir lo que pides",
+        "descripcion": "<p>No te pierdas el <strong>PUMA Tour 2014: A La Roja le Pido</strong> y conoce la<strong> camiseta</strong> que usará la <strong>Selección Chilena</strong>.  </p>",
+        "imagen": "http://www.mallplaza.cl/images/stories/compartido/queestapasando/puma2_tour_detalle.jpg"
+>>>>>>> a5ebe4c9d45e1752f784687715e0dba9803c1112
     }
 ]
